@@ -1,7 +1,9 @@
 Run Evaluation over Test Images
-../../misc/darknet/darknet.exe detector test ./object_biased.data ./yolo-obj.cfg ./weights/biased.weights -dont_show -ext_output -save_labels -out result.json < data/train_test.txt 
+../../misc/darknet/darknet.exe detector test ./object_biased.data ./yolo-obj.cfg ./weights/biased.weights -dont_show -ext_output -save_labels -out test_biased_predictions.json < data/train_test.txt 
+../../misc/darknet/darknet.exe detector test ./object_debiased.data ./yolo-obj.cfg ./weights/debiased.weights -dont_show -ext_output -save_labels -out test_debiased_predictions.json < data/train_test.txt 
+../../misc/darknet/darknet.exe detector test ./object_debiased_augmented.data ./yolo-obj.cfg ./weights/debiased_augmented.weights -dont_show -ext_output -save_labels -out test_debiased_augmented_predictions.json < data/train_test.txt 
 
 Train Model on datasets
-../../misc/darknet/darknet.exe detector train ./object_biased.data ./yolo-obj.cfg ./weights/initial.weights -dont_show -map -ext_output -save_labels -out result.json 
-../../misc/darknet/darknet.exe detector train ./object_debiased.data ./yolo-obj.cfg ./weights/initial.weights -dont_show -map -ext_output -save_labels -out result.json 
-../../misc/darknet/darknet.exe detector train ./object_debiased_augmented.data ./yolo-obj.cfg ./weights/initial.weights -dont_show -map -ext_output -save_labels -out result.json 
+../../misc/darknet/darknet.exe detector train ./object_biased.data ./yolo-obj.cfg ./weights/initial.weights -dont_show -map -ext_output -save_labels -out train_biased_predictions.json 
+../../misc/darknet/darknet.exe detector train ./object_debiased.data ./yolo-obj.cfg ./weights/initial.weights -dont_show -map -ext_output -save_labels -out train_debiased_predictions.json 
+../../misc/darknet/darknet.exe detector train ./object_debiased_augmented.data ./yolo-obj.cfg ./weights/initial.weights -dont_show -map -ext_output -save_labels -out train_debiased_augmented_predictions.json 

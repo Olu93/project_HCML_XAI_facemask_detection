@@ -17,12 +17,12 @@ from sklearn.model_selection import train_test_split
 # %%
 patterns_img = ["png", "jp*g"]
 patterns_info = ["xml", "json"]
-base_initial_dir = pathlib.Path('./Medical mask/Medical mask/images')
+base_initial_dir = pathlib.Path('./FaceMasks_JSON/images')
 base_custom_dir = pathlib.Path('./faces_only/subset')
-base_info_initial_dir = pathlib.Path('./Medical mask/Medical mask/annotations')
+base_info_initial_dir = pathlib.Path('./FaceMasks_JSON/annotations')
 base_info_custom_dir = pathlib.Path('./faces_only/subset')
 unbiased_dataset = pd.read_csv('./csv_datasets/dataset.csv')
-debiased_dataset = pd.read_csv('./csv_datasets/additional_dataset_2.csv')
+debiased_dataset = pd.read_csv('./csv_datasets/additional_dataset.csv')
 # %%
 base_dirs = [base_initial_dir, base_custom_dir]
 # dataset = pd.concat([unbiased_dataset, debiased_dataset])

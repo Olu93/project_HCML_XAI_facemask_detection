@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # %%
-input_path = pathlib.Path('./PascalVOCFaceMasks')
+input_path = pathlib.Path('./FaceMasks_PascalVOC')
 out_path = input_path / "subset"
 list_xmls = list(input_path.rglob('./**/*.xml'))
 list_pngs = list(input_path.rglob('./**/*.png'))
@@ -49,7 +49,7 @@ flattened_xml_data
 # %%
 data = pd.DataFrame(flattened_xml_data)
 data = data[data.Mask_on != -1]
-data.to_csv("./PascalVOCFaceMasks/pascal_voc_dataset.csv")
+data.to_csv("./FaceMasks_PascalVOC/pascal_voc_dataset.csv")
 data
 # %%
 for category, grp in data.groupby(["Mask_on"]):

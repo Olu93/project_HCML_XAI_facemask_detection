@@ -1,0 +1,4 @@
+In "Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases", the authors show significant associations of stereotypical biases in image datasets such as White-Black and Tool-Weapon. These become an issue if they propagate to subsequent downstream tasks. Hence, we will investigate these stereotypes on a downstream task. Namely, object detection.
+
+We hypothesize that racial, gender or intersectional biases to appear in the form of differences in true-positive rates. The dataset of interest, is the Imagenet dataset. For object detection, we will employ the YOLO model which is commonly used and pretrained on Imagenet.  
+

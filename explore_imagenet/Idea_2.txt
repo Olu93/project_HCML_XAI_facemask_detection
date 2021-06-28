@@ -1,0 +1,19 @@
+
+Pitch: 
+- Replicating the Movie Attention with a focus on protected attributes
+- http://moments.csail.mit.edu/
+- https://gist.github.com/jin-zhe/3a6054e99162bc9277940867f942bba2
+
+Procedure: 
+- Model
+    - Use Pretrained Model
+
+- Data
+    - Datasets
+        - Kinetics - ImageNet for Movies
+        -- How to download guide - https://towardsdatascience.com/downloading-the-kinetics-dataset-for-human-action-recognition-in-deep-learning-500c3d50f776/
+    - Pipeline
+        - Download balanced dataset or take balanced videos from Kinetics Download
+        - Test on accuracy by protected attributes
+        - Show attention focus like in moments
+

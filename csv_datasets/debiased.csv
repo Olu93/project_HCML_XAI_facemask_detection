@@ -1,0 +1,641 @@
+Img,Labelled Round 2,Labelled round 1,Person_num,Mask_on,Race,SkinColor,Sex,Is_Complicated,Remark,key,xmin,ymin,xmax,ymax,info,file
+5961.jpg,,5961.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5961.jpg,110,400,298,583,Medical mask\Medical mask\annotations\5961.jpg.json,Medical mask\Medical mask\images\5961.jpg
+5972.jpg,,5972.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5972.jpg,76,74,183,206,Medical mask\Medical mask\annotations\5972.jpg.json,Medical mask\Medical mask\images\5972.jpg
+5527.jpg,,5527.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5527.jpg,294,53,378,170,Medical mask\Medical mask\annotations\5527.jpg.json,Medical mask\Medical mask\images\5527.jpg
+5303.jpg,,5303.jpg,1.0,0.0,0.0,0.0,0.0,False,changed hispanic,5303.jpg,204,136,665,726,Medical mask\Medical mask\annotations\5303.jpg.json,Medical mask\Medical mask\images\5303.jpg
+5519.jpg,,5519.jpg,1.0,0.0,0.0,1.0,0.0,False,changed hispanic,5519.jpg,293,69,393,191,Medical mask\Medical mask\annotations\5519.jpg.json,Medical mask\Medical mask\images\5519.jpg
+5937.jpg,,5937.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5937.jpg,909,251,1159,538,Medical mask\Medical mask\annotations\5937.jpg.json,Medical mask\Medical mask\images\5937.jpg
+4879.png,,4879.png,1.0,0.0,0.0,0.0,0.0,False,0,4879.png,127,6,415,319,Medical mask\Medical mask\annotations\4879.png.json,Medical mask\Medical mask\images\4879.png
+4870.png,,4870.png,1.0,0.0,0.0,0.0,0.0,False,0,4870.png,222,46,288,130,Medical mask\Medical mask\annotations\4870.png.json,Medical mask\Medical mask\images\4870.png
+5258.jpg,,5258.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5258.jpg,819,36,1214,558,Medical mask\Medical mask\annotations\5258.jpg.json,Medical mask\Medical mask\images\5258.jpg
+2453.png,,2453.png,1.0,0.0,0.0,0.0,0.0,False,0,2453.png,190,27,413,311,Medical mask\Medical mask\annotations\2453.png.json,Medical mask\Medical mask\images\2453.png
+5636.jpg,,5636.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5636.jpg,340,3,671,438,Medical mask\Medical mask\annotations\5636.jpg.json,Medical mask\Medical mask\images\5636.jpg
+5274.jpg,,5274.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5274.jpg,122,14,806,908,Medical mask\Medical mask\annotations\5274.jpg.json,Medical mask\Medical mask\images\5274.jpg
+6182.jpg,,6182.jpg,1.0,0.0,0.0,0.0,0.0,False,0,6182.jpg,709,271,871,475,Medical mask\Medical mask\annotations\6182.jpg.json,Medical mask\Medical mask\images\6182.jpg
+5986.jpg,,5986.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5986.jpg,360,197,582,464,Medical mask\Medical mask\annotations\5986.jpg.json,Medical mask\Medical mask\images\5986.jpg
+5694.jpg,,5694.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5694.jpg,151,103,303,291,Medical mask\Medical mask\annotations\5694.jpg.json,Medical mask\Medical mask\images\5694.jpg
+6130.jpg,,6130.jpg,1.0,0.0,0.0,1.0,0.0,False,changed hispanic,6130.jpg,1094,16,1691,666,Medical mask\Medical mask\annotations\6130.jpg.json,Medical mask\Medical mask\images\6130.jpg
+6186.jpg,,6186.jpg,1.0,0.0,0.0,0.0,0.0,False,0,6186.jpg,1278,103,2004,839,Medical mask\Medical mask\annotations\6186.jpg.json,Medical mask\Medical mask\images\6186.jpg
+2443.png,,2443.png,1.0,0.0,0.0,0.0,0.0,False,0,2443.png,94,2,412,308,Medical mask\Medical mask\annotations\2443.png.json,Medical mask\Medical mask\images\2443.png
+5269.jpg,,5269.jpg,1.0,0.0,0.0,1.0,0.0,False,0,5269.jpg,263,108,370,224,Medical mask\Medical mask\annotations\5269.jpg.json,Medical mask\Medical mask\images\5269.jpg
+3598.png,,3598.png,1.0,0.0,0.0,0.0,0.0,False,0,3598.png,241,4,401,181,Medical mask\Medical mask\annotations\3598.png.json,Medical mask\Medical mask\images\3598.png
+2376.png,,2376.png,1.0,0.0,0.0,0.0,0.0,False,0,2376.png,227,2,438,173,Medical mask\Medical mask\annotations\2376.png.json,Medical mask\Medical mask\images\2376.png
+2952.png,,2952.png,1.0,0.0,0.0,0.0,0.0,False,0,2952.png,170,13,285,177,Medical mask\Medical mask\annotations\2952.png.json,Medical mask\Medical mask\images\2952.png
+5607.jpg,,5607.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5607.jpg,294,44,633,502,Medical mask\Medical mask\annotations\5607.jpg.json,Medical mask\Medical mask\images\5607.jpg
+2101.jpg,,2101.jpg,1.0,0.0,0.0,0.0,0.0,False,0,2101.jpg,556,259,655,407,Medical mask\Medical mask\annotations\2101.jpg.json,Medical mask\Medical mask\images\2101.jpg
+5378.jpg,,5378.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5378.jpg,427,88,599,300,Medical mask\Medical mask\annotations\5378.jpg.json,Medical mask\Medical mask\images\5378.jpg
+1856.jpg,,1856.jpg,1.0,0.0,0.0,0.0,0.0,False,uncertain,1856.jpg,680,340,1664,1784,Medical mask\Medical mask\annotations\1856.jpg.json,Medical mask\Medical mask\images\1856.jpg
+6087.png,,6087.png,1.0,0.0,0.0,1.0,0.0,False,0,6087.png,274,15,489,280,Medical mask\Medical mask\annotations\6087.png.json,Medical mask\Medical mask\images\6087.png
+2247.png,,2247.png,1.0,0.0,0.0,0.0,0.0,False,0,2247.png,290,73,377,200,Medical mask\Medical mask\annotations\2247.png.json,Medical mask\Medical mask\images\2247.png
+6129.jpg,,6129.jpg,1.0,0.0,0.0,0.0,0.0,False,0,6129.jpg,649,14,850,262,Medical mask\Medical mask\annotations\6129.jpg.json,Medical mask\Medical mask\images\6129.jpg
+5256.jpg,,5256.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5256.jpg,672,26,2182,1975,Medical mask\Medical mask\annotations\5256.jpg.json,Medical mask\Medical mask\images\5256.jpg
+6238.jpg,,6238.jpg,1.0,0.0,0.0,1.0,0.0,False,changed hispanic,6238.jpg,244,80,572,511,Medical mask\Medical mask\annotations\6238.jpg.json,Medical mask\Medical mask\images\6238.jpg
+6019.png,,6019.png,1.0,0.0,0.0,0.0,0.0,False,0,6019.png,746,97,1158,612,Medical mask\Medical mask\annotations\6019.png.json,Medical mask\Medical mask\images\6019.png
+5507.jpg,,5507.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5507.jpg,67,50,384,486,Medical mask\Medical mask\annotations\5507.jpg.json,Medical mask\Medical mask\images\5507.jpg
+3379.png,,3379.png,1.0,0.0,0.0,1.0,0.0,False,0,3379.png,58,10,329,340,Medical mask\Medical mask\annotations\3379.png.json,Medical mask\Medical mask\images\3379.png
+4180.png,,4180.png,1.0,0.0,0.0,1.0,0.0,False,0,4180.png,132,3,404,333,Medical mask\Medical mask\annotations\4180.png.json,Medical mask\Medical mask\images\4180.png
+2522.png,,2522.png,1.0,0.0,0.0,0.0,0.0,False,0,2522.png,240,11,486,301,Medical mask\Medical mask\annotations\2522.png.json,Medical mask\Medical mask\images\2522.png
+4472.png,,4472.png,1.0,0.0,0.0,0.0,0.0,False,0,4472.png,273,3,420,194,Medical mask\Medical mask\annotations\4472.png.json,Medical mask\Medical mask\images\4472.png
+5646.jpg,,5646.jpg,1.0,0.0,0.0,1.0,0.0,False,0,5646.jpg,321,118,848,765,Medical mask\Medical mask\annotations\5646.jpg.json,Medical mask\Medical mask\images\5646.jpg
+2311.png,,2311.png,1.0,0.0,0.0,0.0,0.0,False,0,2311.png,28,24,474,572,Medical mask\Medical mask\annotations\2311.png.json,Medical mask\Medical mask\images\2311.png
+6083.jpg,,6083.jpg,1.0,0.0,0.0,1.0,0.0,False,0,6083.jpg,315,16,546,327,Medical mask\Medical mask\annotations\6083.jpg.json,Medical mask\Medical mask\images\6083.jpg
+6115.jpg,,6115.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6115.jpg,343,29,522,272,Medical mask\Medical mask\annotations\6115.jpg.json,Medical mask\Medical mask\images\6115.jpg
+5411.jpg,,5411.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5411.jpg,358,57,591,361,Medical mask\Medical mask\annotations\5411.jpg.json,Medical mask\Medical mask\images\5411.jpg
+6153.jpg,,6153.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6153.jpg,641,9,1199,636,Medical mask\Medical mask\annotations\6153.jpg.json,Medical mask\Medical mask\images\6153.jpg
+5916.jpg,,5916.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5916.jpg,180,55,626,630,Medical mask\Medical mask\annotations\5916.jpg.json,Medical mask\Medical mask\images\5916.jpg
+5848.jpg,,5848.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5848.jpg,299,115,563,425,Medical mask\Medical mask\annotations\5848.jpg.json,Medical mask\Medical mask\images\5848.jpg
+4433.png,,4433.png,1.0,0.0,0.0,0.0,1.0,False,0,4433.png,70,28,224,190,Medical mask\Medical mask\annotations\4433.png.json,Medical mask\Medical mask\images\4433.png
+1814.jpg,,1814.jpg,1.0,0.0,0.0,1.0,1.0,False,changed hispanic,1814.jpg,260,133,484,426,Medical mask\Medical mask\annotations\1814.jpg.json,Medical mask\Medical mask\images\1814.jpg
+6188.jpg,,6188.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6188.jpg,288,69,412,224,Medical mask\Medical mask\annotations\6188.jpg.json,Medical mask\Medical mask\images\6188.jpg
+6165.jpg,,6165.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6165.jpg,470,204,741,551,Medical mask\Medical mask\annotations\6165.jpg.json,Medical mask\Medical mask\images\6165.jpg
+1815.jpg,,1815.jpg,1.0,0.0,0.0,1.0,1.0,False,0,1815.jpg,196,125,737,852,Medical mask\Medical mask\annotations\1815.jpg.json,Medical mask\Medical mask\images\1815.jpg
+5287.jpg,,5287.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5287.jpg,234,11,438,319,Medical mask\Medical mask\annotations\5287.jpg.json,Medical mask\Medical mask\images\5287.jpg
+6016.jpg,,6016.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6016.jpg,425,26,739,407,Medical mask\Medical mask\annotations\6016.jpg.json,Medical mask\Medical mask\images\6016.jpg
+6127.jpg,,6127.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6127.jpg,418,36,615,331,Medical mask\Medical mask\annotations\6127.jpg.json,Medical mask\Medical mask\images\6127.jpg
+6249.jpg,,6249.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6249.jpg,205,71,345,235,Medical mask\Medical mask\annotations\6249.jpg.json,Medical mask\Medical mask\images\6249.jpg
+5883.jpg,,5883.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5883.jpg,232,5,901,904,Medical mask\Medical mask\annotations\5883.jpg.json,Medical mask\Medical mask\images\5883.jpg
+1957.jpg,,1957.jpg,1.0,0.0,0.0,0.0,1.0,False,0,1957.jpg,106,119,483,604,Medical mask\Medical mask\annotations\1957.jpg.json,Medical mask\Medical mask\images\1957.jpg
+6201.jpg,,6201.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6201.jpg,1131,132,1905,1109,Medical mask\Medical mask\annotations\6201.jpg.json,Medical mask\Medical mask\images\6201.jpg
+1857.jpg,,1857.jpg,1.0,0.0,0.0,0.0,1.0,False,0,1857.jpg,318,27,540,345,Medical mask\Medical mask\annotations\1857.jpg.json,Medical mask\Medical mask\images\1857.jpg
+6173.jpg,,6173.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6173.jpg,272,1,598,416,Medical mask\Medical mask\annotations\6173.jpg.json,Medical mask\Medical mask\images\6173.jpg
+6158.jpg,,6158.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6158.jpg,618,419,1113,1139,Medical mask\Medical mask\annotations\6158.jpg.json,Medical mask\Medical mask\images\6158.jpg
+5380.jpg,,5380.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5380.jpg,235,163,656,753,Medical mask\Medical mask\annotations\5380.jpg.json,Medical mask\Medical mask\images\5380.jpg
+6189.jpg,,6189.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6189.jpg,376,42,467,164,Medical mask\Medical mask\annotations\6189.jpg.json,Medical mask\Medical mask\images\6189.jpg
+5687.jpg,,5687.jpg,1.0,0.0,0.0,1.0,1.0,False,0,5687.jpg,154,101,258,221,Medical mask\Medical mask\annotations\5687.jpg.json,Medical mask\Medical mask\images\5687.jpg
+2514.png,,2514.png,1.0,0.0,0.0,0.0,1.0,False,0,2514.png,247,2,569,251,Medical mask\Medical mask\annotations\2514.png.json,Medical mask\Medical mask\images\2514.png
+6190.jpg,,6190.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6190.jpg,421,43,625,299,Medical mask\Medical mask\annotations\6190.jpg.json,Medical mask\Medical mask\images\6190.jpg
+5613.jpg,,5613.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5613.jpg,221,25,406,250,Medical mask\Medical mask\annotations\5613.jpg.json,Medical mask\Medical mask\images\5613.jpg
+6143.jpg,,6143.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6143.jpg,214,129,1592,2308,Medical mask\Medical mask\annotations\6143.jpg.json,Medical mask\Medical mask\images\6143.jpg
+6038.jpg,,6038.jpg,1.0,0.0,0.0,1.0,1.0,False,0,6038.jpg,476,4,532,88,Medical mask\Medical mask\annotations\6038.jpg.json,Medical mask\Medical mask\images\6038.jpg
+6124.jpg,,6124.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6124.jpg,462,167,560,294,Medical mask\Medical mask\annotations\6124.jpg.json,Medical mask\Medical mask\images\6124.jpg
+5945.jpg,,5945.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5945.jpg,503,34,707,330,Medical mask\Medical mask\annotations\5945.jpg.json,Medical mask\Medical mask\images\5945.jpg
+2249.png,,2249.png,1.0,0.0,0.0,0.0,1.0,False,0,2249.png,385,8,600,315,Medical mask\Medical mask\annotations\2249.png.json,Medical mask\Medical mask\images\2249.png
+5929.jpg,,5929.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5929.jpg,364,3,706,439,Medical mask\Medical mask\annotations\5929.jpg.json,Medical mask\Medical mask\images\5929.jpg
+6121.jpg,,6121.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6121.jpg,700,55,996,448,Medical mask\Medical mask\annotations\6121.jpg.json,Medical mask\Medical mask\images\6121.jpg
+5956.jpg,,5956.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5956.jpg,188,72,301,208,Medical mask\Medical mask\annotations\5956.jpg.json,Medical mask\Medical mask\images\5956.jpg
+6168.jpg,,6168.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6168.jpg,964,42,1297,510,Medical mask\Medical mask\annotations\6168.jpg.json,Medical mask\Medical mask\images\6168.jpg
+6167.jpg,,6167.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6167.jpg,462,109,569,236,Medical mask\Medical mask\annotations\6167.jpg.json,Medical mask\Medical mask\images\6167.jpg
+5603.jpg,,5603.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5603.jpg,238,99,314,199,Medical mask\Medical mask\annotations\5603.jpg.json,Medical mask\Medical mask\images\5603.jpg
+2969.png,,2969.png,1.0,0.0,0.0,1.0,1.0,False,0,2969.png,354,22,619,354,Medical mask\Medical mask\annotations\2969.png.json,Medical mask\Medical mask\images\2969.png
+2103.jpg,,2103.jpg,1.0,0.0,0.0,0.0,1.0,False,0,2103.jpg,253,11,360,183,Medical mask\Medical mask\annotations\2103.jpg.json,Medical mask\Medical mask\images\2103.jpg
+5633.jpg,,5633.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5633.jpg,207,10,385,271,Medical mask\Medical mask\annotations\5633.jpg.json,Medical mask\Medical mask\images\5633.jpg
+6159.jpg,,6159.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6159.jpg,369,20,561,240,Medical mask\Medical mask\annotations\6159.jpg.json,Medical mask\Medical mask\images\6159.jpg
+6265.jpg,,6265.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6265.jpg,337,70,429,201,Medical mask\Medical mask\annotations\6265.jpg.json,Medical mask\Medical mask\images\6265.jpg
+6381.jpg,,6381.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6381.jpg,388,33,639,354,Medical mask\Medical mask\annotations\6381.jpg.json,Medical mask\Medical mask\images\6381.jpg
+5545.jpg,,5545.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5545.jpg,363,47,551,323,Medical mask\Medical mask\annotations\5545.jpg.json,Medical mask\Medical mask\images\5545.jpg
+6183.jpg,,6183.jpg,1.0,0.0,2.0,1.0,0.0,False,0,6183.jpg,396,375,1282,1560,Medical mask\Medical mask\annotations\6183.jpg.json,Medical mask\Medical mask\images\6183.jpg
+6178.jpg,,6178.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6178.jpg,111,207,499,801,Medical mask\Medical mask\annotations\6178.jpg.json,Medical mask\Medical mask\images\6178.jpg
+4784.png,,4784.png,1.0,0.0,2.0,1.0,0.0,False,0,4784.png,380,76,491,205,Medical mask\Medical mask\annotations\4784.png.json,Medical mask\Medical mask\images\4784.png
+5917.jpg,,5917.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5917.jpg,297,130,547,420,Medical mask\Medical mask\annotations\5917.jpg.json,Medical mask\Medical mask\images\5917.jpg
+6100.png,,6100.png,1.0,0.0,2.0,1.0,0.0,False,0,6100.png,430,2,739,469,Medical mask\Medical mask\annotations\6100.png.json,Medical mask\Medical mask\images\6100.png
+6048.jpg,,6048.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6048.jpg,625,23,883,356,Medical mask\Medical mask\annotations\6048.jpg.json,Medical mask\Medical mask\images\6048.jpg
+5992.jpg,,5992.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5992.jpg,333,385,381,456,Medical mask\Medical mask\annotations\5992.jpg.json,Medical mask\Medical mask\images\5992.jpg
+6139.jpg,,6139.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6139.jpg,258,92,379,212,Medical mask\Medical mask\annotations\6139.jpg.json,Medical mask\Medical mask\images\6139.jpg
+6337.jpg,,,1.0,0.0,2.0,2.0,0.0,False,,6337.jpg,934,0,2490,1996,Medical mask\Medical mask\annotations\6337.jpg.json,Medical mask\Medical mask\images\6337.jpg
+5983.jpg,,5983.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5983.jpg,540,200,1796,1541,Medical mask\Medical mask\annotations\5983.jpg.json,Medical mask\Medical mask\images\5983.jpg
+5316.jpg,,5316.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5316.jpg,375,305,705,706,Medical mask\Medical mask\annotations\5316.jpg.json,Medical mask\Medical mask\images\5316.jpg
+5592.jpg,,5592.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5592.jpg,161,45,301,236,Medical mask\Medical mask\annotations\5592.jpg.json,Medical mask\Medical mask\images\5592.jpg
+2302.png,,2302.png,1.0,0.0,2.0,1.0,0.0,False,0,2302.png,167,13,416,301,Medical mask\Medical mask\annotations\2302.png.json,Medical mask\Medical mask\images\2302.png
+6200.jpeg,,6200.jpeg,1.0,0.0,2.0,2.0,0.0,False,0,6200.jpeg,14,2,540,561,Medical mask\Medical mask\annotations\6200.jpeg.json,Medical mask\Medical mask\images\6200.jpeg
+6210.jpg,,6210.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6210.jpg,509,273,1254,1202,Medical mask\Medical mask\annotations\6210.jpg.json,Medical mask\Medical mask\images\6210.jpg
+5690.jpg,,5690.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5690.jpg,329,14,414,117,Medical mask\Medical mask\annotations\5690.jpg.json,Medical mask\Medical mask\images\5690.jpg
+6098.jpg,,6098.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6098.jpg,360,85,728,653,Medical mask\Medical mask\annotations\6098.jpg.json,Medical mask\Medical mask\images\6098.jpg
+6155.jpg,,6155.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6155.jpg,749,596,1939,2326,Medical mask\Medical mask\annotations\6155.jpg.json,Medical mask\Medical mask\images\6155.jpg
+6386.jpg,,6386.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6386.jpg,318,42,457,249,Medical mask\Medical mask\annotations\6386.jpg.json,Medical mask\Medical mask\images\6386.jpg
+4679.png,,4679.png,1.0,0.0,2.0,2.0,0.0,False,0,4679.png,339,93,421,189,Medical mask\Medical mask\annotations\4679.png.json,Medical mask\Medical mask\images\4679.png
+5113.jpg,,5113.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5113.jpg,98,11,311,286,Medical mask\Medical mask\annotations\5113.jpg.json,Medical mask\Medical mask\images\5113.jpg
+5926.jpg,,5926.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5926.jpg,262,39,415,271,Medical mask\Medical mask\annotations\5926.jpg.json,Medical mask\Medical mask\images\5926.jpg
+5987.jpg,,5987.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5987.jpg,199,264,571,682,Medical mask\Medical mask\annotations\5987.jpg.json,Medical mask\Medical mask\images\5987.jpg
+5447.jpg,,5447.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5447.jpg,114,7,602,678,Medical mask\Medical mask\annotations\5447.jpg.json,Medical mask\Medical mask\images\5447.jpg
+5693.jpeg,,5693.jpeg,1.0,0.0,2.0,1.0,0.0,False,0,5693.jpeg,669,185,877,459,Medical mask\Medical mask\annotations\5693.jpeg.json,Medical mask\Medical mask\images\5693.jpeg
+6174.jpg,,6174.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6174.jpg,330,2,797,398,Medical mask\Medical mask\annotations\6174.jpg.json,Medical mask\Medical mask\images\6174.jpg
+5609.jpg,,5609.jpg,1.0,0.0,2.0,1.0,0.0,False,0,5609.jpg,325,104,426,235,Medical mask\Medical mask\annotations\5609.jpg.json,Medical mask\Medical mask\images\5609.jpg
+5994.jpg,,5994.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5994.jpg,149,8,458,328,Medical mask\Medical mask\annotations\5994.jpg.json,Medical mask\Medical mask\images\5994.jpg
+5925.jpeg,,5925.jpeg,1.0,0.0,2.0,2.0,0.0,False,0,5925.jpeg,1181,237,1692,831,Medical mask\Medical mask\annotations\5925.jpeg.json,Medical mask\Medical mask\images\5925.jpeg
+6362.jpg,,6362.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6362.jpg,303,55,463,278,Medical mask\Medical mask\annotations\6362.jpg.json,Medical mask\Medical mask\images\6362.jpg
+5390.jpg,,5390.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5390.jpg,6,7,606,809,Medical mask\Medical mask\annotations\5390.jpg.json,Medical mask\Medical mask\images\5390.jpg
+6385.jpg,,6385.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6385.jpg,249,2,380,192,Medical mask\Medical mask\annotations\6385.jpg.json,Medical mask\Medical mask\images\6385.jpg
+6205.jpg,,6205.jpg,1.0,0.0,2.0,1.0,0.0,False,0,6205.jpg,185,30,546,493,Medical mask\Medical mask\annotations\6205.jpg.json,Medical mask\Medical mask\images\6205.jpg
+6361.jpg,,6361.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6361.jpg,259,88,407,242,Medical mask\Medical mask\annotations\6361.jpg.json,Medical mask\Medical mask\images\6361.jpg
+5997.jpg,,5997.jpg,1.0,0.0,2.0,1.0,0.0,False,0,5997.jpg,308,17,745,688,Medical mask\Medical mask\annotations\5997.jpg.json,Medical mask\Medical mask\images\5997.jpg
+2964.png,,2964.png,1.0,0.0,2.0,1.0,0.0,False,0,2964.png,198,73,320,265,Medical mask\Medical mask\annotations\2964.png.json,Medical mask\Medical mask\images\2964.png
+6149.jpg,,6149.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6149.jpg,401,16,682,435,Medical mask\Medical mask\annotations\6149.jpg.json,Medical mask\Medical mask\images\6149.jpg
+6022.jpg,,6022.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6022.jpg,346,21,560,276,Medical mask\Medical mask\annotations\6022.jpg.json,Medical mask\Medical mask\images\6022.jpg
+6156.jpg,,6156.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6156.jpg,450,235,644,480,Medical mask\Medical mask\annotations\6156.jpg.json,Medical mask\Medical mask\images\6156.jpg
+5918.jpg,,5918.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5918.jpg,697,126,902,386,Medical mask\Medical mask\annotations\5918.jpg.json,Medical mask\Medical mask\images\5918.jpg
+5927.jpg,,5927.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5927.jpg,325,25,561,319,Medical mask\Medical mask\annotations\5927.jpg.json,Medical mask\Medical mask\images\5927.jpg
+6224.jpg,,6224.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6224.jpg,528,66,698,287,Medical mask\Medical mask\annotations\6224.jpg.json,Medical mask\Medical mask\images\6224.jpg
+6402.png,,,1.0,0.0,2.0,2.0,1.0,False,,6402.png,809,190,1242,766,Medical mask\Medical mask\annotations\6402.png.json,Medical mask\Medical mask\images\6402.png
+6229.jpg,,6229.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6229.jpg,402,108,758,562,Medical mask\Medical mask\annotations\6229.jpg.json,Medical mask\Medical mask\images\6229.jpg
+6152.jpg,,6152.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6152.jpg,323,11,685,475,Medical mask\Medical mask\annotations\6152.jpg.json,Medical mask\Medical mask\images\6152.jpg
+6203.jpg,,6203.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6203.jpg,396,202,774,739,Medical mask\Medical mask\annotations\6203.jpg.json,Medical mask\Medical mask\images\6203.jpg
+5541.jpg,,5541.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5541.jpg,73,21,353,421,Medical mask\Medical mask\annotations\5541.jpg.json,Medical mask\Medical mask\images\5541.jpg
+6097.jpg,,6097.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6097.jpg,224,31,393,242,Medical mask\Medical mask\annotations\6097.jpg.json,Medical mask\Medical mask\images\6097.jpg
+5977.jpg,,5977.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5977.jpg,602,70,749,278,Medical mask\Medical mask\annotations\5977.jpg.json,Medical mask\Medical mask\images\5977.jpg
+5936.jpg,,5936.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5936.jpg,353,10,481,187,Medical mask\Medical mask\annotations\5936.jpg.json,Medical mask\Medical mask\images\5936.jpg
+6023.jpg,,6023.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6023.jpg,371,44,592,311,Medical mask\Medical mask\annotations\6023.jpg.json,Medical mask\Medical mask\images\6023.jpg
+6233.jpg,,6233.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6233.jpg,252,76,516,449,Medical mask\Medical mask\annotations\6233.jpg.json,Medical mask\Medical mask\images\6233.jpg
+6070.jpg,,6070.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6070.jpg,308,17,418,161,Medical mask\Medical mask\annotations\6070.jpg.json,Medical mask\Medical mask\images\6070.jpg
+5510.jpeg,,5510.jpeg,1.0,0.0,2.0,1.0,1.0,False,0,5510.jpeg,1819,325,3602,2812,Medical mask\Medical mask\annotations\5510.jpeg.json,Medical mask\Medical mask\images\5510.jpeg
+6383.jpg,,6383.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6383.jpg,830,263,1178,785,Medical mask\Medical mask\annotations\6383.jpg.json,Medical mask\Medical mask\images\6383.jpg
+1932.jpg,,1932.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1932.jpg,324,5,877,666,Medical mask\Medical mask\annotations\1932.jpg.json,Medical mask\Medical mask\images\1932.jpg
+6345.jpg,,6345.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6345.jpg,774,53,880,210,Medical mask\Medical mask\annotations\6345.jpg.json,Medical mask\Medical mask\images\6345.jpg
+6037.jpg,,6037.jpg,1.0,0.0,2.0,1.0,1.0,False,0,6037.jpg,413,12,530,181,Medical mask\Medical mask\annotations\6037.jpg.json,Medical mask\Medical mask\images\6037.jpg
+1809.jpg,,1809.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1809.jpg,915,78,1419,742,Medical mask\Medical mask\annotations\1809.jpg.json,Medical mask\Medical mask\images\1809.jpg
+6071.jpg,,6071.jpg,1.0,0.0,2.0,1.0,1.0,False,0,6071.jpg,514,15,745,319,Medical mask\Medical mask\annotations\6071.jpg.json,Medical mask\Medical mask\images\6071.jpg
+5564.jpeg,,5564.jpeg,1.0,0.0,2.0,2.0,1.0,False,0,5564.jpeg,270,2,427,165,Medical mask\Medical mask\annotations\5564.jpeg.json,Medical mask\Medical mask\images\5564.jpeg
+6075.jpg,,6075.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6075.jpg,254,73,432,291,Medical mask\Medical mask\annotations\6075.jpg.json,Medical mask\Medical mask\images\6075.jpg
+1811.jpg,,1811.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1811.jpg,435,83,583,276,Medical mask\Medical mask\annotations\1811.jpg.json,Medical mask\Medical mask\images\1811.jpg
+4473.png,,4473.png,1.0,0.0,2.0,1.0,1.0,False,0,4473.png,378,32,591,345,Medical mask\Medical mask\annotations\4473.png.json,Medical mask\Medical mask\images\4473.png
+5978.jpg,,5978.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5978.jpg,188,16,502,377,Medical mask\Medical mask\annotations\5978.jpg.json,Medical mask\Medical mask\images\5978.jpg
+6285.jpg,,,1.0,0.0,2.0,2.0,1.0,False,,6285.jpg,249,93,458,380,Medical mask\Medical mask\annotations\6285.jpg.json,Medical mask\Medical mask\images\6285.jpg
+6108.png,,6108.png,1.0,0.0,2.0,2.0,1.0,False,0,6108.png,414,23,580,269,Medical mask\Medical mask\annotations\6108.png.json,Medical mask\Medical mask\images\6108.png
+4483.png,,4483.png,1.0,0.0,2.0,2.0,1.0,False,0,4483.png,448,7,692,334,Medical mask\Medical mask\annotations\4483.png.json,Medical mask\Medical mask\images\4483.png
+6024.jpg,,6024.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6024.jpg,540,4,1385,1167,Medical mask\Medical mask\annotations\6024.jpg.json,Medical mask\Medical mask\images\6024.jpg
+5876.jpg,,5876.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5876.jpg,18,4,716,624,Medical mask\Medical mask\annotations\5876.jpg.json,Medical mask\Medical mask\images\5876.jpg
+1975.jpg,,1975.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1975.jpg,55,323,337,652,Medical mask\Medical mask\annotations\1975.jpg.json,Medical mask\Medical mask\images\1975.jpg
+3800.png,,3800.png,1.0,0.0,2.0,2.0,1.0,False,0,3800.png,701,74,870,280,Medical mask\Medical mask\annotations\3800.png.json,Medical mask\Medical mask\images\3800.png
+6324.jpg,,6324.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6324.jpg,496,7,750,387,Medical mask\Medical mask\annotations\6324.jpg.json,Medical mask\Medical mask\images\6324.jpg
+6329.jpg,,6329.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6329.jpg,463,15,973,524,Medical mask\Medical mask\annotations\6329.jpg.json,Medical mask\Medical mask\images\6329.jpg
+1888.jpg,,1888.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1888.jpg,247,131,474,415,Medical mask\Medical mask\annotations\1888.jpg.json,Medical mask\Medical mask\images\1888.jpg
+6350.jpg,,6350.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6350.jpg,372,0,505,161,Medical mask\Medical mask\annotations\6350.jpg.json,Medical mask\Medical mask\images\6350.jpg
+22_1_2_20170116172700901.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172700901.jpg,32,81,522,565,faces_only\subset\22_1_2_20170116172700901.xml,faces_only\subset\asian\female\22_1_2_20170116172700901.jpg
+23_1_2_20170116184229440.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116184229440.jpg,100,42,312,288,faces_only\subset\23_1_2_20170116184229440.xml,faces_only\subset\asian\female\23_1_2_20170116184229440.jpg
+6369.jpg,,6369.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6369.jpg,296,433,369,502,Medical mask\Medical mask\annotations\6369.jpg.json,Medical mask\Medical mask\images\6369.jpg
+5856.jpg,,5856.jpg,1.0,0.0,3.0,0.0,0.0,False,0,5856.jpg,17,107,147,270,Medical mask\Medical mask\annotations\5856.jpg.json,Medical mask\Medical mask\images\5856.jpg
+24_1_2_20170116163720881.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116163720881.jpg,152,27,428,359,faces_only\subset\24_1_2_20170116163720881.xml,faces_only\subset\asian\female\24_1_2_20170116163720881.jpg
+24_1_2_20170116163909292.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116163909292.jpg,97,116,646,562,faces_only\subset\24_1_2_20170116163909292.xml,faces_only\subset\asian\female\24_1_2_20170116163909292.jpg
+24_1_2_20170116164559724.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116164559724.jpg,1,1,304,284,faces_only\subset\24_1_2_20170116164559724.xml,faces_only\subset\asian\female\24_1_2_20170116164559724.jpg
+5538.jpg,,5538.jpg,1.0,0.0,3.0,1.0,0.0,False,0,5538.jpg,70,6,397,493,Medical mask\Medical mask\annotations\5538.jpg.json,Medical mask\Medical mask\images\5538.jpg
+24_1_2_20170116164813386.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116164813386.jpg,136,72,545,444,faces_only\subset\24_1_2_20170116164813386.xml,faces_only\subset\asian\female\24_1_2_20170116164813386.jpg
+24_1_2_20170116165105160.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116165105160.jpg,79,86,400,457,faces_only\subset\24_1_2_20170116165105160.xml,faces_only\subset\asian\female\24_1_2_20170116165105160.jpg
+23_1_2_20170116173210232.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173210232.jpg,236,34,749,519,faces_only\subset\23_1_2_20170116173210232.xml,faces_only\subset\asian\female\23_1_2_20170116173210232.jpg
+24_1_2_20170116163702026.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116163702026.jpg,50,35,492,604,faces_only\subset\24_1_2_20170116163702026.xml,faces_only\subset\asian\female\24_1_2_20170116163702026.jpg
+24_1_2_20170116165051346.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116165051346.jpg,26,19,379,351,faces_only\subset\24_1_2_20170116165051346.xml,faces_only\subset\asian\female\24_1_2_20170116165051346.jpg
+5273.jpg,,5273.jpg,1.0,0.0,3.0,1.0,0.0,False,0,5273.jpg,294,276,703,843,Medical mask\Medical mask\annotations\5273.jpg.json,Medical mask\Medical mask\images\5273.jpg
+1819.jpg,,1819.jpg,1.0,0.0,3.0,0.0,0.0,False,0,1819.jpg,328,100,433,237,Medical mask\Medical mask\annotations\1819.jpg.json,Medical mask\Medical mask\images\1819.jpg
+6307.jpg,,6307.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6307.jpg,22,22,635,821,Medical mask\Medical mask\annotations\6307.jpg.json,Medical mask\Medical mask\images\6307.jpg
+22_1_2_20170116172613537.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172613537.jpg,268,1,810,450,faces_only\subset\22_1_2_20170116172613537.xml,faces_only\subset\asian\female\22_1_2_20170116172613537.jpg
+22_1_2_20170116172028415.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172028415.jpg,364,5,840,563,faces_only\subset\22_1_2_20170116172028415.xml,faces_only\subset\asian\female\22_1_2_20170116172028415.jpg
+6283.jpg,,6283.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6283.jpg,259,65,422,247,Medical mask\Medical mask\annotations\6283.jpg.json,Medical mask\Medical mask\images\6283.jpg
+6357.jpg,,6357.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6357.jpg,307,19,890,753,Medical mask\Medical mask\annotations\6357.jpg.json,Medical mask\Medical mask\images\6357.jpg
+6262.jpg,,6262.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6262.jpg,653,111,783,292,Medical mask\Medical mask\annotations\6262.jpg.json,Medical mask\Medical mask\images\6262.jpg
+24_1_2_20170116164545482.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116164545482.jpg,100,42,417,435,faces_only\subset\24_1_2_20170116164545482.xml,faces_only\subset\asian\female\24_1_2_20170116164545482.jpg
+6308.jpg,,,1.0,0.0,3.0,1.0,0.0,False,,6308.jpg,309,103,421,246,Medical mask\Medical mask\annotations\6308.jpg.json,Medical mask\Medical mask\images\6308.jpg
+22_1_2_20170116172557623.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172557623.jpg,120,3,596,493,faces_only\subset\22_1_2_20170116172557623.xml,faces_only\subset\asian\female\22_1_2_20170116172557623.jpg
+23_1_2_20170116173253789.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173253789.jpg,444,57,885,537,faces_only\subset\23_1_2_20170116173253789.xml,faces_only\subset\asian\female\23_1_2_20170116173253789.jpg
+23_1_2_20170116173241444.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173241444.jpg,417,12,852,462,faces_only\subset\23_1_2_20170116173241444.xml,faces_only\subset\asian\female\23_1_2_20170116173241444.jpg
+23_1_2_20170116173201790.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173201790.jpg,68,54,314,295,faces_only\subset\23_1_2_20170116173201790.xml,faces_only\subset\asian\female\23_1_2_20170116173201790.jpg
+22_1_2_20170116172702296.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172702296.jpg,109,3,363,348,faces_only\subset\22_1_2_20170116172702296.xml,faces_only\subset\asian\female\22_1_2_20170116172702296.jpg
+22_1_2_20170116172549492.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172549492.jpg,258,9,806,506,faces_only\subset\22_1_2_20170116172549492.xml,faces_only\subset\asian\female\22_1_2_20170116172549492.jpg
+2575.png,,2575.png,1.0,0.0,3.0,0.0,0.0,False,0,2575.png,431,130,519,259,Medical mask\Medical mask\annotations\2575.png.json,Medical mask\Medical mask\images\2575.png
+5563.jpg,,5563.jpg,1.0,0.0,3.0,0.0,0.0,False,0,5563.jpg,142,65,384,355,Medical mask\Medical mask\annotations\5563.jpg.json,Medical mask\Medical mask\images\5563.jpg
+6347.jpg,,6347.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6347.jpg,233,20,518,414,Medical mask\Medical mask\annotations\6347.jpg.json,Medical mask\Medical mask\images\6347.jpg
+6327.jpg,,6327.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6327.jpg,448,136,862,721,Medical mask\Medical mask\annotations\6327.jpg.json,Medical mask\Medical mask\images\6327.jpg
+22_1_2_20170116172137259.jpg,,,1.0,0.0,3.0,1.0,0.0,False,custom labelled,22_1_2_20170116172137259.jpg,45,23,384,412,faces_only\subset\22_1_2_20170116172137259.xml,faces_only\subset\asian\female\22_1_2_20170116172137259.jpg
+6260.jpg,,6260.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6260.jpg,264,3,464,219,Medical mask\Medical mask\annotations\6260.jpg.json,Medical mask\Medical mask\images\6260.jpg
+24_1_2_20170116165003935.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116165003935.jpg,24,154,438,602,faces_only\subset\24_1_2_20170116165003935.xml,faces_only\subset\asian\female\24_1_2_20170116165003935.jpg
+22_1_2_20170116172030701.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172030701.jpg,242,43,782,484,faces_only\subset\22_1_2_20170116172030701.xml,faces_only\subset\asian\female\22_1_2_20170116172030701.jpg
+6367.jpg,,6367.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6367.jpg,215,311,654,847,Medical mask\Medical mask\annotations\6367.jpg.json,Medical mask\Medical mask\images\6367.jpg
+6275.jpg,,6275.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6275.jpg,156,91,245,211,Medical mask\Medical mask\annotations\6275.jpg.json,Medical mask\Medical mask\images\6275.jpg
+6279.jpg,,6279.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6279.jpg,573,130,703,260,Medical mask\Medical mask\annotations\6279.jpg.json,Medical mask\Medical mask\images\6279.jpg
+5903.jpg,,5903.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5903.jpg,394,57,524,226,Medical mask\Medical mask\annotations\5903.jpg.json,Medical mask\Medical mask\images\5903.jpg
+23_0_2_20170116172904718.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172904718.jpg,483,85,815,540,faces_only\subset\23_0_2_20170116172904718.xml,faces_only\subset\asian\male\23_0_2_20170116172904718.jpg
+22_0_2_20170116171724301.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,22_0_2_20170116171724301.jpg,102,83,354,340,faces_only\subset\22_0_2_20170116171724301.xml,faces_only\subset\asian\male\22_0_2_20170116171724301.jpg
+23_0_2_20170116173001224.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,23_0_2_20170116173001224.jpg,282,116,663,475,faces_only\subset\23_0_2_20170116173001224.xml,faces_only\subset\asian\male\23_0_2_20170116173001224.jpg
+23_0_2_20170116172945780.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172945780.jpg,66,73,720,844,faces_only\subset\23_0_2_20170116172945780.xml,faces_only\subset\asian\male\23_0_2_20170116172945780.jpg
+21_0_2_20170103234754659.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,21_0_2_20170103234754659.jpg,72,26,221,215,faces_only\subset\21_0_2_20170103234754659.xml,faces_only\subset\asian\male\21_0_2_20170103234754659.jpg
+4967.png,,4967.png,1.0,0.0,3.0,0.0,1.0,False,0,4967.png,301,9,471,258,Medical mask\Medical mask\annotations\4967.png.json,Medical mask\Medical mask\images\4967.png
+5699.jpg,,5699.jpg,1.0,0.0,3.0,1.0,1.0,False,0,5699.jpg,64,4,454,427,Medical mask\Medical mask\annotations\5699.jpg.json,Medical mask\Medical mask\images\5699.jpg
+22_0_2_20170116172455828.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,22_0_2_20170116172455828.jpg,53,28,295,370,faces_only\subset\22_0_2_20170116172455828.xml,faces_only\subset\asian\male\22_0_2_20170116172455828.jpg
+22_0_2_20170104022354725.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,22_0_2_20170104022354725.jpg,181,24,300,140,faces_only\subset\22_0_2_20170104022354725.xml,faces_only\subset\asian\male\22_0_2_20170104022354725.jpg
+23_0_2_20170116172947652.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172947652.jpg,198,80,445,351,faces_only\subset\23_0_2_20170116172947652.xml,faces_only\subset\asian\male\23_0_2_20170116172947652.jpg
+23_0_2_20170116221009406.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,23_0_2_20170116221009406.jpg,157,21,741,691,faces_only\subset\23_0_2_20170116221009406.xml,faces_only\subset\asian\male\23_0_2_20170116221009406.jpg
+21_0_2_20170103205914442.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,21_0_2_20170103205914442.jpg,147,13,314,211,faces_only\subset\21_0_2_20170103205914442.xml,faces_only\subset\asian\male\21_0_2_20170103205914442.jpg
+4681.png,,4681.png,1.0,0.0,3.0,1.0,1.0,False,0,4681.png,214,0,548,319,Medical mask\Medical mask\annotations\4681.png.json,Medical mask\Medical mask\images\4681.png
+5570.jpg,,5570.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5570.jpg,192,136,567,757,Medical mask\Medical mask\annotations\5570.jpg.json,Medical mask\Medical mask\images\5570.jpg
+5764.jpg,,5764.jpg,1.0,0.0,3.0,1.0,1.0,False,0,5764.jpg,309,83,355,143,Medical mask\Medical mask\annotations\5764.jpg.json,Medical mask\Medical mask\images\5764.jpg
+24_0_2_20170116164343289.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,24_0_2_20170116164343289.jpg,173,94,645,637,faces_only\subset\24_0_2_20170116164343289.xml,faces_only\subset\asian\male\24_0_2_20170116164343289.jpg
+23_0_2_20170116172805150.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172805150.jpg,540,43,1018,446,faces_only\subset\23_0_2_20170116172805150.xml,faces_only\subset\asian\male\23_0_2_20170116172805150.jpg
+20_0_2_20170116161442758.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,20_0_2_20170116161442758.jpg,134,25,486,436,faces_only\subset\20_0_2_20170116161442758.xml,faces_only\subset\asian\male\20_0_2_20170116161442758.jpg
+6213.jpg,,6213.jpg,1.0,0.0,3.0,1.0,1.0,False,0,6213.jpg,255,42,480,355,Medical mask\Medical mask\annotations\6213.jpg.json,Medical mask\Medical mask\images\6213.jpg
+5586.jpg,,5586.jpg,1.0,0.0,3.0,1.0,1.0,False,0,5586.jpg,128,99,575,691,Medical mask\Medical mask\annotations\5586.jpg.json,Medical mask\Medical mask\images\5586.jpg
+21_0_2_20170116164809162.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,21_0_2_20170116164809162.jpg,113,61,428,464,faces_only\subset\21_0_2_20170116164809162.xml,faces_only\subset\asian\male\21_0_2_20170116164809162.jpg
+5524.jpg,,5524.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5524.jpg,156,95,334,345,Medical mask\Medical mask\annotations\5524.jpg.json,Medical mask\Medical mask\images\5524.jpg
+22_0_2_20170116172148714.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,22_0_2_20170116172148714.jpg,38,62,323,359,faces_only\subset\22_0_2_20170116172148714.xml,faces_only\subset\asian\male\22_0_2_20170116172148714.jpg
+5561.jpg,,5561.jpg,1.0,0.0,3.0,1.0,1.0,False,changed hispanic,5561.jpg,450,13,737,385,Medical mask\Medical mask\annotations\5561.jpg.json,Medical mask\Medical mask\images\5561.jpg
+6296.jpg,,6296.jpg,1.0,0.0,3.0,1.0,1.0,False,0,6296.jpg,326,111,501,353,Medical mask\Medical mask\annotations\6296.jpg.json,Medical mask\Medical mask\images\6296.jpg
+23_0_2_20170116172908582.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172908582.jpg,64,141,389,480,faces_only\subset\23_0_2_20170116172908582.xml,faces_only\subset\asian\male\23_0_2_20170116172908582.jpg
+5707.jpg,,5707.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5707.jpg,180,303,1482,2354,Medical mask\Medical mask\annotations\5707.jpg.json,Medical mask\Medical mask\images\5707.jpg
+3610.png,,3610.png,1.0,0.0,3.0,1.0,1.0,False,0,3610.png,408,5,671,306,Medical mask\Medical mask\annotations\3610.png.json,Medical mask\Medical mask\images\3610.png
+22_0_2_20170116172210197.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,22_0_2_20170116172210197.jpg,245,107,757,624,faces_only\subset\22_0_2_20170116172210197.xml,faces_only\subset\asian\male\22_0_2_20170116172210197.jpg
+5647.jpg,,5647.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5647.jpg,324,2,571,194,Medical mask\Medical mask\annotations\5647.jpg.json,Medical mask\Medical mask\images\5647.jpg
+6332.jpg,,6332.jpg,1.0,0.0,3.0,1.0,1.0,False,0,6332.jpg,266,49,582,409,Medical mask\Medical mask\annotations\6332.jpg.json,Medical mask\Medical mask\images\6332.jpg
+5408.jpg,,5408.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5408.jpg,329,43,518,275,Medical mask\Medical mask\annotations\5408.jpg.json,Medical mask\Medical mask\images\5408.jpg
+23_0_2_20170116172912257.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172912257.jpg,311,81,740,512,faces_only\subset\23_0_2_20170116172912257.xml,faces_only\subset\asian\male\23_0_2_20170116172912257.jpg
+5585.jpg,,5585.jpg,1.0,0.0,3.0,2.0,1.0,False,0,5585.jpg,303,218,552,489,Medical mask\Medical mask\annotations\5585.jpg.json,Medical mask\Medical mask\images\5585.jpg
+6370.jpg,,,1.0,0.0,3.0,1.0,1.0,False,,6370.jpg,129,48,880,933,Medical mask\Medical mask\annotations\6370.jpg.json,Medical mask\Medical mask\images\6370.jpg
+20_0_2_20170117135024223.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,20_0_2_20170117135024223.jpg,185,75,559,587,faces_only\subset\20_0_2_20170117135024223.xml,faces_only\subset\asian\male\20_0_2_20170117135024223.jpg
+6020.jpeg,,6020.jpeg,1.0,0.0,3.0,1.0,1.0,False,0,6020.jpeg,186,10,548,461,Medical mask\Medical mask\annotations\6020.jpeg.json,Medical mask\Medical mask\images\6020.jpeg
+2313.png,,2313.png,1.0,0.0,3.0,1.0,1.0,False,0,2313.png,321,6,491,210,Medical mask\Medical mask\annotations\2313.png.json,Medical mask\Medical mask\images\2313.png
+5457.jpeg,,5457.jpeg,1.0,0.0,3.0,0.0,1.0,False,0,5457.jpeg,184,87,377,288,Medical mask\Medical mask\annotations\5457.jpeg.json,Medical mask\Medical mask\images\5457.jpeg
+20_1_3_20170119180453339.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119180453339.jpg,170,68,301,233,faces_only\subset\20_1_3_20170119180453339.xml,faces_only\subset\indian\female\20_1_3_20170119180453339.jpg
+20_1_3_20170119150812423.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119150812423.jpg,84,27,249,216,faces_only\subset\20_1_3_20170119150812423.xml,faces_only\subset\indian\female\20_1_3_20170119150812423.jpg
+21_1_3_20170104222522503.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222522503.jpg,55,119,294,355,faces_only\subset\21_1_3_20170104222522503.xml,faces_only\subset\indian\female\21_1_3_20170104222522503.jpg
+20_1_3_20170119153755113.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153755113.jpg,184,57,358,273,faces_only\subset\20_1_3_20170119153755113.xml,faces_only\subset\indian\female\20_1_3_20170119153755113.jpg
+21_1_3_20170104231627770.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231627770.jpg,105,48,272,226,faces_only\subset\21_1_3_20170104231627770.xml,faces_only\subset\indian\female\21_1_3_20170104231627770.jpg
+21_1_3_20170104222105822.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222105822.jpg,108,103,316,349,faces_only\subset\21_1_3_20170104222105822.xml,faces_only\subset\indian\female\21_1_3_20170104222105822.jpg
+3085.png,,3085.png,1.0,0.0,4.0,1.0,0.0,False,0,3085.png,359,5,497,170,Medical mask\Medical mask\annotations\3085.png.json,Medical mask\Medical mask\images\3085.png
+21_0_4_20161223214802865.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_0_4_20161223214802865.jpg,100,34,166,118,faces_only\subset\21_0_4_20161223214802865.xml,faces_only\subset\indian\female\21_0_4_20161223214802865.jpg
+20_1_3_20170119153820321.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153820321.jpg,44,27,298,342,faces_only\subset\20_1_3_20170119153820321.xml,faces_only\subset\indian\female\20_1_3_20170119153820321.jpg
+21_1_3_20170104223626119.jpg,,,1.0,0.0,4.0,0.0,0.0,False,custom labelled,21_1_3_20170104223626119.jpg,119,56,216,160,faces_only\subset\21_1_3_20170104223626119.xml,faces_only\subset\indian\female\21_1_3_20170104223626119.jpg
+21_1_3_20170104222105039.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222105039.jpg,66,96,278,335,faces_only\subset\21_1_3_20170104222105039.xml,faces_only\subset\indian\female\21_1_3_20170104222105039.jpg
+5485.jpg,,5485.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5485.jpg,72,67,683,798,Medical mask\Medical mask\annotations\5485.jpg.json,Medical mask\Medical mask\images\5485.jpg
+6250.jpg,,6250.jpg,1.0,0.0,4.0,2.0,0.0,False,0,6250.jpg,362,261,595,539,Medical mask\Medical mask\annotations\6250.jpg.json,Medical mask\Medical mask\images\6250.jpg
+5533.jpg,,5533.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5533.jpg,293,108,460,323,Medical mask\Medical mask\annotations\5533.jpg.json,Medical mask\Medical mask\images\5533.jpg
+6258.jpg,,6258.jpg,1.0,0.0,4.0,1.0,0.0,False,0,6258.jpg,314,134,681,639,Medical mask\Medical mask\annotations\6258.jpg.json,Medical mask\Medical mask\images\6258.jpg
+20_1_3_20170119144712261.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119144712261.jpg,90,43,295,284,faces_only\subset\20_1_3_20170119144712261.xml,faces_only\subset\indian\female\20_1_3_20170119144712261.jpg
+21_1_3_20170104231611130.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231611130.jpg,56,56,197,215,faces_only\subset\21_1_3_20170104231611130.xml,faces_only\subset\indian\female\21_1_3_20170104231611130.jpg
+21_1_3_20170104222114302.jpg,,,1.0,0.0,4.0,0.0,0.0,False,custom labelled,21_1_3_20170104222114302.jpg,169,96,341,290,faces_only\subset\21_1_3_20170104222114302.xml,faces_only\subset\indian\female\21_1_3_20170104222114302.jpg
+20_1_3_20170119153308793.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153308793.jpg,51,114,235,313,faces_only\subset\20_1_3_20170119153308793.xml,faces_only\subset\indian\female\20_1_3_20170119153308793.jpg
+21_1_3_20170104222108390.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222108390.jpg,76,127,315,358,faces_only\subset\21_1_3_20170104222108390.xml,faces_only\subset\indian\female\21_1_3_20170104222108390.jpg
+21_1_3_20170104231630017.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231630017.jpg,49,56,160,183,faces_only\subset\21_1_3_20170104231630017.xml,faces_only\subset\indian\female\21_1_3_20170104231630017.jpg
+5953.jpg,,5953.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5953.jpg,272,135,358,234,Medical mask\Medical mask\annotations\5953.jpg.json,Medical mask\Medical mask\images\5953.jpg
+21_1_3_20170104222056815.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222056815.jpg,168,82,361,257,faces_only\subset\21_1_3_20170104222056815.xml,faces_only\subset\indian\female\21_1_3_20170104222056815.jpg
+21_1_3_20170104222111271.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222111271.jpg,113,86,352,279,faces_only\subset\21_1_3_20170104222111271.xml,faces_only\subset\indian\female\21_1_3_20170104222111271.jpg
+2629.png,,2629.png,1.0,0.0,4.0,0.0,0.0,False,0,2629.png,331,11,430,144,Medical mask\Medical mask\annotations\2629.png.json,Medical mask\Medical mask\images\2629.png
+20_1_3_20170119153148521.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153148521.jpg,80,59,354,375,faces_only\subset\20_1_3_20170119153148521.xml,faces_only\subset\indian\female\20_1_3_20170119153148521.jpg
+2098.jpg,,2098.jpg,1.0,0.0,4.0,0.0,0.0,False,0,2098.jpg,339,63,592,437,Medical mask\Medical mask\annotations\2098.jpg.json,Medical mask\Medical mask\images\2098.jpg
+21_1_3_20170104222758121.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222758121.jpg,97,62,279,254,faces_only\subset\21_1_3_20170104222758121.xml,faces_only\subset\indian\female\21_1_3_20170104222758121.jpg
+6244.jpg,,6244.jpg,1.0,0.0,4.0,1.0,0.0,False,0,6244.jpg,162,42,385,340,Medical mask\Medical mask\annotations\6244.jpg.json,Medical mask\Medical mask\images\6244.jpg
+20_1_3_20170105000847091.jpg,,,1.0,0.0,4.0,0.0,0.0,False,custom labelled,20_1_3_20170105000847091.jpg,175,1,351,182,faces_only\subset\20_1_3_20170105000847091.xml,faces_only\subset\indian\female\20_1_3_20170105000847091.jpg
+5855.jpg,,5855.jpg,1.0,0.0,4.0,0.0,0.0,False,0,5855.jpg,241,41,413,261,Medical mask\Medical mask\annotations\5855.jpg.json,Medical mask\Medical mask\images\5855.jpg
+21_1_3_20170104231602346.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231602346.jpg,50,33,171,182,faces_only\subset\21_1_3_20170104231602346.xml,faces_only\subset\indian\female\21_1_3_20170104231602346.jpg
+20_1_3_20170117141108233.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170117141108233.jpg,268,24,684,686,faces_only\subset\20_1_3_20170117141108233.xml,faces_only\subset\indian\female\20_1_3_20170117141108233.jpg
+6246.jpg,,6246.jpg,1.0,0.0,4.0,2.0,0.0,False,changed hispanic,6246.jpg,68,5,673,702,Medical mask\Medical mask\annotations\6246.jpg.json,Medical mask\Medical mask\images\6246.jpg
+20_1_3_20170119153750257.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153750257.jpg,105,137,282,361,faces_only\subset\20_1_3_20170119153750257.xml,faces_only\subset\indian\female\20_1_3_20170119153750257.jpg
+21_1_3_20170104222118687.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222118687.jpg,32,112,335,380,faces_only\subset\21_1_3_20170104222118687.xml,faces_only\subset\indian\female\21_1_3_20170104222118687.jpg
+5368.jpg,,5368.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5368.jpg,232,66,675,659,Medical mask\Medical mask\annotations\5368.jpg.json,Medical mask\Medical mask\images\5368.jpg
+5790.jpg,,5790.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5790.jpg,361,41,561,302,Medical mask\Medical mask\annotations\5790.jpg.json,Medical mask\Medical mask\images\5790.jpg
+21_1_3_20170104222120446.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222120446.jpg,59,122,280,325,faces_only\subset\21_1_3_20170104222120446.xml,faces_only\subset\indian\female\21_1_3_20170104222120446.jpg
+21_1_3_20170104222653479.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222653479.jpg,200,85,339,235,faces_only\subset\21_1_3_20170104222653479.xml,faces_only\subset\indian\female\21_1_3_20170104222653479.jpg
+25_0_3_20170104230516489.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104230516489.jpg,70,54,370,358,faces_only\subset\25_0_3_20170104230516489.xml,faces_only\subset\indian\male\25_0_3_20170104230516489.jpg
+1931.jpg,,1931.jpg,1.0,0.0,4.0,2.0,1.0,False,0,1931.jpg,370,64,761,564,Medical mask\Medical mask\annotations\1931.jpg.json,Medical mask\Medical mask\images\1931.jpg
+6184.jpg,,6184.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6184.jpg,497,2,848,267,Medical mask\Medical mask\annotations\6184.jpg.json,Medical mask\Medical mask\images\6184.jpg
+25_0_3_20170117134725751.jpg,,,1.0,0.0,4.0,0.0,1.0,False,custom labelled,25_0_3_20170117134725751.jpg,66,80,456,595,faces_only\subset\25_0_3_20170117134725751.xml,faces_only\subset\indian\male\25_0_3_20170117134725751.jpg
+2071.jpg,,2071.jpg,1.0,0.0,4.0,1.0,1.0,False,0,2071.jpg,301,308,785,839,Medical mask\Medical mask\annotations\2071.jpg.json,Medical mask\Medical mask\images\2071.jpg
+5680.jpg,,5680.jpg,1.0,0.0,4.0,1.0,1.0,False,0,5680.jpg,305,92,483,338,Medical mask\Medical mask\annotations\5680.jpg.json,Medical mask\Medical mask\images\5680.jpg
+25_0_3_20170117134128269.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170117134128269.jpg,79,80,372,420,faces_only\subset\25_0_3_20170117134128269.xml,faces_only\subset\indian\male\25_0_3_20170117134128269.jpg
+21_0_3_20170119154042345.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154042345.jpg,217,32,310,121,faces_only\subset\21_0_3_20170119154042345.xml,faces_only\subset\indian\male\21_0_3_20170119154042345.jpg
+25_0_3_20170104214602149.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104214602149.jpg,178,17,433,245,faces_only\subset\25_0_3_20170104214602149.xml,faces_only\subset\indian\male\25_0_3_20170104214602149.jpg
+25_0_3_20170105175316102.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170105175316102.jpg,43,34,163,162,faces_only\subset\25_0_3_20170105175316102.xml,faces_only\subset\indian\male\25_0_3_20170105175316102.jpg
+6105.jpg,,6105.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6105.jpg,329,16,416,124,Medical mask\Medical mask\annotations\6105.jpg.json,Medical mask\Medical mask\images\6105.jpg
+6247.jpg,,6247.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6247.jpg,494,472,552,548,Medical mask\Medical mask\annotations\6247.jpg.json,Medical mask\Medical mask\images\6247.jpg
+21_0_3_20170119154046385.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154046385.jpg,74,66,233,266,faces_only\subset\21_0_3_20170119154046385.xml,faces_only\subset\indian\male\21_0_3_20170119154046385.jpg
+5460.jpeg,,5460.jpeg,1.0,0.0,4.0,1.0,1.0,False,0,5460.jpeg,147,57,488,506,Medical mask\Medical mask\annotations\5460.jpeg.json,Medical mask\Medical mask\images\5460.jpeg
+21_0_3_20170104230524803.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170104230524803.jpg,224,32,302,145,faces_only\subset\21_0_3_20170104230524803.xml,faces_only\subset\indian\male\21_0_3_20170104230524803.jpg
+21_0_3_20170119154219118.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154219118.jpg,137,122,354,444,faces_only\subset\21_0_3_20170119154219118.xml,faces_only\subset\indian\male\21_0_3_20170119154219118.jpg
+21_0_3_20170119150216454.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119150216454.jpg,49,49,396,406,faces_only\subset\21_0_3_20170119150216454.xml,faces_only\subset\indian\male\21_0_3_20170119150216454.jpg
+21_0_3_20170119154249810.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154249810.jpg,155,56,331,247,faces_only\subset\21_0_3_20170119154249810.xml,faces_only\subset\indian\male\21_0_3_20170119154249810.jpg
+6331.jpg,,6331.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6331.jpg,417,56,559,233,Medical mask\Medical mask\annotations\6331.jpg.json,Medical mask\Medical mask\images\6331.jpg
+5552.jpg,,5552.jpg,1.0,0.0,4.0,2.0,1.0,False,0,5552.jpg,201,6,627,599,Medical mask\Medical mask\annotations\5552.jpg.json,Medical mask\Medical mask\images\5552.jpg
+5858.jpg,,5858.jpg,1.0,0.0,4.0,2.0,1.0,False,0,5858.jpg,217,110,469,419,Medical mask\Medical mask\annotations\5858.jpg.json,Medical mask\Medical mask\images\5858.jpg
+21_0_3_20170119153824472.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119153824472.jpg,26,17,120,149,faces_only\subset\21_0_3_20170119153824472.xml,faces_only\subset\indian\male\21_0_3_20170119153824472.jpg
+21_0_3_20170117141644440.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170117141644440.jpg,227,124,495,443,faces_only\subset\21_0_3_20170117141644440.xml,faces_only\subset\indian\male\21_0_3_20170117141644440.jpg
+21_0_3_20170117141619327.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170117141619327.jpg,110,159,265,357,faces_only\subset\21_0_3_20170117141619327.xml,faces_only\subset\indian\male\21_0_3_20170117141619327.jpg
+25_0_3_20170104214432805.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104214432805.jpg,19,31,162,231,faces_only\subset\25_0_3_20170104214432805.xml,faces_only\subset\indian\male\25_0_3_20170104214432805.jpg
+1801.jpg,,1801.jpg,1.0,0.0,4.0,1.0,1.0,False,0,1801.jpg,451,186,895,697,Medical mask\Medical mask\annotations\1801.jpg.json,Medical mask\Medical mask\images\1801.jpg
+21_0_3_20170104225749698.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170104225749698.jpg,66,96,230,240,faces_only\subset\21_0_3_20170104225749698.xml,faces_only\subset\indian\male\21_0_3_20170104225749698.jpg
+21_0_3_20170104225910065.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170104225910065.jpg,97,70,300,316,faces_only\subset\21_0_3_20170104225910065.xml,faces_only\subset\indian\male\21_0_3_20170104225910065.jpg
+25_0_3_20170104220223342.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104220223342.jpg,111,50,221,181,faces_only\subset\25_0_3_20170104220223342.xml,faces_only\subset\indian\male\25_0_3_20170104220223342.jpg
+25_0_3_20170117134150022.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170117134150022.jpg,130,89,348,347,faces_only\subset\25_0_3_20170117134150022.xml,faces_only\subset\indian\male\25_0_3_20170117134150022.jpg
+6302.jpg,,6302.jpg,1.0,0.0,4.0,2.0,1.0,False,0,6302.jpg,375,171,481,302,Medical mask\Medical mask\annotations\6302.jpg.json,Medical mask\Medical mask\images\6302.jpg
+5307.jpg,,5307.jpg,1.0,0.0,4.0,1.0,1.0,False,0,5307.jpg,259,15,452,267,Medical mask\Medical mask\annotations\5307.jpg.json,Medical mask\Medical mask\images\5307.jpg
+21_0_3_20161220221819298.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20161220221819298.jpg,86,58,189,171,faces_only\subset\21_0_3_20161220221819298.xml,faces_only\subset\indian\male\21_0_3_20161220221819298.jpg
+6306.jpg,,6306.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6306.jpg,29,9,661,818,Medical mask\Medical mask\annotations\6306.jpg.json,Medical mask\Medical mask\images\6306.jpg
+5173.jpg,,5173.jpg,1.0,0.0,4.0,1.0,1.0,False,0,5173.jpg,198,0,848,819,Medical mask\Medical mask\annotations\5173.jpg.json,Medical mask\Medical mask\images\5173.jpg
+6319.jpg,,6319.jpg,1.0,0.0,4.0,2.0,1.0,False,0,6319.jpg,243,44,521,400,Medical mask\Medical mask\annotations\6319.jpg.json,Medical mask\Medical mask\images\6319.jpg
+21_0_3_20170104230718873.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170104230718873.jpg,138,126,316,282,faces_only\subset\21_0_3_20170104230718873.xml,faces_only\subset\indian\male\21_0_3_20170104230718873.jpg
+6330.jpg,,6330.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6330.jpg,471,109,574,248,Medical mask\Medical mask\annotations\6330.jpg.json,Medical mask\Medical mask\images\6330.jpg
+25_0_3_20170104230227202.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104230227202.jpg,142,59,360,310,faces_only\subset\25_0_3_20170104230227202.xml,faces_only\subset\indian\male\25_0_3_20170104230227202.jpg
+21_0_3_20170119154239873.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154239873.jpg,102,55,339,322,faces_only\subset\21_0_3_20170119154239873.xml,faces_only\subset\indian\male\21_0_3_20170119154239873.jpg
+4592.png,,,1.0,1.0,0.0,0.0,0.0,False,,4592.png,221,75,351,225,Medical mask\Medical mask\annotations\4592.png.json,Medical mask\Medical mask\images\4592.png
+4331.png,,4331.png,1.0,1.0,0.0,1.0,0.0,False,0,4331.png,279,48,419,228,Medical mask\Medical mask\annotations\4331.png.json,Medical mask\Medical mask\images\4331.png
+2205.png,,2205.png,1.0,1.0,0.0,0.0,0.0,False,0,2205.png,83,6,545,558,Medical mask\Medical mask\annotations\2205.png.json,Medical mask\Medical mask\images\2205.png
+4886.png,,,1.0,1.0,0.0,0.0,0.0,False,,4886.png,119,73,354,389,Medical mask\Medical mask\annotations\4886.png.json,Medical mask\Medical mask\images\4886.png
+4286.png,,4286.png,1.0,1.0,0.0,0.0,0.0,False,0,4286.png,61,6,463,508,Medical mask\Medical mask\annotations\4286.png.json,Medical mask\Medical mask\images\4286.png
+2979.png,,,1.0,1.0,0.0,0.0,0.0,False,,2979.png,95,106,423,528,Medical mask\Medical mask\annotations\2979.png.json,Medical mask\Medical mask\images\2979.png
+3041.png,,3041.png,1.0,1.0,0.0,0.0,0.0,False,0,3041.png,87,2,515,519,Medical mask\Medical mask\annotations\3041.png.json,Medical mask\Medical mask\images\3041.png
+4118.png,,4118.png,1.0,1.0,0.0,0.0,0.0,False,0,4118.png,149,18,569,618,Medical mask\Medical mask\annotations\4118.png.json,Medical mask\Medical mask\images\4118.png
+4278.png,,4278.png,1.0,1.0,0.0,0.0,0.0,False,0,4278.png,275,144,411,315,Medical mask\Medical mask\annotations\4278.png.json,Medical mask\Medical mask\images\4278.png
+5082.jpg,,,1.0,1.0,0.0,0.0,0.0,False,,5082.jpg,105,58,498,511,Medical mask\Medical mask\annotations\5082.jpg.json,Medical mask\Medical mask\images\5082.jpg
+3744.png,,,1.0,1.0,0.0,0.0,0.0,False,,3744.png,138,0,203,74,Medical mask\Medical mask\annotations\3744.png.json,Medical mask\Medical mask\images\3744.png
+3227.png,,,1.0,1.0,0.0,0.0,0.0,False,,3227.png,202,0,348,169,Medical mask\Medical mask\annotations\3227.png.json,Medical mask\Medical mask\images\3227.png
+4482.png,,4482.png,1.0,1.0,0.0,0.0,0.0,False,0,4482.png,3,8,429,580,Medical mask\Medical mask\annotations\4482.png.json,Medical mask\Medical mask\images\4482.png
+3112.png,,,1.0,1.0,0.0,0.0,0.0,False,,3112.png,303,4,676,496,Medical mask\Medical mask\annotations\3112.png.json,Medical mask\Medical mask\images\3112.png
+4937.png,,,1.0,1.0,0.0,0.0,0.0,False,,4937.png,337,86,712,554,Medical mask\Medical mask\annotations\4937.png.json,Medical mask\Medical mask\images\4937.png
+3556.png,,,1.0,1.0,0.0,0.0,0.0,False,,3556.png,145,1,507,400,Medical mask\Medical mask\annotations\3556.png.json,Medical mask\Medical mask\images\3556.png
+5016.jpg,,5016.jpg,1.0,1.0,0.0,0.0,0.0,False,0,5016.jpg,79,20,241,238,Medical mask\Medical mask\annotations\5016.jpg.json,Medical mask\Medical mask\images\5016.jpg
+2740.png,,2740.png,1.0,1.0,0.0,0.0,0.0,False,0,2740.png,138,188,284,371,Medical mask\Medical mask\annotations\2740.png.json,Medical mask\Medical mask\images\2740.png
+1920.jpg,,1920.jpg,1.0,1.0,0.0,0.0,0.0,False,0,1920.jpg,187,131,410,380,Medical mask\Medical mask\annotations\1920.jpg.json,Medical mask\Medical mask\images\1920.jpg
+5006.jpg,,,1.0,1.0,0.0,0.0,0.0,False,,5006.jpg,894,142,1364,804,Medical mask\Medical mask\annotations\5006.jpg.json,Medical mask\Medical mask\images\5006.jpg
+3157.png,,3157.png,1.0,1.0,0.0,0.0,0.0,False,0,3157.png,14,3,614,438,Medical mask\Medical mask\annotations\3157.png.json,Medical mask\Medical mask\images\3157.png
+3646.png,,,1.0,1.0,0.0,0.0,0.0,False,,3646.png,148,122,461,525,Medical mask\Medical mask\annotations\3646.png.json,Medical mask\Medical mask\images\3646.png
+2764.png,,2764.png,1.0,1.0,0.0,0.0,0.0,False,0,2764.png,153,36,420,376,Medical mask\Medical mask\annotations\2764.png.json,Medical mask\Medical mask\images\2764.png
+4487.png,,4487.png,1.0,1.0,0.0,0.0,0.0,False,0,4487.png,143,7,427,385,Medical mask\Medical mask\annotations\4487.png.json,Medical mask\Medical mask\images\4487.png
+5199.jpg,,,1.0,1.0,0.0,0.0,0.0,False,,5199.jpg,1689,273,2554,1255,Medical mask\Medical mask\annotations\5199.jpg.json,Medical mask\Medical mask\images\5199.jpg
+4829.png,,,1.0,1.0,0.0,0.0,0.0,False,,4829.png,224,57,614,598,Medical mask\Medical mask\annotations\4829.png.json,Medical mask\Medical mask\images\4829.png
+3840.png,,,1.0,1.0,0.0,0.0,0.0,False,,3840.png,28,4,370,357,Medical mask\Medical mask\annotations\3840.png.json,Medical mask\Medical mask\images\3840.png
+2663.png,,2663.png,1.0,1.0,0.0,0.0,0.0,False,0,2663.png,347,5,604,256,Medical mask\Medical mask\annotations\2663.png.json,Medical mask\Medical mask\images\2663.png
+2548.png,,2548.png,1.0,1.0,0.0,0.0,0.0,False,0,2548.png,193,193,285,315,Medical mask\Medical mask\annotations\2548.png.json,Medical mask\Medical mask\images\2548.png
+3969.png,,,1.0,1.0,0.0,0.0,0.0,False,,3969.png,105,5,498,431,Medical mask\Medical mask\annotations\3969.png.json,Medical mask\Medical mask\images\3969.png
+4367.png,,,1.0,1.0,0.0,0.0,0.0,False,,4367.png,225,7,685,481,Medical mask\Medical mask\annotations\4367.png.json,Medical mask\Medical mask\images\4367.png
+3215.png,,,1.0,1.0,0.0,0.0,0.0,False,,3215.png,191,4,395,270,Medical mask\Medical mask\annotations\3215.png.json,Medical mask\Medical mask\images\3215.png
+2173.png,,2173.png,1.0,1.0,0.0,0.0,0.0,False,0,2173.png,212,50,413,324,Medical mask\Medical mask\annotations\2173.png.json,Medical mask\Medical mask\images\2173.png
+3999.png,,,1.0,1.0,0.0,0.0,0.0,False,,3999.png,155,96,468,532,Medical mask\Medical mask\annotations\3999.png.json,Medical mask\Medical mask\images\3999.png
+2701.png,,,1.0,1.0,0.0,0.0,0.0,False,,2701.png,128,0,579,579,Medical mask\Medical mask\annotations\2701.png.json,Medical mask\Medical mask\images\2701.png
+3773.png,,,1.0,1.0,0.0,0.0,0.0,False,,3773.png,167,135,297,295,Medical mask\Medical mask\annotations\3773.png.json,Medical mask\Medical mask\images\3773.png
+2366.png,,2366.png,1.0,1.0,0.0,0.0,0.0,False,0,2366.png,321,111,450,257,Medical mask\Medical mask\annotations\2366.png.json,Medical mask\Medical mask\images\2366.png
+1919.jpg,,,1.0,1.0,0.0,0.0,0.0,False,,1919.jpg,111,279,424,648,Medical mask\Medical mask\annotations\1919.jpg.json,Medical mask\Medical mask\images\1919.jpg
+2070.jpg,,,1.0,1.0,0.0,1.0,0.0,False,,2070.jpg,306,180,610,561,Medical mask\Medical mask\annotations\2070.jpg.json,Medical mask\Medical mask\images\2070.jpg
+5615.jpg,,5615.jpg,1.0,1.0,0.0,0.0,0.0,False,0,5615.jpg,233,284,474,521,Medical mask\Medical mask\annotations\5615.jpg.json,Medical mask\Medical mask\images\5615.jpg
+2654.png,,2654.png,1.0,1.0,0.0,0.0,1.0,False,0,2654.png,151,3,390,241,Medical mask\Medical mask\annotations\2654.png.json,Medical mask\Medical mask\images\2654.png
+2160.png,,2160.png,1.0,1.0,0.0,0.0,1.0,False,0,2160.png,148,112,548,624,Medical mask\Medical mask\annotations\2160.png.json,Medical mask\Medical mask\images\2160.png
+4346.png,,4346.png,1.0,1.0,0.0,0.0,1.0,False,0,4346.png,49,13,476,600,Medical mask\Medical mask\annotations\4346.png.json,Medical mask\Medical mask\images\4346.png
+2424.png,,2424.png,1.0,1.0,0.0,1.0,1.0,False,0,2424.png,327,5,453,197,Medical mask\Medical mask\annotations\2424.png.json,Medical mask\Medical mask\images\2424.png
+2848.png,,2848.png,1.0,1.0,0.0,0.0,1.0,False,0,2848.png,3,7,356,377,Medical mask\Medical mask\annotations\2848.png.json,Medical mask\Medical mask\images\2848.png
+3311.png,,,1.0,1.0,0.0,0.0,1.0,False,,3311.png,372,30,535,276,Medical mask\Medical mask\annotations\3311.png.json,Medical mask\Medical mask\images\3311.png
+4403.png,,,1.0,1.0,0.0,0.0,1.0,False,,4403.png,173,113,548,588,Medical mask\Medical mask\annotations\4403.png.json,Medical mask\Medical mask\images\4403.png
+3450.png,,3450.png,1.0,1.0,0.0,0.0,1.0,False,0,3450.png,114,26,495,583,Medical mask\Medical mask\annotations\3450.png.json,Medical mask\Medical mask\images\3450.png
+1843.jpg,,1843.jpg,1.0,1.0,0.0,0.0,1.0,False,0,1843.jpg,251,135,730,667,Medical mask\Medical mask\annotations\1843.jpg.json,Medical mask\Medical mask\images\1843.jpg
+4163.png,,,1.0,1.0,0.0,0.0,1.0,False,,4163.png,221,106,583,607,Medical mask\Medical mask\annotations\4163.png.json,Medical mask\Medical mask\images\4163.png
+2614.png,,2614.png,1.0,1.0,0.0,0.0,1.0,False,0,2614.png,250,8,466,285,Medical mask\Medical mask\annotations\2614.png.json,Medical mask\Medical mask\images\2614.png
+3789.png,,3789.png,1.0,1.0,0.0,0.0,1.0,False,0,3789.png,142,22,395,355,Medical mask\Medical mask\annotations\3789.png.json,Medical mask\Medical mask\images\3789.png
+3780.png,,,1.0,1.0,0.0,1.0,1.0,False,,3780.png,370,5,507,162,Medical mask\Medical mask\annotations\3780.png.json,Medical mask\Medical mask\images\3780.png
+3299.png,,3299.png,1.0,1.0,0.0,0.0,1.0,False,0,3299.png,303,169,504,411,Medical mask\Medical mask\annotations\3299.png.json,Medical mask\Medical mask\images\3299.png
+3451.png,,,1.0,1.0,0.0,0.0,1.0,False,,3451.png,129,224,328,525,Medical mask\Medical mask\annotations\3451.png.json,Medical mask\Medical mask\images\3451.png
+3967.png,,,1.0,1.0,0.0,1.0,1.0,False,,3967.png,143,27,291,216,Medical mask\Medical mask\annotations\3967.png.json,Medical mask\Medical mask\images\3967.png
+3479.png,,,1.0,1.0,0.0,0.0,1.0,False,,3479.png,194,0,510,426,Medical mask\Medical mask\annotations\3479.png.json,Medical mask\Medical mask\images\3479.png
+5005.jpg,,,1.0,1.0,0.0,1.0,1.0,False,,5005.jpg,103,100,571,685,Medical mask\Medical mask\annotations\5005.jpg.json,Medical mask\Medical mask\images\5005.jpg
+2167.png,,2167.png,1.0,1.0,0.0,0.0,1.0,False,0,2167.png,248,8,438,207,Medical mask\Medical mask\annotations\2167.png.json,Medical mask\Medical mask\images\2167.png
+3965.png,,,1.0,1.0,0.0,1.0,1.0,False,,3965.png,171,13,513,542,Medical mask\Medical mask\annotations\3965.png.json,Medical mask\Medical mask\images\3965.png
+5138.jpg,,,1.0,1.0,0.0,0.0,1.0,False,,5138.jpg,476,156,874,632,Medical mask\Medical mask\annotations\5138.jpg.json,Medical mask\Medical mask\images\5138.jpg
+4511.png,,,1.0,1.0,0.0,0.0,1.0,False,,4511.png,297,6,452,240,Medical mask\Medical mask\annotations\4511.png.json,Medical mask\Medical mask\images\4511.png
+3710.png,,,1.0,1.0,0.0,0.0,1.0,False,,3710.png,226,41,401,266,Medical mask\Medical mask\annotations\3710.png.json,Medical mask\Medical mask\images\3710.png
+4322.png,,,1.0,1.0,0.0,0.0,1.0,False,,4322.png,279,108,357,211,Medical mask\Medical mask\annotations\4322.png.json,Medical mask\Medical mask\images\4322.png
+3514.png,,3514.png,1.0,1.0,0.0,0.0,1.0,False,0,3514.png,171,103,381,306,Medical mask\Medical mask\annotations\3514.png.json,Medical mask\Medical mask\images\3514.png
+4421.png,,,1.0,1.0,0.0,0.0,1.0,False,,4421.png,28,7,489,592,Medical mask\Medical mask\annotations\4421.png.json,Medical mask\Medical mask\images\4421.png
+2559.png,,2559.png,1.0,1.0,0.0,0.0,1.0,False,0,2559.png,190,8,298,155,Medical mask\Medical mask\annotations\2559.png.json,Medical mask\Medical mask\images\2559.png
+4922.png,,,1.0,1.0,0.0,0.0,1.0,False,,4922.png,216,7,480,316,Medical mask\Medical mask\annotations\4922.png.json,Medical mask\Medical mask\images\4922.png
+2268.png,,2268.png,1.0,1.0,0.0,1.0,1.0,False,changed hispanic,2268.png,213,17,528,458,Medical mask\Medical mask\annotations\2268.png.json,Medical mask\Medical mask\images\2268.png
+4708.png,,,1.0,1.0,0.0,0.0,1.0,False,,4708.png,471,20,577,142,Medical mask\Medical mask\annotations\4708.png.json,Medical mask\Medical mask\images\4708.png
+2649.png,,2649.png,1.0,1.0,0.0,0.0,1.0,False,0,2649.png,316,15,568,371,Medical mask\Medical mask\annotations\2649.png.json,Medical mask\Medical mask\images\2649.png
+4878.png,,,1.0,1.0,0.0,0.0,1.0,False,,4878.png,86,29,426,556,Medical mask\Medical mask\annotations\4878.png.json,Medical mask\Medical mask\images\4878.png
+2778.png,,,1.0,1.0,0.0,0.0,1.0,False,,2778.png,82,1,437,499,Medical mask\Medical mask\annotations\2778.png.json,Medical mask\Medical mask\images\2778.png
+5323.jpg,,5323.jpg,1.0,1.0,0.0,0.0,1.0,False,0,5323.jpg,525,254,603,343,Medical mask\Medical mask\annotations\5323.jpg.json,Medical mask\Medical mask\images\5323.jpg
+3454.png,,,1.0,1.0,0.0,0.0,1.0,False,,3454.png,120,25,636,600,Medical mask\Medical mask\annotations\3454.png.json,Medical mask\Medical mask\images\3454.png
+3428.png,,,1.0,1.0,0.0,0.0,1.0,False,,3428.png,29,187,324,572,Medical mask\Medical mask\annotations\3428.png.json,Medical mask\Medical mask\images\3428.png
+3207.png,,,1.0,1.0,0.0,0.0,1.0,False,,3207.png,3,3,720,604,Medical mask\Medical mask\annotations\3207.png.json,Medical mask\Medical mask\images\3207.png
+4832.png,,,1.0,1.0,0.0,0.0,1.0,False,,4832.png,306,102,433,280,Medical mask\Medical mask\annotations\4832.png.json,Medical mask\Medical mask\images\4832.png
+4480.png,,,1.0,1.0,0.0,0.0,1.0,False,,4480.png,221,80,415,333,Medical mask\Medical mask\annotations\4480.png.json,Medical mask\Medical mask\images\4480.png
+3324.png,,3324.png,1.0,1.0,0.0,0.0,1.0,False,0,3324.png,91,5,612,566,Medical mask\Medical mask\annotations\3324.png.json,Medical mask\Medical mask\images\3324.png
+3942.png,,3942.png,1.0,1.0,2.0,1.0,0.0,False,0,3942.png,572,97,658,213,Medical mask\Medical mask\annotations\3942.png.json,Medical mask\Medical mask\images\3942.png
+2962.png,,2962.png,1.0,1.0,2.0,1.0,0.0,False,0,2962.png,339,5,459,116,Medical mask\Medical mask\annotations\2962.png.json,Medical mask\Medical mask\images\2962.png
+3955.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3955.png,100,6,658,610,Medical mask\Medical mask\annotations\3955.png.json,Medical mask\Medical mask\images\3955.png
+3204.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3204.png,224,2,464,348,Medical mask\Medical mask\annotations\3204.png.json,Medical mask\Medical mask\images\3204.png
+3750.png,,3750.png,1.0,1.0,2.0,2.0,0.0,False,0,3750.png,94,4,535,543,Medical mask\Medical mask\annotations\3750.png.json,Medical mask\Medical mask\images\3750.png
+2141.jpg,,2141.jpg,1.0,1.0,2.0,2.0,0.0,False,0,2141.jpg,490,79,653,262,Medical mask\Medical mask\annotations\2141.jpg.json,Medical mask\Medical mask\images\2141.jpg
+4714.png,,4714.png,1.0,1.0,2.0,2.0,0.0,False,0,4714.png,200,169,299,269,Medical mask\Medical mask\annotations\4714.png.json,Medical mask\Medical mask\images\4714.png
+4798.png,,4798.png,1.0,1.0,2.0,2.0,0.0,False,0,4798.png,189,45,318,214,Medical mask\Medical mask\annotations\4798.png.json,Medical mask\Medical mask\images\4798.png
+3218.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3218.png,172,1,495,414,Medical mask\Medical mask\annotations\3218.png.json,Medical mask\Medical mask\images\3218.png
+3751.png,,3751.png,1.0,1.0,2.0,1.0,0.0,False,0,3751.png,60,18,422,460,Medical mask\Medical mask\annotations\3751.png.json,Medical mask\Medical mask\images\3751.png
+2853.png,,2853.png,1.0,1.0,2.0,2.0,0.0,False,0,2853.png,320,64,420,202,Medical mask\Medical mask\annotations\2853.png.json,Medical mask\Medical mask\images\2853.png
+4611.png,,,1.0,1.0,2.0,1.0,0.0,False,,4611.png,143,36,426,480,Medical mask\Medical mask\annotations\4611.png.json,Medical mask\Medical mask\images\4611.png
+3720.png,,,1.0,1.0,2.0,1.0,0.0,False,debiased,3720.png,539,5,1062,553,Medical mask\Medical mask\annotations\3720.png.json,Medical mask\Medical mask\images\3720.png
+3387.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3387.png,156,63,398,333,Medical mask\Medical mask\annotations\3387.png.json,Medical mask\Medical mask\images\3387.png
+3963.png,,,1.0,1.0,2.0,2.0,0.0,False,,3963.png,249,118,325,199,Medical mask\Medical mask\annotations\3963.png.json,Medical mask\Medical mask\images\3963.png
+6417.png,,,1.0,1.0,2.0,2.0,0.0,False,,6417.png,294,350,613,632,Medical mask\Medical mask\annotations\6417.png.json,Medical mask\Medical mask\images\6417.png
+3900.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3900.png,151,64,303,264,Medical mask\Medical mask\annotations\3900.png.json,Medical mask\Medical mask\images\3900.png
+5442.jpg,,,1.0,1.0,2.0,2.0,0.0,False,,5442.jpg,424,232,610,380,Medical mask\Medical mask\annotations\5442.jpg.json,Medical mask\Medical mask\images\5442.jpg
+5146.jpg,,,1.0,1.0,2.0,2.0,0.0,False,,5146.jpg,403,133,480,242,Medical mask\Medical mask\annotations\5146.jpg.json,Medical mask\Medical mask\images\5146.jpg
+3699.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3699.png,159,107,449,482,Medical mask\Medical mask\annotations\3699.png.json,Medical mask\Medical mask\images\3699.png
+4031.png,,4031.png,1.0,1.0,2.0,2.0,0.0,False,0,4031.png,47,3,356,365,Medical mask\Medical mask\annotations\4031.png.json,Medical mask\Medical mask\images\4031.png
+2800.png,,2800.png,1.0,1.0,2.0,2.0,0.0,False,0,2800.png,165,12,254,98,Medical mask\Medical mask\annotations\2800.png.json,Medical mask\Medical mask\images\2800.png
+2991.png,,2991.png,1.0,1.0,2.0,2.0,0.0,False,0,2991.png,233,98,374,281,Medical mask\Medical mask\annotations\2991.png.json,Medical mask\Medical mask\images\2991.png
+3502.png,,3502.png,1.0,1.0,2.0,2.0,0.0,False,0,3502.png,319,127,396,233,Medical mask\Medical mask\annotations\3502.png.json,Medical mask\Medical mask\images\3502.png
+3401.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3401.png,195,6,681,499,Medical mask\Medical mask\annotations\3401.png.json,Medical mask\Medical mask\images\3401.png
+3345.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3345.png,190,70,561,462,Medical mask\Medical mask\annotations\3345.png.json,Medical mask\Medical mask\images\3345.png
+2912.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,2912.png,22,7,563,423,Medical mask\Medical mask\annotations\2912.png.json,Medical mask\Medical mask\images\2912.png
+3054.png,,3054.png,1.0,1.0,2.0,2.0,0.0,False,0,3054.png,352,32,557,336,Medical mask\Medical mask\annotations\3054.png.json,Medical mask\Medical mask\images\3054.png
+4419.png,,4419.png,1.0,1.0,2.0,0.0,0.0,False,0,4419.png,82,8,467,425,Medical mask\Medical mask\annotations\4419.png.json,Medical mask\Medical mask\images\4419.png
+3011.png,,3011.png,1.0,1.0,2.0,2.0,0.0,False,0,3011.png,310,107,396,233,Medical mask\Medical mask\annotations\3011.png.json,Medical mask\Medical mask\images\3011.png
+3444.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3444.png,88,23,376,365,Medical mask\Medical mask\annotations\3444.png.json,Medical mask\Medical mask\images\3444.png
+3783.png,,3783.png,1.0,1.0,2.0,1.0,0.0,False,0,3783.png,241,200,318,294,Medical mask\Medical mask\annotations\3783.png.json,Medical mask\Medical mask\images\3783.png
+2983.png,,2983.png,1.0,1.0,2.0,1.0,0.0,False,0,2983.png,226,3,698,484,Medical mask\Medical mask\annotations\2983.png.json,Medical mask\Medical mask\images\2983.png
+4310.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,4310.png,46,8,420,381,Medical mask\Medical mask\annotations\4310.png.json,Medical mask\Medical mask\images\4310.png
+2640.png,,2640.png,1.0,1.0,2.0,1.0,0.0,False,0,2640.png,290,7,485,246,Medical mask\Medical mask\annotations\2640.png.json,Medical mask\Medical mask\images\2640.png
+2784.png,,2784.png,1.0,1.0,2.0,2.0,0.0,False,0,2784.png,192,42,340,229,Medical mask\Medical mask\annotations\2784.png.json,Medical mask\Medical mask\images\2784.png
+3668.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3668.png,150,3,510,481,Medical mask\Medical mask\annotations\3668.png.json,Medical mask\Medical mask\images\3668.png
+2638.png,,2638.png,1.0,1.0,2.0,1.0,0.0,False,0,2638.png,113,138,422,619,Medical mask\Medical mask\annotations\2638.png.json,Medical mask\Medical mask\images\2638.png
+2204.png,,2204.png,1.0,1.0,2.0,1.0,0.0,False,changed hispanic,2204.png,231,16,323,129,Medical mask\Medical mask\annotations\2204.png.json,Medical mask\Medical mask\images\2204.png
+2544.png,,2544.png,1.0,1.0,2.0,2.0,0.0,False,0,2544.png,182,64,427,397,Medical mask\Medical mask\annotations\2544.png.json,Medical mask\Medical mask\images\2544.png
+4111.png,,,1.0,1.0,2.0,2.0,1.0,False,,4111.png,230,72,970,813,Medical mask\Medical mask\annotations\4111.png.json,Medical mask\Medical mask\images\4111.png
+2950.png,,2950.png,1.0,1.0,2.0,1.0,1.0,False,0,2950.png,397,94,485,194,Medical mask\Medical mask\annotations\2950.png.json,Medical mask\Medical mask\images\2950.png
+4444.png,,4444.png,1.0,1.0,2.0,1.0,1.0,False,0,4444.png,269,142,369,274,Medical mask\Medical mask\annotations\4444.png.json,Medical mask\Medical mask\images\4444.png
+4919.png,,4919.png,1.0,1.0,2.0,0.0,1.0,False,0,4919.png,280,29,384,170,Medical mask\Medical mask\annotations\4919.png.json,Medical mask\Medical mask\images\4919.png
+6430.png,,6430.png,1.0,1.0,2.0,2.0,1.0,False,0,6430.png,374,102,530,232,Medical mask\Medical mask\annotations\6430.png.json,Medical mask\Medical mask\images\6430.png
+2677.png,,2677.png,1.0,1.0,2.0,2.0,1.0,False,0,2677.png,37,20,194,229,Medical mask\Medical mask\annotations\2677.png.json,Medical mask\Medical mask\images\2677.png
+5300.jpeg,,5300.jpeg,1.0,1.0,2.0,1.0,1.0,False,0,5300.jpeg,1441,376,1581,489,Medical mask\Medical mask\annotations\5300.jpeg.json,Medical mask\Medical mask\images\5300.jpeg
+3891.png,,,1.0,1.0,2.0,2.0,1.0,False,,3891.png,237,101,299,169,Medical mask\Medical mask\annotations\3891.png.json,Medical mask\Medical mask\images\3891.png
+2408.png,,2408.png,1.0,1.0,2.0,2.0,1.0,False,0,2408.png,225,77,456,430,Medical mask\Medical mask\annotations\2408.png.json,Medical mask\Medical mask\images\2408.png
+1823.jpg,,1823.jpg,1.0,1.0,2.0,2.0,1.0,False,0,1823.jpg,386,76,545,285,Medical mask\Medical mask\annotations\1823.jpg.json,Medical mask\Medical mask\images\1823.jpg
+2595.png,,2595.png,1.0,1.0,2.0,2.0,1.0,False,0,2595.png,260,81,547,482,Medical mask\Medical mask\annotations\2595.png.json,Medical mask\Medical mask\images\2595.png
+1877.jpg,,,1.0,1.0,2.0,2.0,1.0,False,debiased,1877.jpg,837,670,2037,2234,Medical mask\Medical mask\annotations\1877.jpg.json,Medical mask\Medical mask\images\1877.jpg
+3821.png,,,1.0,1.0,2.0,2.0,1.0,False,,3821.png,343,109,479,238,Medical mask\Medical mask\annotations\3821.png.json,Medical mask\Medical mask\images\3821.png
+1861.jpg,,,1.0,1.0,2.0,2.0,1.0,False,debiased,1861.jpg,518,116,938,632,Medical mask\Medical mask\annotations\1861.jpg.json,Medical mask\Medical mask\images\1861.jpg
+5452.jpg,,,1.0,1.0,2.0,2.0,1.0,False,,5452.jpg,731,90,1224,847,Medical mask\Medical mask\annotations\5452.jpg.json,Medical mask\Medical mask\images\5452.jpg
+3886.png,,,1.0,1.0,2.0,2.0,1.0,False,,3886.png,115,4,595,596,Medical mask\Medical mask\annotations\3886.png.json,Medical mask\Medical mask\images\3886.png
+3435.png,,3435.png,1.0,1.0,2.0,1.0,1.0,False,0,3435.png,85,0,390,466,Medical mask\Medical mask\annotations\3435.png.json,Medical mask\Medical mask\images\3435.png
+2558.png,,2558.png,1.0,1.0,2.0,2.0,1.0,False,0,2558.png,197,5,521,448,Medical mask\Medical mask\annotations\2558.png.json,Medical mask\Medical mask\images\2558.png
+3771.png,,,1.0,1.0,2.0,2.0,1.0,False,,3771.png,73,0,326,317,Medical mask\Medical mask\annotations\3771.png.json,Medical mask\Medical mask\images\3771.png
+4594.png,,,1.0,1.0,2.0,2.0,1.0,False,,4594.png,405,97,499,210,Medical mask\Medical mask\annotations\4594.png.json,Medical mask\Medical mask\images\4594.png
+3787.png,,,1.0,1.0,2.0,2.0,1.0,False,,3787.png,256,40,514,391,Medical mask\Medical mask\annotations\3787.png.json,Medical mask\Medical mask\images\3787.png
+4687.png,,,1.0,1.0,2.0,2.0,1.0,False,,4687.png,52,58,378,568,Medical mask\Medical mask\annotations\4687.png.json,Medical mask\Medical mask\images\4687.png
+5245.jpg,,,1.0,1.0,2.0,2.0,1.0,False,,5245.jpg,351,24,494,195,Medical mask\Medical mask\annotations\5245.jpg.json,Medical mask\Medical mask\images\5245.jpg
+4067.png,,,1.0,1.0,2.0,1.0,1.0,False,,4067.png,155,31,301,170,Medical mask\Medical mask\annotations\4067.png.json,Medical mask\Medical mask\images\4067.png
+4240.png,,,1.0,1.0,2.0,2.0,1.0,False,,4240.png,342,196,394,264,Medical mask\Medical mask\annotations\4240.png.json,Medical mask\Medical mask\images\4240.png
+2192.png,,2192.png,1.0,1.0,2.0,2.0,1.0,False,0,2192.png,293,16,541,350,Medical mask\Medical mask\annotations\2192.png.json,Medical mask\Medical mask\images\2192.png
+4021.png,,,1.0,1.0,2.0,1.0,1.0,False,,4021.png,363,4,514,198,Medical mask\Medical mask\annotations\4021.png.json,Medical mask\Medical mask\images\4021.png
+1876.jpg,,,1.0,1.0,2.0,2.0,1.0,False,debiased,1876.jpg,186,63,417,357,Medical mask\Medical mask\annotations\1876.jpg.json,Medical mask\Medical mask\images\1876.jpg
+4136.png,,,1.0,1.0,2.0,2.0,1.0,False,,4136.png,151,131,249,251,Medical mask\Medical mask\annotations\4136.png.json,Medical mask\Medical mask\images\4136.png
+4448.png,,,1.0,1.0,2.0,2.0,1.0,False,,4448.png,311,24,414,170,Medical mask\Medical mask\annotations\4448.png.json,Medical mask\Medical mask\images\4448.png
+6414.png,,6414.png,1.0,1.0,2.0,2.0,1.0,False,0,6414.png,104,354,544,665,Medical mask\Medical mask\annotations\6414.png.json,Medical mask\Medical mask\images\6414.png
+5594.jpg,,5594.jpg,1.0,1.0,2.0,2.0,1.0,False,0,5594.jpg,729,49,1480,1178,Medical mask\Medical mask\annotations\5594.jpg.json,Medical mask\Medical mask\images\5594.jpg
+4005.png,,,1.0,1.0,2.0,2.0,1.0,False,,4005.png,14,59,342,432,Medical mask\Medical mask\annotations\4005.png.json,Medical mask\Medical mask\images\4005.png
+1872.jpg,,,1.0,1.0,2.0,2.0,1.0,False,debiased,1872.jpg,1049,98,1235,318,Medical mask\Medical mask\annotations\1872.jpg.json,Medical mask\Medical mask\images\1872.jpg
+4208.png,,4208.png,1.0,1.0,2.0,2.0,1.0,False,0,4208.png,318,9,367,64,Medical mask\Medical mask\annotations\4208.png.json,Medical mask\Medical mask\images\4208.png
+4981.png,,,1.0,1.0,2.0,1.0,1.0,False,,4981.png,267,158,412,372,Medical mask\Medical mask\annotations\4981.png.json,Medical mask\Medical mask\images\4981.png
+3033.png,,3033.png,1.0,1.0,2.0,2.0,1.0,False,0,3033.png,6,5,327,406,Medical mask\Medical mask\annotations\3033.png.json,Medical mask\Medical mask\images\3033.png
+2561.png,,2561.png,1.0,1.0,2.0,2.0,1.0,False,0,2561.png,312,187,763,583,Medical mask\Medical mask\annotations\2561.png.json,Medical mask\Medical mask\images\2561.png
+4452.png,,,1.0,1.0,2.0,2.0,1.0,False,,4452.png,208,23,307,164,Medical mask\Medical mask\annotations\4452.png.json,Medical mask\Medical mask\images\4452.png
+4202.png,,,1.0,1.0,2.0,1.0,1.0,False,,4202.png,284,342,377,452,Medical mask\Medical mask\annotations\4202.png.json,Medical mask\Medical mask\images\4202.png
+5325.jpg,,,1.0,1.0,3.0,0.0,0.0,False,,5325.jpg,156,284,429,507,Medical mask\Medical mask\annotations\5325.jpg.json,Medical mask\Medical mask\images\5325.jpg
+5057.jpg,,,1.0,1.0,3.0,1.0,0.0,False,,5057.jpg,904,94,1532,823,Medical mask\Medical mask\annotations\5057.jpg.json,Medical mask\Medical mask\images\5057.jpg
+2618.png,,2618.png,1.0,1.0,3.0,0.0,0.0,False,0,2618.png,348,3,518,223,Medical mask\Medical mask\annotations\2618.png.json,Medical mask\Medical mask\images\2618.png
+5003.jpg,,,1.0,1.0,3.0,0.0,0.0,False,,5003.jpg,304,9,470,230,Medical mask\Medical mask\annotations\5003.jpg.json,Medical mask\Medical mask\images\5003.jpg
+3748.png,,3748.png,1.0,1.0,3.0,0.0,0.0,False,0,3748.png,239,28,624,551,Medical mask\Medical mask\annotations\3748.png.json,Medical mask\Medical mask\images\3748.png
+5075.png,,,1.0,1.0,3.0,1.0,0.0,False,,5075.png,305,186,397,263,Medical mask\Medical mask\annotations\5075.png.json,Medical mask\Medical mask\images\5075.png
+3194.png,,,1.0,1.0,3.0,0.0,0.0,False,,3194.png,104,94,226,256,Medical mask\Medical mask\annotations\3194.png.json,Medical mask\Medical mask\images\3194.png
+5015.jpg,,,1.0,1.0,3.0,0.0,0.0,False,,5015.jpg,839,6,1590,872,Medical mask\Medical mask\annotations\5015.jpg.json,Medical mask\Medical mask\images\5015.jpg
+2867.png,,,1.0,1.0,3.0,0.0,0.0,False,,2867.png,167,5,228,81,Medical mask\Medical mask\annotations\2867.png.json,Medical mask\Medical mask\images\2867.png
+4614.png,,4614.png,1.0,1.0,3.0,0.0,0.0,False,0,4614.png,572,126,887,531,Medical mask\Medical mask\annotations\4614.png.json,Medical mask\Medical mask\images\4614.png
+1963.png,,1963.png,1.0,1.0,3.0,0.0,0.0,False,0,1963.png,139,60,428,426,Medical mask\Medical mask\annotations\1963.png.json,Medical mask\Medical mask\images\1963.png
+4563.png,,,1.0,1.0,3.0,0.0,0.0,False,,4563.png,144,7,429,374,Medical mask\Medical mask\annotations\4563.png.json,Medical mask\Medical mask\images\4563.png
+3617.png,,,1.0,1.0,3.0,1.0,0.0,False,,3617.png,110,3,424,421,Medical mask\Medical mask\annotations\3617.png.json,Medical mask\Medical mask\images\3617.png
+4507.png,,4507.png,1.0,1.0,3.0,0.0,0.0,False,0,4507.png,172,13,366,249,Medical mask\Medical mask\annotations\4507.png.json,Medical mask\Medical mask\images\4507.png
+4312.png,,,1.0,1.0,3.0,0.0,0.0,False,,4312.png,76,7,498,481,Medical mask\Medical mask\annotations\4312.png.json,Medical mask\Medical mask\images\4312.png
+5014.jpg,,5014.jpg,1.0,1.0,3.0,0.0,0.0,False,0,5014.jpg,52,2,292,236,Medical mask\Medical mask\annotations\5014.jpg.json,Medical mask\Medical mask\images\5014.jpg
+5170.jpg,,,1.0,1.0,3.0,1.0,0.0,False,,5170.jpg,295,102,465,335,Medical mask\Medical mask\annotations\5170.jpg.json,Medical mask\Medical mask\images\5170.jpg
+4518.png,,,1.0,1.0,3.0,1.0,0.0,False,,4518.png,212,67,326,246,Medical mask\Medical mask\annotations\4518.png.json,Medical mask\Medical mask\images\4518.png
+3410.png,,3410.png,1.0,1.0,3.0,0.0,0.0,False,0,3410.png,426,57,531,196,Medical mask\Medical mask\annotations\3410.png.json,Medical mask\Medical mask\images\3410.png
+4693.png,,,1.0,1.0,3.0,1.0,0.0,False,,4693.png,238,0,707,490,Medical mask\Medical mask\annotations\4693.png.json,Medical mask\Medical mask\images\4693.png
+3493.png,,,1.0,1.0,3.0,0.0,0.0,False,,3493.png,88,14,474,503,Medical mask\Medical mask\annotations\3493.png.json,Medical mask\Medical mask\images\3493.png
+4314.png,,,1.0,1.0,3.0,1.0,0.0,False,,4314.png,449,175,569,258,Medical mask\Medical mask\annotations\4314.png.json,Medical mask\Medical mask\images\4314.png
+4559.png,,4559.png,1.0,1.0,3.0,1.0,0.0,False,0,4559.png,163,8,658,428,Medical mask\Medical mask\annotations\4559.png.json,Medical mask\Medical mask\images\4559.png
+4860.png,,4860.png,1.0,1.0,3.0,0.0,0.0,False,0,4860.png,327,35,408,127,Medical mask\Medical mask\annotations\4860.png.json,Medical mask\Medical mask\images\4860.png
+4715.png,,,1.0,1.0,3.0,0.0,0.0,False,,4715.png,388,2,575,205,Medical mask\Medical mask\annotations\4715.png.json,Medical mask\Medical mask\images\4715.png
+4420.png,,4420.png,1.0,1.0,3.0,0.0,0.0,False,0,4420.png,429,6,715,374,Medical mask\Medical mask\annotations\4420.png.json,Medical mask\Medical mask\images\4420.png
+3881.png,,,1.0,1.0,3.0,0.0,0.0,False,,3881.png,38,5,482,555,Medical mask\Medical mask\annotations\3881.png.json,Medical mask\Medical mask\images\3881.png
+4581.png,,,1.0,1.0,3.0,1.0,0.0,False,,4581.png,158,17,529,515,Medical mask\Medical mask\annotations\4581.png.json,Medical mask\Medical mask\images\4581.png
+2866.png,,2866.png,1.0,1.0,3.0,0.0,0.0,False,0,2866.png,405,107,598,327,Medical mask\Medical mask\annotations\2866.png.json,Medical mask\Medical mask\images\2866.png
+1959.jpg,,1959.jpg,1.0,1.0,3.0,0.0,0.0,False,0,1959.jpg,313,206,955,958,Medical mask\Medical mask\annotations\1959.jpg.json,Medical mask\Medical mask\images\1959.jpg
+2627.png,,,1.0,1.0,3.0,0.0,0.0,False,,2627.png,449,207,522,295,Medical mask\Medical mask\annotations\2627.png.json,Medical mask\Medical mask\images\2627.png
+4584.png,,,1.0,1.0,3.0,1.0,0.0,False,,4584.png,269,3,522,316,Medical mask\Medical mask\annotations\4584.png.json,Medical mask\Medical mask\images\4584.png
+4229.png,,4229.png,1.0,1.0,3.0,0.0,0.0,False,0,4229.png,91,0,345,377,Medical mask\Medical mask\annotations\4229.png.json,Medical mask\Medical mask\images\4229.png
+3455.png,,,1.0,1.0,3.0,0.0,0.0,False,,3455.png,145,157,395,471,Medical mask\Medical mask\annotations\3455.png.json,Medical mask\Medical mask\images\3455.png
+3757.png,,,1.0,1.0,3.0,0.0,0.0,False,,3757.png,182,11,378,277,Medical mask\Medical mask\annotations\3757.png.json,Medical mask\Medical mask\images\3757.png
+3439.png,,3439.png,1.0,1.0,3.0,0.0,0.0,False,0,3439.png,203,6,645,436,Medical mask\Medical mask\annotations\3439.png.json,Medical mask\Medical mask\images\3439.png
+4172.png,,,1.0,1.0,3.0,0.0,0.0,False,,4172.png,254,3,430,220,Medical mask\Medical mask\annotations\4172.png.json,Medical mask\Medical mask\images\4172.png
+2342.png,,2342.png,1.0,1.0,3.0,0.0,0.0,False,0,2342.png,193,26,259,119,Medical mask\Medical mask\annotations\2342.png.json,Medical mask\Medical mask\images\2342.png
+2948.png,,2948.png,1.0,1.0,3.0,0.0,0.0,False,0,2948.png,250,49,383,213,Medical mask\Medical mask\annotations\2948.png.json,Medical mask\Medical mask\images\2948.png
+3855.png,,,1.0,1.0,3.0,0.0,0.0,False,,3855.png,467,205,551,314,Medical mask\Medical mask\annotations\3855.png.json,Medical mask\Medical mask\images\3855.png
+4261.png,,4261.png,1.0,1.0,3.0,0.0,1.0,False,0,4261.png,134,13,431,376,Medical mask\Medical mask\annotations\4261.png.json,Medical mask\Medical mask\images\4261.png
+4549.png,,,1.0,1.0,3.0,0.0,1.0,False,,4549.png,72,9,429,501,Medical mask\Medical mask\annotations\4549.png.json,Medical mask\Medical mask\images\4549.png
+4543.png,,,1.0,1.0,3.0,0.0,1.0,False,,4543.png,50,0,399,613,Medical mask\Medical mask\annotations\4543.png.json,Medical mask\Medical mask\images\4543.png
+2451.png,,2451.png,1.0,1.0,3.0,0.0,1.0,False,0,2451.png,255,78,346,193,Medical mask\Medical mask\annotations\2451.png.json,Medical mask\Medical mask\images\2451.png
+4391.png,,4391.png,1.0,1.0,3.0,0.0,1.0,False,0,4391.png,543,12,1029,570,Medical mask\Medical mask\annotations\4391.png.json,Medical mask\Medical mask\images\4391.png
+4527.png,,,1.0,1.0,3.0,0.0,1.0,False,,4527.png,49,39,398,502,Medical mask\Medical mask\annotations\4527.png.json,Medical mask\Medical mask\images\4527.png
+4244.png,,,1.0,1.0,3.0,0.0,1.0,False,,4244.png,239,24,424,277,Medical mask\Medical mask\annotations\4244.png.json,Medical mask\Medical mask\images\4244.png
+4713.png,,4713.png,1.0,1.0,3.0,0.0,1.0,False,0,4713.png,497,239,574,326,Medical mask\Medical mask\annotations\4713.png.json,Medical mask\Medical mask\images\4713.png
+4399.png,,4399.png,1.0,1.0,3.0,0.0,1.0,False,0,4399.png,145,136,231,230,Medical mask\Medical mask\annotations\4399.png.json,Medical mask\Medical mask\images\4399.png
+2910.png,,2910.png,1.0,1.0,3.0,1.0,1.0,False,0,2910.png,318,49,598,441,Medical mask\Medical mask\annotations\2910.png.json,Medical mask\Medical mask\images\2910.png
+5261.jpg,,,1.0,1.0,3.0,1.0,1.0,False,,5261.jpg,312,223,378,351,Medical mask\Medical mask\annotations\5261.jpg.json,Medical mask\Medical mask\images\5261.jpg
+4980.png,,4980.png,1.0,1.0,3.0,0.0,1.0,False,0,4980.png,176,69,522,506,Medical mask\Medical mask\annotations\4980.png.json,Medical mask\Medical mask\images\4980.png
+3784.png,,,1.0,1.0,3.0,1.0,1.0,False,,3784.png,89,252,327,497,Medical mask\Medical mask\annotations\3784.png.json,Medical mask\Medical mask\images\3784.png
+2360.png,,2360.png,1.0,1.0,3.0,1.0,1.0,False,0,2360.png,286,6,666,362,Medical mask\Medical mask\annotations\2360.png.json,Medical mask\Medical mask\images\2360.png
+2406.png,,2406.png,1.0,1.0,3.0,1.0,1.0,False,0,2406.png,192,445,280,546,Medical mask\Medical mask\annotations\2406.png.json,Medical mask\Medical mask\images\2406.png
+3158.png,,3158.png,1.0,1.0,3.0,0.0,1.0,False,uncertain,3158.png,76,11,262,265,Medical mask\Medical mask\annotations\3158.png.json,Medical mask\Medical mask\images\3158.png
+4358.png,,4358.png,1.0,1.0,3.0,0.0,1.0,False,0,4358.png,374,44,510,215,Medical mask\Medical mask\annotations\4358.png.json,Medical mask\Medical mask\images\4358.png
+1961.png,,1961.png,1.0,1.0,3.0,0.0,1.0,False,0,1961.png,188,128,506,435,Medical mask\Medical mask\annotations\1961.png.json,Medical mask\Medical mask\images\1961.png
+4291.png,,4291.png,1.0,1.0,3.0,0.0,1.0,False,0,4291.png,162,161,384,442,Medical mask\Medical mask\annotations\4291.png.json,Medical mask\Medical mask\images\4291.png
+2655.png,,2655.png,1.0,1.0,3.0,0.0,1.0,False,0,2655.png,48,42,495,475,Medical mask\Medical mask\annotations\2655.png.json,Medical mask\Medical mask\images\2655.png
+1882.jpg,,1882.jpg,1.0,1.0,3.0,0.0,1.0,False,0,1882.jpg,103,89,359,373,Medical mask\Medical mask\annotations\1882.jpg.json,Medical mask\Medical mask\images\1882.jpg
+3139.png,,3139.png,1.0,1.0,3.0,0.0,1.0,False,0,3139.png,11,19,139,132,Medical mask\Medical mask\annotations\3139.png.json,Medical mask\Medical mask\images\3139.png
+4131.png,,4131.png,1.0,1.0,3.0,0.0,1.0,False,0,4131.png,125,130,365,447,Medical mask\Medical mask\annotations\4131.png.json,Medical mask\Medical mask\images\4131.png
+2713.png,,2713.png,1.0,1.0,3.0,0.0,1.0,False,0,2713.png,152,6,540,467,Medical mask\Medical mask\annotations\2713.png.json,Medical mask\Medical mask\images\2713.png
+4560.png,,4560.png,1.0,1.0,3.0,0.0,1.0,False,0,4560.png,331,48,515,293,Medical mask\Medical mask\annotations\4560.png.json,Medical mask\Medical mask\images\4560.png
+2234.png,,2234.png,1.0,1.0,3.0,0.0,1.0,False,0,2234.png,598,4,785,227,Medical mask\Medical mask\annotations\2234.png.json,Medical mask\Medical mask\images\2234.png
+3223.png,,,1.0,1.0,3.0,0.0,1.0,False,,3223.png,126,35,399,407,Medical mask\Medical mask\annotations\3223.png.json,Medical mask\Medical mask\images\3223.png
+2984.png,,2984.png,1.0,1.0,3.0,0.0,1.0,False,0,2984.png,370,124,440,220,Medical mask\Medical mask\annotations\2984.png.json,Medical mask\Medical mask\images\2984.png
+2884.png,,,1.0,1.0,3.0,0.0,1.0,False,,2884.png,192,53,358,296,Medical mask\Medical mask\annotations\2884.png.json,Medical mask\Medical mask\images\2884.png
+2900.png,,2900.png,1.0,1.0,3.0,0.0,1.0,False,0,2900.png,359,5,579,247,Medical mask\Medical mask\annotations\2900.png.json,Medical mask\Medical mask\images\2900.png
+3763.png,,,1.0,1.0,3.0,0.0,1.0,False,,3763.png,18,3,356,378,Medical mask\Medical mask\annotations\3763.png.json,Medical mask\Medical mask\images\3763.png
+4146.png,,4146.png,1.0,1.0,3.0,0.0,1.0,False,0,4146.png,81,68,543,514,Medical mask\Medical mask\annotations\4146.png.json,Medical mask\Medical mask\images\4146.png
+4349.png,,,1.0,1.0,3.0,1.0,1.0,False,,4349.png,135,25,408,444,Medical mask\Medical mask\annotations\4349.png.json,Medical mask\Medical mask\images\4349.png
+3394.png,,3394.png,1.0,1.0,3.0,0.0,1.0,False,0,3394.png,185,6,613,410,Medical mask\Medical mask\annotations\3394.png.json,Medical mask\Medical mask\images\3394.png
+2721.png,,2721.png,1.0,1.0,3.0,0.0,1.0,False,0,2721.png,164,7,505,417,Medical mask\Medical mask\annotations\2721.png.json,Medical mask\Medical mask\images\2721.png
+4803.png,,,1.0,1.0,3.0,1.0,1.0,False,,4803.png,146,82,338,322,Medical mask\Medical mask\annotations\4803.png.json,Medical mask\Medical mask\images\4803.png
+2580.png,,2580.png,1.0,1.0,3.0,0.0,1.0,False,0,2580.png,142,19,288,194,Medical mask\Medical mask\annotations\2580.png.json,Medical mask\Medical mask\images\2580.png
+4052.png,,,1.0,1.0,3.0,0.0,1.0,False,,4052.png,404,20,665,277,Medical mask\Medical mask\annotations\4052.png.json,Medical mask\Medical mask\images\4052.png
+4730.png,,,1.0,1.0,3.0,1.0,1.0,False,,4730.png,416,3,531,153,Medical mask\Medical mask\annotations\4730.png.json,Medical mask\Medical mask\images\4730.png
+4741.png,,,1.0,1.0,3.0,1.0,1.0,False,,4741.png,213,218,293,315,Medical mask\Medical mask\annotations\4741.png.json,Medical mask\Medical mask\images\4741.png
+4935.png,,,1.0,1.0,4.0,0.0,0.0,False,,4935.png,300,76,440,268,Medical mask\Medical mask\annotations\4935.png.json,Medical mask\Medical mask\images\4935.png
+2455.png,,2455.png,1.0,1.0,4.0,1.0,0.0,False,0,2455.png,95,8,430,470,Medical mask\Medical mask\annotations\2455.png.json,Medical mask\Medical mask\images\2455.png
+1887.jpg,,1887.jpg,1.0,1.0,4.0,1.0,0.0,False,0,1887.jpg,101,5,655,636,Medical mask\Medical mask\annotations\1887.jpg.json,Medical mask\Medical mask\images\1887.jpg
+5441.jpg,,5441.jpg,1.0,1.0,4.0,1.0,0.0,False,0,5441.jpg,300,177,693,617,Medical mask\Medical mask\annotations\5441.jpg.json,Medical mask\Medical mask\images\5441.jpg
+2187.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,2187.png,349,15,588,332,Medical mask\Medical mask\annotations\2187.png.json,Medical mask\Medical mask\images\2187.png
+1896.jpg,,1896.jpg,1.0,1.0,4.0,0.0,0.0,False,0,1896.jpg,333,57,473,239,Medical mask\Medical mask\annotations\1896.jpg.json,Medical mask\Medical mask\images\1896.jpg
+3447.png,,,1.0,1.0,4.0,1.0,0.0,False,,3447.png,247,11,462,287,Medical mask\Medical mask\annotations\3447.png.json,Medical mask\Medical mask\images\3447.png
+3289.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,3289.png,197,30,545,530,Medical mask\Medical mask\annotations\3289.png.json,Medical mask\Medical mask\images\3289.png
+3340.png,,,1.0,1.0,4.0,0.0,0.0,False,,3340.png,75,3,512,502,Medical mask\Medical mask\annotations\3340.png.json,Medical mask\Medical mask\images\3340.png
+3445.png,,,1.0,1.0,4.0,1.0,0.0,False,,3445.png,228,17,482,320,Medical mask\Medical mask\annotations\3445.png.json,Medical mask\Medical mask\images\3445.png
+2634.png,,2634.png,1.0,1.0,4.0,1.0,0.0,False,uncertain,2634.png,267,6,406,147,Medical mask\Medical mask\annotations\2634.png.json,Medical mask\Medical mask\images\2634.png
+3173.png,,,1.0,1.0,4.0,1.0,0.0,False,,3173.png,102,4,476,376,Medical mask\Medical mask\annotations\3173.png.json,Medical mask\Medical mask\images\3173.png
+3388.png,,,1.0,1.0,4.0,0.0,0.0,False,,3388.png,219,4,517,380,Medical mask\Medical mask\annotations\3388.png.json,Medical mask\Medical mask\images\3388.png
+1822.jpg,,1822.jpg,1.0,1.0,4.0,1.0,0.0,False,changed hispanic,1822.jpg,510,2,708,213,Medical mask\Medical mask\annotations\1822.jpg.json,Medical mask\Medical mask\images\1822.jpg
+4056.png,,,1.0,1.0,4.0,1.0,0.0,False,,4056.png,339,102,535,359,Medical mask\Medical mask\annotations\4056.png.json,Medical mask\Medical mask\images\4056.png
+5736.jpg,,,1.0,1.0,4.0,0.0,0.0,False,,5736.jpg,213,132,553,478,Medical mask\Medical mask\annotations\5736.jpg.json,Medical mask\Medical mask\images\5736.jpg
+3677.png,,,1.0,1.0,4.0,1.0,0.0,False,,3677.png,185,24,566,574,Medical mask\Medical mask\annotations\3677.png.json,Medical mask\Medical mask\images\3677.png
+2906.png,,2906.png,1.0,1.0,4.0,2.0,0.0,False,0,2906.png,356,50,606,275,Medical mask\Medical mask\annotations\2906.png.json,Medical mask\Medical mask\images\2906.png
+3676.png,,,1.0,1.0,4.0,1.0,0.0,False,,3676.png,60,1,431,367,Medical mask\Medical mask\annotations\3676.png.json,Medical mask\Medical mask\images\3676.png
+3794.png,,,1.0,1.0,4.0,1.0,0.0,False,,3794.png,225,0,569,475,Medical mask\Medical mask\annotations\3794.png.json,Medical mask\Medical mask\images\3794.png
+3180.png,,,1.0,1.0,4.0,1.0,0.0,False,,3180.png,284,9,867,557,Medical mask\Medical mask\annotations\3180.png.json,Medical mask\Medical mask\images\3180.png
+3833.png,,3833.png,1.0,1.0,4.0,1.0,0.0,False,changed hispanic,3833.png,399,3,828,476,Medical mask\Medical mask\annotations\3833.png.json,Medical mask\Medical mask\images\3833.png
+1892.jpg,,,1.0,1.0,4.0,1.0,0.0,False,debiased,1892.jpg,390,78,531,245,Medical mask\Medical mask\annotations\1892.jpg.json,Medical mask\Medical mask\images\1892.jpg
+4615.png,,4615.png,1.0,1.0,4.0,1.0,0.0,False,0,4615.png,154,178,432,544,Medical mask\Medical mask\annotations\4615.png.json,Medical mask\Medical mask\images\4615.png
+3488.png,,,1.0,1.0,4.0,1.0,0.0,False,,3488.png,24,12,402,476,Medical mask\Medical mask\annotations\3488.png.json,Medical mask\Medical mask\images\3488.png
+5241.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5241.jpg,246,176,359,273,Medical mask\Medical mask\annotations\5241.jpg.json,Medical mask\Medical mask\images\5241.jpg
+3155.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,3155.png,174,77,487,547,Medical mask\Medical mask\annotations\3155.png.json,Medical mask\Medical mask\images\3155.png
+3470.png,,,1.0,1.0,4.0,1.0,0.0,False,,3470.png,294,27,406,166,Medical mask\Medical mask\annotations\3470.png.json,Medical mask\Medical mask\images\3470.png
+5344.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5344.jpg,498,38,812,500,Medical mask\Medical mask\annotations\5344.jpg.json,Medical mask\Medical mask\images\5344.jpg
+2768.png,,2768.png,1.0,1.0,4.0,1.0,0.0,False,uncertain,2768.png,33,73,502,669,Medical mask\Medical mask\annotations\2768.png.json,Medical mask\Medical mask\images\2768.png
+4816.png,,4816.png,1.0,1.0,4.0,1.0,0.0,False,0,4816.png,422,45,534,166,Medical mask\Medical mask\annotations\4816.png.json,Medical mask\Medical mask\images\4816.png
+4001.png,,,1.0,1.0,4.0,2.0,0.0,False,,4001.png,147,0,814,492,Medical mask\Medical mask\annotations\4001.png.json,Medical mask\Medical mask\images\4001.png
+2531.png,,2531.png,1.0,1.0,4.0,1.0,0.0,False,0,2531.png,371,116,461,227,Medical mask\Medical mask\annotations\2531.png.json,Medical mask\Medical mask\images\2531.png
+4077.png,,,1.0,1.0,4.0,1.0,0.0,False,,4077.png,370,18,452,149,Medical mask\Medical mask\annotations\4077.png.json,Medical mask\Medical mask\images\4077.png
+2022.jpg,,,1.0,1.0,4.0,1.0,0.0,False,debiased,2022.jpg,264,24,888,803,Medical mask\Medical mask\annotations\2022.jpg.json,Medical mask\Medical mask\images\2022.jpg
+5089.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5089.jpg,385,0,492,155,Medical mask\Medical mask\annotations\5089.jpg.json,Medical mask\Medical mask\images\5089.jpg
+5560.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5560.jpg,135,2,774,548,Medical mask\Medical mask\annotations\5560.jpg.json,Medical mask\Medical mask\images\5560.jpg
+2719.png,,2719.png,1.0,1.0,4.0,1.0,0.0,False,0,2719.png,404,47,835,637,Medical mask\Medical mask\annotations\2719.png.json,Medical mask\Medical mask\images\2719.png
+4598.png,,4598.png,1.0,1.0,4.0,2.0,0.0,False,changed hispanic + color,4598.png,82,213,385,654,Medical mask\Medical mask\annotations\4598.png.json,Medical mask\Medical mask\images\4598.png
+3876.png,,3876.png,1.0,1.0,4.0,1.0,0.0,False,0,3876.png,375,4,742,490,Medical mask\Medical mask\annotations\3876.png.json,Medical mask\Medical mask\images\3876.png
+3830.png,,,1.0,1.0,4.0,0.0,1.0,False,,3830.png,140,19,459,529,Medical mask\Medical mask\annotations\3830.png.json,Medical mask\Medical mask\images\3830.png
+1879.jpg,,,1.0,1.0,4.0,1.0,1.0,False,debiased,1879.jpg,591,1082,2363,3316,Medical mask\Medical mask\annotations\1879.jpg.json,Medical mask\Medical mask\images\1879.jpg
+4733.png,,,1.0,1.0,4.0,1.0,1.0,False,,4733.png,66,74,399,451,Medical mask\Medical mask\annotations\4733.png.json,Medical mask\Medical mask\images\4733.png
+6395.jpeg,,6395.jpeg,1.0,1.0,4.0,1.0,1.0,False,0,6395.jpeg,269,43,646,498,Medical mask\Medical mask\annotations\6395.jpeg.json,Medical mask\Medical mask\images\6395.jpeg
+3282.png,,,1.0,1.0,4.0,0.0,1.0,False,,3282.png,198,0,542,428,Medical mask\Medical mask\annotations\3282.png.json,Medical mask\Medical mask\images\3282.png
+4130.png,,4130.png,1.0,1.0,4.0,2.0,1.0,False,0,4130.png,140,30,513,510,Medical mask\Medical mask\annotations\4130.png.json,Medical mask\Medical mask\images\4130.png
+3731.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,3731.png,116,80,219,202,Medical mask\Medical mask\annotations\3731.png.json,Medical mask\Medical mask\images\3731.png
+3871.png,,,1.0,1.0,4.0,1.0,1.0,False,,3871.png,172,113,478,525,Medical mask\Medical mask\annotations\3871.png.json,Medical mask\Medical mask\images\3871.png
+4830.png,,4830.png,1.0,1.0,4.0,1.0,1.0,False,0,4830.png,190,12,546,504,Medical mask\Medical mask\annotations\4830.png.json,Medical mask\Medical mask\images\4830.png
+4651.png,,,1.0,1.0,4.0,1.0,1.0,False,,4651.png,406,219,473,312,Medical mask\Medical mask\annotations\4651.png.json,Medical mask\Medical mask\images\4651.png
+2801.png,,,1.0,1.0,4.0,1.0,1.0,False,,2801.png,309,10,528,218,Medical mask\Medical mask\annotations\2801.png.json,Medical mask\Medical mask\images\2801.png
+2707.png,,2707.png,1.0,1.0,4.0,1.0,1.0,False,0,2707.png,189,43,535,498,Medical mask\Medical mask\annotations\2707.png.json,Medical mask\Medical mask\images\2707.png
+2221.png,,2221.png,1.0,1.0,4.0,2.0,1.0,False,0,2221.png,284,262,362,368,Medical mask\Medical mask\annotations\2221.png.json,Medical mask\Medical mask\images\2221.png
+3734.png,,,1.0,1.0,4.0,2.0,1.0,False,,3734.png,70,47,143,131,Medical mask\Medical mask\annotations\3734.png.json,Medical mask\Medical mask\images\3734.png
+4760.png,,,1.0,1.0,4.0,1.0,1.0,False,,4760.png,314,154,405,264,Medical mask\Medical mask\annotations\4760.png.json,Medical mask\Medical mask\images\4760.png
+5144.jpg,,5144.jpg,1.0,1.0,4.0,1.0,1.0,False,0,5144.jpg,186,43,497,481,Medical mask\Medical mask\annotations\5144.jpg.json,Medical mask\Medical mask\images\5144.jpg
+2106.jpg,,,1.0,1.0,4.0,2.0,1.0,False,debiased,2106.jpg,542,633,777,914,Medical mask\Medical mask\annotations\2106.jpg.json,Medical mask\Medical mask\images\2106.jpg
+5401.jpg,,,1.0,1.0,4.0,2.0,1.0,False,,5401.jpg,876,915,1199,1282,Medical mask\Medical mask\annotations\5401.jpg.json,Medical mask\Medical mask\images\5401.jpg
+2975.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,2975.png,103,15,599,618,Medical mask\Medical mask\annotations\2975.png.json,Medical mask\Medical mask\images\2975.png
+5702.png,,5702.png,1.0,1.0,4.0,1.0,1.0,False,0,5702.png,261,31,414,252,Medical mask\Medical mask\annotations\5702.png.json,Medical mask\Medical mask\images\5702.png
+2004.jpg,,,1.0,1.0,4.0,1.0,1.0,False,debiased,2004.jpg,387,109,642,450,Medical mask\Medical mask\annotations\2004.jpg.json,Medical mask\Medical mask\images\2004.jpg
+2661.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,2661.png,15,0,380,400,Medical mask\Medical mask\annotations\2661.png.json,Medical mask\Medical mask\images\2661.png
+6410.png,,6410.png,1.0,1.0,4.0,1.0,1.0,False,0,6410.png,199,129,313,208,Medical mask\Medical mask\annotations\6410.png.json,Medical mask\Medical mask\images\6410.png
+3701.png,,3701.png,1.0,1.0,4.0,1.0,1.0,False,uncertain,3701.png,255,18,369,157,Medical mask\Medical mask\annotations\3701.png.json,Medical mask\Medical mask\images\3701.png
+4849.png,,,1.0,1.0,4.0,1.0,1.0,False,,4849.png,246,58,308,139,Medical mask\Medical mask\annotations\4849.png.json,Medical mask\Medical mask\images\4849.png
+3484.png,,,1.0,1.0,4.0,2.0,1.0,False,debiased,3484.png,204,3,481,375,Medical mask\Medical mask\annotations\3484.png.json,Medical mask\Medical mask\images\3484.png
+2130.jpg,,2130.jpg,1.0,1.0,4.0,1.0,1.0,False,0,2130.jpg,358,45,588,338,Medical mask\Medical mask\annotations\2130.jpg.json,Medical mask\Medical mask\images\2130.jpg
+2989.png,,2989.png,1.0,1.0,4.0,1.0,1.0,False,0,2989.png,216,2,529,499,Medical mask\Medical mask\annotations\2989.png.json,Medical mask\Medical mask\images\2989.png
+2281.png,,,1.0,1.0,4.0,1.0,1.0,False,,2281.png,268,6,327,84,Medical mask\Medical mask\annotations\2281.png.json,Medical mask\Medical mask\images\2281.png
+3222.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,3222.png,214,2,467,281,Medical mask\Medical mask\annotations\3222.png.json,Medical mask\Medical mask\images\3222.png
+3716.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,3716.png,264,34,682,557,Medical mask\Medical mask\annotations\3716.png.json,Medical mask\Medical mask\images\3716.png
+2724.png,,2724.png,1.0,1.0,4.0,1.0,1.0,False,0,2724.png,207,6,378,242,Medical mask\Medical mask\annotations\2724.png.json,Medical mask\Medical mask\images\2724.png
+2985.png,,,1.0,1.0,4.0,0.0,1.0,False,,2985.png,52,5,527,500,Medical mask\Medical mask\annotations\2985.png.json,Medical mask\Medical mask\images\2985.png
+3767.png,,,1.0,1.0,4.0,1.0,1.0,False,,3767.png,315,131,392,245,Medical mask\Medical mask\annotations\3767.png.json,Medical mask\Medical mask\images\3767.png
+3189.png,,3189.png,1.0,1.0,4.0,2.0,1.0,False,0,3189.png,316,11,398,123,Medical mask\Medical mask\annotations\3189.png.json,Medical mask\Medical mask\images\3189.png
+4902.png,,,1.0,1.0,4.0,0.0,1.0,False,,4902.png,229,5,321,140,Medical mask\Medical mask\annotations\4902.png.json,Medical mask\Medical mask\images\4902.png
+5091.jpg,,,1.0,1.0,4.0,1.0,1.0,False,,5091.jpg,578,21,768,261,Medical mask\Medical mask\annotations\5091.jpg.json,Medical mask\Medical mask\images\5091.jpg
+4237.png,,4237.png,1.0,1.0,4.0,1.0,1.0,False,0,4237.png,72,0,576,597,Medical mask\Medical mask\annotations\4237.png.json,Medical mask\Medical mask\images\4237.png
+3391.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,3391.png,266,49,524,335,Medical mask\Medical mask\annotations\3391.png.json,Medical mask\Medical mask\images\3391.png
+3776.png,,3776.png,1.0,1.0,4.0,1.0,1.0,False,changed hispanic,3776.png,157,32,535,494,Medical mask\Medical mask\annotations\3776.png.json,Medical mask\Medical mask\images\3776.png

@@ -1,0 +1,48 @@
+https://pjreddie.com/darknet/yolo/
+
+Wordnet exploration:
+http://wordnetweb.princeton.edu/perl/webwn?s=gun&sub=Search+WordNet&o2=1&o0=1&o8=1&o1=1&o7=1&o5=1&o9=&o6=1&o3=1&o4=1&h=00
+
+Recognizing Firearms with Deep Learning and Computer Vision:
+https://medium.com/@tont/recognizing-firearms-from-images-and-videos-in-real-time-with-deep-learning-and-computer-vision-661498f45278 
+
+
+
+
+Is there a Person Category in Imagenet?
+https://datascience.stackexchange.com/questions/27694/is-there-a-person-class-in-imagenet-are-there-any-classes-related-to-humans
+
+How many images necessary?
+https://towardsdatascience.com/plug-and-play-object-detection-code-in-5-simple-steps-f1975804373e
+"So, I started with downloading 40 images each of guns and swords from the open image dataset and annotated them using the VIA tool. Now setting up the annotation project in VIA is petty important, so I will try to explain it step by step."
+
+Blog Articles:
+- https://venturebeat.com/2020/11/03/researchers-show-that-computer-vision-algorithms-pretrained-on-imagenet-exhibit-multiple-distressing-biases/
+- https://www.wired.com/story/ai-biased-how-scientists-trying-fix/
+- https://excavating.ai/
+
+Face Datasets: 
+- http://www.whdeng.cn/RFW/Trainingdataste.html
+
+Pitch: 
+- Detecting weapons in still images displays bias in minorities and sex
+
+Procedure: 
+- Model
+    - Train classification with Image Embeddings
+    - Use Pretrained Object Detection Model 
+        - YOLO
+        - ResNetModel
+    - Fine-Tuned Model
+        - Required labels of roughly 40 labels works quite well already
+
+- Data:
+    - Datasets 
+        - https://www.kaggle.com/atulyakumar98/gundetection/code
+        - https://www.kaggle.com/rogkesavan000/gun-dataset 
+    - Requirements
+        - Weapon or Family as class
+        - Balanced Test Set
+        
+
+

@@ -1,0 +1,2 @@
+Facemasks
+https://tryolabs.com/blog/2020/07/09/face-mask-detection-in-street-camera-video-streams-using-ai-behind-the-curtain/

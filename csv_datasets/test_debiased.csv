@@ -1,0 +1,385 @@
+Img,Labelled Round 2,Labelled round 1,Person_num,Mask_on,Race,SkinColor,Sex,Is_Complicated,Remark,key,xmin,ymin,xmax,ymax,info,file
+5527.jpg,,5527.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5527.jpg,294,53,378,170,FaceMasks_JSON\annotations\5527.jpg.json,FaceMasks_JSON\images\5527.jpg
+5488.jpg,,5488.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5488.jpg,698,283,1164,829,FaceMasks_JSON\annotations\5488.jpg.json,FaceMasks_JSON\images\5488.jpg
+3702.png,,3702.png,1.0,0.0,0.0,1.0,0.0,False,changed hispanic,3702.png,52,16,363,408,FaceMasks_JSON\annotations\3702.png.json,FaceMasks_JSON\images\3702.png
+5587.jpg,,5587.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5587.jpg,425,182,649,444,FaceMasks_JSON\annotations\5587.jpg.json,FaceMasks_JSON\images\5587.jpg
+6083.jpg,,6083.jpg,1.0,0.0,0.0,1.0,0.0,False,0,6083.jpg,315,16,546,327,FaceMasks_JSON\annotations\6083.jpg.json,FaceMasks_JSON\images\6083.jpg
+6163.jpg,,6163.jpg,1.0,0.0,0.0,0.0,0.0,False,0,6163.jpg,438,27,702,322,FaceMasks_JSON\annotations\6163.jpg.json,FaceMasks_JSON\images\6163.jpg
+5256.jpg,,5256.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5256.jpg,672,26,2182,1975,FaceMasks_JSON\annotations\5256.jpg.json,FaceMasks_JSON\images\5256.jpg
+5864.jpg,,5864.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5864.jpg,240,122,618,507,FaceMasks_JSON\annotations\5864.jpg.json,FaceMasks_JSON\images\5864.jpg
+5961.jpg,,5961.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5961.jpg,110,400,298,583,FaceMasks_JSON\annotations\5961.jpg.json,FaceMasks_JSON\images\5961.jpg
+5258.jpg,,5258.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5258.jpg,819,36,1214,558,FaceMasks_JSON\annotations\5258.jpg.json,FaceMasks_JSON\images\5258.jpg
+5507.jpg,,5507.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5507.jpg,67,50,384,486,FaceMasks_JSON\annotations\5507.jpg.json,FaceMasks_JSON\images\5507.jpg
+5521.jpg,,5521.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5521.jpg,146,0,472,363,FaceMasks_JSON\annotations\5521.jpg.json,FaceMasks_JSON\images\5521.jpg
+4870.png,,4870.png,1.0,0.0,0.0,0.0,0.0,False,0,4870.png,222,46,288,130,FaceMasks_JSON\annotations\4870.png.json,FaceMasks_JSON\images\4870.png
+3253.png,,3253.png,1.0,0.0,0.0,1.0,0.0,False,0,3253.png,335,3,495,170,FaceMasks_JSON\annotations\3253.png.json,FaceMasks_JSON\images\3253.png
+3946.png,,3946.png,1.0,0.0,0.0,0.0,0.0,False,0,3946.png,60,2,483,523,FaceMasks_JSON\annotations\3946.png.json,FaceMasks_JSON\images\3946.png
+5257.jpg,,5257.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5257.jpg,690,5,1643,1046,FaceMasks_JSON\annotations\5257.jpg.json,FaceMasks_JSON\images\5257.jpg
+5937.jpg,,5937.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5937.jpg,909,251,1159,538,FaceMasks_JSON\annotations\5937.jpg.json,FaceMasks_JSON\images\5937.jpg
+5103.jpg,,5103.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5103.jpg,769,43,1562,1115,FaceMasks_JSON\annotations\5103.jpg.json,FaceMasks_JSON\images\5103.jpg
+2817.png,,2817.png,1.0,0.0,0.0,0.0,0.0,False,0,2817.png,295,72,411,223,FaceMasks_JSON\annotations\2817.png.json,FaceMasks_JSON\images\2817.png
+5269.jpg,,5269.jpg,1.0,0.0,0.0,1.0,0.0,False,0,5269.jpg,263,108,370,224,FaceMasks_JSON\annotations\5269.jpg.json,FaceMasks_JSON\images\5269.jpg
+2952.png,,2952.png,1.0,0.0,0.0,0.0,0.0,False,0,2952.png,170,13,285,177,FaceMasks_JSON\annotations\2952.png.json,FaceMasks_JSON\images\2952.png
+6056.jpg,,6056.jpg,1.0,0.0,0.0,1.0,0.0,False,0,6056.jpg,260,7,503,288,FaceMasks_JSON\annotations\6056.jpg.json,FaceMasks_JSON\images\6056.jpg
+5694.jpg,,5694.jpg,1.0,0.0,0.0,0.0,0.0,False,0,5694.jpg,151,103,303,291,FaceMasks_JSON\annotations\5694.jpg.json,FaceMasks_JSON\images\5694.jpg
+1856.jpg,,1856.jpg,1.0,0.0,0.0,0.0,0.0,False,uncertain,1856.jpg,680,340,1664,1784,FaceMasks_JSON\annotations\1856.jpg.json,FaceMasks_JSON\images\1856.jpg
+5353.jpg,,5353.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5353.jpg,118,23,549,441,FaceMasks_JSON\annotations\5353.jpg.json,FaceMasks_JSON\images\5353.jpg
+6078.jpg,,6078.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6078.jpg,230,103,375,299,FaceMasks_JSON\annotations\6078.jpg.json,FaceMasks_JSON\images\6078.jpg
+5161.jpg,,5161.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5161.jpg,200,0,590,458,FaceMasks_JSON\annotations\5161.jpg.json,FaceMasks_JSON\images\5161.jpg
+6146.jpg,,6146.jpg,1.0,0.0,0.0,1.0,1.0,False,0,6146.jpg,233,102,390,320,FaceMasks_JSON\annotations\6146.jpg.json,FaceMasks_JSON\images\6146.jpg
+1934.jpg,,1934.jpg,1.0,0.0,0.0,0.0,1.0,False,0,1934.jpg,12,19,875,1475,FaceMasks_JSON\annotations\1934.jpg.json,FaceMasks_JSON\images\1934.jpg
+6132.jpg,,6132.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6132.jpg,250,113,337,229,FaceMasks_JSON\annotations\6132.jpg.json,FaceMasks_JSON\images\6132.jpg
+5670.jpg,,5670.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5670.jpg,431,306,629,569,FaceMasks_JSON\annotations\5670.jpg.json,FaceMasks_JSON\images\5670.jpg
+5824.jpg,,5824.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5824.jpg,613,82,773,346,FaceMasks_JSON\annotations\5824.jpg.json,FaceMasks_JSON\images\5824.jpg
+6277.jpg,,,1.0,0.0,0.0,0.0,1.0,False,,6277.jpg,577,91,780,312,FaceMasks_JSON\annotations\6277.jpg.json,FaceMasks_JSON\images\6277.jpg
+5234.jpg,,5234.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5234.jpg,128,137,580,777,FaceMasks_JSON\annotations\5234.jpg.json,FaceMasks_JSON\images\5234.jpg
+6173.jpg,,6173.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6173.jpg,272,1,598,416,FaceMasks_JSON\annotations\6173.jpg.json,FaceMasks_JSON\images\6173.jpg
+5922.jpg,,5922.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5922.jpg,764,69,1061,489,FaceMasks_JSON\annotations\5922.jpg.json,FaceMasks_JSON\images\5922.jpg
+6029.jpg,,6029.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6029.jpg,198,123,328,282,FaceMasks_JSON\annotations\6029.jpg.json,FaceMasks_JSON\images\6029.jpg
+6038.jpg,,6038.jpg,1.0,0.0,0.0,1.0,1.0,False,0,6038.jpg,476,4,532,88,FaceMasks_JSON\annotations\6038.jpg.json,FaceMasks_JSON\images\6038.jpg
+1814.jpg,,1814.jpg,1.0,0.0,0.0,1.0,1.0,False,changed hispanic,1814.jpg,260,133,484,426,FaceMasks_JSON\annotations\1814.jpg.json,FaceMasks_JSON\images\1814.jpg
+5883.jpg,,5883.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5883.jpg,232,5,901,904,FaceMasks_JSON\annotations\5883.jpg.json,FaceMasks_JSON\images\5883.jpg
+2969.png,,2969.png,1.0,0.0,0.0,1.0,1.0,False,0,2969.png,354,22,619,354,FaceMasks_JSON\annotations\2969.png.json,FaceMasks_JSON\images\2969.png
+5380.jpg,,5380.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5380.jpg,235,163,656,753,FaceMasks_JSON\annotations\5380.jpg.json,FaceMasks_JSON\images\5380.jpg
+6168.jpg,,6168.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6168.jpg,964,42,1297,510,FaceMasks_JSON\annotations\6168.jpg.json,FaceMasks_JSON\images\6168.jpg
+6016.jpg,,6016.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6016.jpg,425,26,739,407,FaceMasks_JSON\annotations\6016.jpg.json,FaceMasks_JSON\images\6016.jpg
+5287.jpg,,5287.jpg,1.0,0.0,0.0,0.0,1.0,False,0,5287.jpg,234,11,438,319,FaceMasks_JSON\annotations\5287.jpg.json,FaceMasks_JSON\images\5287.jpg
+6201.jpg,,6201.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6201.jpg,1131,132,1905,1109,FaceMasks_JSON\annotations\6201.jpg.json,FaceMasks_JSON\images\6201.jpg
+2103.jpg,,2103.jpg,1.0,0.0,0.0,0.0,1.0,False,0,2103.jpg,253,11,360,183,FaceMasks_JSON\annotations\2103.jpg.json,FaceMasks_JSON\images\2103.jpg
+6106.jpg,,6106.jpg,1.0,0.0,0.0,0.0,1.0,False,0,6106.jpg,779,39,999,341,FaceMasks_JSON\annotations\6106.jpg.json,FaceMasks_JSON\images\6106.jpg
+6205.jpg,,6205.jpg,1.0,0.0,2.0,1.0,0.0,False,0,6205.jpg,185,30,546,493,FaceMasks_JSON\annotations\6205.jpg.json,FaceMasks_JSON\images\6205.jpg
+5316.jpg,,5316.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5316.jpg,375,305,705,706,FaceMasks_JSON\annotations\5316.jpg.json,FaceMasks_JSON\images\5316.jpg
+5536.jpg,,5536.jpg,1.0,0.0,2.0,1.0,0.0,False,0,5536.jpg,148,20,195,100,FaceMasks_JSON\annotations\5536.jpg.json,FaceMasks_JSON\images\5536.jpg
+5609.jpg,,5609.jpg,1.0,0.0,2.0,1.0,0.0,False,0,5609.jpg,325,104,426,235,FaceMasks_JSON\annotations\5609.jpg.json,FaceMasks_JSON\images\5609.jpg
+6210.jpg,,6210.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6210.jpg,509,273,1254,1202,FaceMasks_JSON\annotations\6210.jpg.json,FaceMasks_JSON\images\6210.jpg
+5925.jpeg,,5925.jpeg,1.0,0.0,2.0,2.0,0.0,False,0,5925.jpeg,1181,237,1692,831,FaceMasks_JSON\annotations\5925.jpeg.json,FaceMasks_JSON\images\5925.jpeg
+6098.jpg,,6098.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6098.jpg,360,85,728,653,FaceMasks_JSON\annotations\6098.jpg.json,FaceMasks_JSON\images\6098.jpg
+6100.png,,6100.png,1.0,0.0,2.0,1.0,0.0,False,0,6100.png,430,2,739,469,FaceMasks_JSON\annotations\6100.png.json,FaceMasks_JSON\images\6100.png
+6385.jpg,,6385.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6385.jpg,249,2,380,192,FaceMasks_JSON\annotations\6385.jpg.json,FaceMasks_JSON\images\6385.jpg
+4679.png,,4679.png,1.0,0.0,2.0,2.0,0.0,False,0,4679.png,339,93,421,189,FaceMasks_JSON\annotations\4679.png.json,FaceMasks_JSON\images\4679.png
+6139.jpg,,6139.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6139.jpg,258,92,379,212,FaceMasks_JSON\annotations\6139.jpg.json,FaceMasks_JSON\images\6139.jpg
+5545.jpg,,5545.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5545.jpg,363,47,551,323,FaceMasks_JSON\annotations\5545.jpg.json,FaceMasks_JSON\images\5545.jpg
+5997.jpg,,5997.jpg,1.0,0.0,2.0,1.0,0.0,False,0,5997.jpg,308,17,745,688,FaceMasks_JSON\annotations\5997.jpg.json,FaceMasks_JSON\images\5997.jpg
+6095.jpg,,6095.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6095.jpg,225,1,325,124,FaceMasks_JSON\annotations\6095.jpg.json,FaceMasks_JSON\images\6095.jpg
+6337.jpg,,,1.0,0.0,2.0,2.0,0.0,False,,6337.jpg,934,0,2490,1996,FaceMasks_JSON\annotations\6337.jpg.json,FaceMasks_JSON\images\6337.jpg
+6069.jpg,,6069.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6069.jpg,278,3,668,514,FaceMasks_JSON\annotations\6069.jpg.json,FaceMasks_JSON\images\6069.jpg
+6048.jpg,,6048.jpg,1.0,0.0,2.0,2.0,0.0,False,0,6048.jpg,625,23,883,356,FaceMasks_JSON\annotations\6048.jpg.json,FaceMasks_JSON\images\6048.jpg
+5926.jpg,,5926.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5926.jpg,262,39,415,271,FaceMasks_JSON\annotations\5926.jpg.json,FaceMasks_JSON\images\5926.jpg
+5447.jpg,,5447.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5447.jpg,114,7,602,678,FaceMasks_JSON\annotations\5447.jpg.json,FaceMasks_JSON\images\5447.jpg
+5983.jpg,,5983.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5983.jpg,540,200,1796,1541,FaceMasks_JSON\annotations\5983.jpg.json,FaceMasks_JSON\images\5983.jpg
+6183.jpg,,6183.jpg,1.0,0.0,2.0,1.0,0.0,False,0,6183.jpg,396,375,1282,1560,FaceMasks_JSON\annotations\6183.jpg.json,FaceMasks_JSON\images\6183.jpg
+5917.jpg,,5917.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5917.jpg,297,130,547,420,FaceMasks_JSON\annotations\5917.jpg.json,FaceMasks_JSON\images\5917.jpg
+4784.png,,4784.png,1.0,0.0,2.0,1.0,0.0,False,0,4784.png,380,76,491,205,FaceMasks_JSON\annotations\4784.png.json,FaceMasks_JSON\images\4784.png
+5592.jpg,,5592.jpg,1.0,0.0,2.0,2.0,0.0,False,0,5592.jpg,161,45,301,236,FaceMasks_JSON\annotations\5592.jpg.json,FaceMasks_JSON\images\5592.jpg
+6137.png,,6137.png,1.0,0.0,2.0,2.0,1.0,False,0,6137.png,126,19,418,385,FaceMasks_JSON\annotations\6137.png.json,FaceMasks_JSON\images\6137.png
+6076.jpg,,6076.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6076.jpg,616,98,910,395,FaceMasks_JSON\annotations\6076.jpg.json,FaceMasks_JSON\images\6076.jpg
+1888.jpg,,1888.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1888.jpg,247,131,474,415,FaceMasks_JSON\annotations\1888.jpg.json,FaceMasks_JSON\images\1888.jpg
+6324.jpg,,6324.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6324.jpg,496,7,750,387,FaceMasks_JSON\annotations\6324.jpg.json,FaceMasks_JSON\images\6324.jpg
+1809.jpg,,1809.jpg,1.0,0.0,2.0,2.0,1.0,False,0,1809.jpg,915,78,1419,742,FaceMasks_JSON\annotations\1809.jpg.json,FaceMasks_JSON\images\1809.jpg
+6070.jpg,,6070.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6070.jpg,308,17,418,161,FaceMasks_JSON\annotations\6070.jpg.json,FaceMasks_JSON\images\6070.jpg
+6352.jpg,,6352.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6352.jpg,1122,625,1934,1588,FaceMasks_JSON\annotations\6352.jpg.json,FaceMasks_JSON\images\6352.jpg
+5978.jpg,,5978.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5978.jpg,188,16,502,377,FaceMasks_JSON\annotations\5978.jpg.json,FaceMasks_JSON\images\5978.jpg
+5698.jpg,,5698.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5698.jpg,85,11,279,275,FaceMasks_JSON\annotations\5698.jpg.json,FaceMasks_JSON\images\5698.jpg
+3800.png,,3800.png,1.0,0.0,2.0,2.0,1.0,False,0,3800.png,701,74,870,280,FaceMasks_JSON\annotations\3800.png.json,FaceMasks_JSON\images\3800.png
+6233.jpg,,6233.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6233.jpg,252,76,516,449,FaceMasks_JSON\annotations\6233.jpg.json,FaceMasks_JSON\images\6233.jpg
+6350.jpg,,6350.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6350.jpg,372,0,505,161,FaceMasks_JSON\annotations\6350.jpg.json,FaceMasks_JSON\images\6350.jpg
+6022.jpg,,6022.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6022.jpg,346,21,560,276,FaceMasks_JSON\annotations\6022.jpg.json,FaceMasks_JSON\images\6022.jpg
+5631.jpg,,5631.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5631.jpg,97,92,828,1045,FaceMasks_JSON\annotations\5631.jpg.json,FaceMasks_JSON\images\5631.jpg
+6026.jpg,,6026.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6026.jpg,423,116,768,566,FaceMasks_JSON\annotations\6026.jpg.json,FaceMasks_JSON\images\6026.jpg
+6345.jpg,,6345.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6345.jpg,774,53,880,210,FaceMasks_JSON\annotations\6345.jpg.json,FaceMasks_JSON\images\6345.jpg
+5510.jpeg,,5510.jpeg,1.0,0.0,2.0,1.0,1.0,False,0,5510.jpeg,1819,325,3602,2812,FaceMasks_JSON\annotations\5510.jpeg.json,FaceMasks_JSON\images\5510.jpeg
+5541.jpg,,5541.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5541.jpg,73,21,353,421,FaceMasks_JSON\annotations\5541.jpg.json,FaceMasks_JSON\images\5541.jpg
+6023.jpg,,6023.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6023.jpg,371,44,592,311,FaceMasks_JSON\annotations\6023.jpg.json,FaceMasks_JSON\images\6023.jpg
+5876.jpg,,5876.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5876.jpg,18,4,716,624,FaceMasks_JSON\annotations\5876.jpg.json,FaceMasks_JSON\images\5876.jpg
+6075.jpg,,6075.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6075.jpg,254,73,432,291,FaceMasks_JSON\annotations\6075.jpg.json,FaceMasks_JSON\images\6075.jpg
+6382.jpg,,,1.0,0.0,2.0,2.0,1.0,False,,6382.jpg,344,95,480,290,FaceMasks_JSON\annotations\6382.jpg.json,FaceMasks_JSON\images\6382.jpg
+5912.jpg,,5912.jpg,1.0,0.0,2.0,2.0,1.0,False,0,5912.jpg,317,33,444,221,FaceMasks_JSON\annotations\5912.jpg.json,FaceMasks_JSON\images\5912.jpg
+6224.jpg,,6224.jpg,1.0,0.0,2.0,2.0,1.0,False,0,6224.jpg,528,66,698,287,FaceMasks_JSON\annotations\6224.jpg.json,FaceMasks_JSON\images\6224.jpg
+23_1_2_20170116173233383.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173233383.jpg,121,20,684,688,faces_only\subset\23_1_2_20170116173233383.xml,faces_only\subset\asian\female\23_1_2_20170116173233383.jpg
+6279.jpg,,6279.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6279.jpg,573,130,703,260,FaceMasks_JSON\annotations\6279.jpg.json,FaceMasks_JSON\images\6279.jpg
+2444.png,,2444.png,1.0,0.0,3.0,0.0,0.0,False,0,2444.png,341,37,433,136,FaceMasks_JSON\annotations\2444.png.json,FaceMasks_JSON\images\2444.png
+23_1_2_20170116173214311.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173214311.jpg,119,68,655,573,faces_only\subset\23_1_2_20170116173214311.xml,faces_only\subset\asian\female\23_1_2_20170116173214311.jpg
+6369.jpg,,6369.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6369.jpg,296,433,369,502,FaceMasks_JSON\annotations\6369.jpg.json,FaceMasks_JSON\images\6369.jpg
+22_1_2_20170116172657692.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172657692.jpg,198,6,541,371,faces_only\subset\22_1_2_20170116172657692.xml,faces_only\subset\asian\female\22_1_2_20170116172657692.jpg
+24_1_2_20170116165105160.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116165105160.jpg,79,86,400,457,faces_only\subset\24_1_2_20170116165105160.xml,faces_only\subset\asian\female\24_1_2_20170116165105160.jpg
+6367.jpg,,6367.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6367.jpg,215,311,654,847,FaceMasks_JSON\annotations\6367.jpg.json,FaceMasks_JSON\images\6367.jpg
+2521.png,,2521.png,1.0,0.0,3.0,0.0,0.0,False,0,2521.png,285,6,455,209,FaceMasks_JSON\annotations\2521.png.json,FaceMasks_JSON\images\2521.png
+22_1_2_20170116172619218.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172619218.jpg,78,25,285,201,faces_only\subset\22_1_2_20170116172619218.xml,faces_only\subset\asian\female\22_1_2_20170116172619218.jpg
+23_1_2_20170116184229440.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116184229440.jpg,100,42,312,288,faces_only\subset\23_1_2_20170116184229440.xml,faces_only\subset\asian\female\23_1_2_20170116184229440.jpg
+23_1_2_20170116173240500.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173240500.jpg,167,10,667,514,faces_only\subset\23_1_2_20170116173240500.xml,faces_only\subset\asian\female\23_1_2_20170116173240500.jpg
+6234.jpg,,6234.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6234.jpg,611,5,1009,516,FaceMasks_JSON\annotations\6234.jpg.json,FaceMasks_JSON\images\6234.jpg
+5663.jpg,,5663.jpg,1.0,0.0,3.0,0.0,0.0,False,0,5663.jpg,1123,75,1685,781,FaceMasks_JSON\annotations\5663.jpg.json,FaceMasks_JSON\images\5663.jpg
+3143.png,,3143.png,1.0,0.0,3.0,0.0,0.0,False,0,3143.png,114,7,257,166,FaceMasks_JSON\annotations\3143.png.json,FaceMasks_JSON\images\3143.png
+23_1_2_20170116173241444.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,23_1_2_20170116173241444.jpg,417,12,852,462,faces_only\subset\23_1_2_20170116173241444.xml,faces_only\subset\asian\female\23_1_2_20170116173241444.jpg
+6262.jpg,,6262.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6262.jpg,653,111,783,292,FaceMasks_JSON\annotations\6262.jpg.json,FaceMasks_JSON\images\6262.jpg
+22_1_2_20170116172557623.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172557623.jpg,120,3,596,493,faces_only\subset\22_1_2_20170116172557623.xml,faces_only\subset\asian\female\22_1_2_20170116172557623.jpg
+22_1_2_20170116172659590.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,22_1_2_20170116172659590.jpg,297,1,726,474,faces_only\subset\22_1_2_20170116172659590.xml,faces_only\subset\asian\female\22_1_2_20170116172659590.jpg
+24_1_2_20170116165051346.jpg,,,1.0,0.0,3.0,0.0,0.0,False,custom labelled,24_1_2_20170116165051346.jpg,26,19,379,351,faces_only\subset\24_1_2_20170116165051346.xml,faces_only\subset\asian\female\24_1_2_20170116165051346.jpg
+6307.jpg,,6307.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6307.jpg,22,22,635,821,FaceMasks_JSON\annotations\6307.jpg.json,FaceMasks_JSON\images\6307.jpg
+6275.jpg,,6275.jpg,1.0,0.0,3.0,1.0,0.0,False,0,6275.jpg,156,91,245,211,FaceMasks_JSON\annotations\6275.jpg.json,FaceMasks_JSON\images\6275.jpg
+6339.jpg,,,1.0,0.0,3.0,1.0,0.0,False,,6339.jpg,538,31,711,239,FaceMasks_JSON\annotations\6339.jpg.json,FaceMasks_JSON\images\6339.jpg
+6305.jpg,,6305.jpg,1.0,0.0,3.0,0.0,0.0,False,0,6305.jpg,57,2,549,403,FaceMasks_JSON\annotations\6305.jpg.json,FaceMasks_JSON\images\6305.jpg
+24_0_2_20170116164343289.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,24_0_2_20170116164343289.jpg,173,94,645,637,faces_only\subset\24_0_2_20170116164343289.xml,faces_only\subset\asian\male\24_0_2_20170116164343289.jpg
+22_0_2_20170116165407686.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,22_0_2_20170116165407686.jpg,214,239,523,583,faces_only\subset\22_0_2_20170116165407686.xml,faces_only\subset\asian\male\22_0_2_20170116165407686.jpg
+20_0_2_20170117135024223.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,20_0_2_20170117135024223.jpg,185,75,559,587,faces_only\subset\20_0_2_20170117135024223.xml,faces_only\subset\asian\male\20_0_2_20170117135024223.jpg
+5584.jpg,,5584.jpg,1.0,0.0,3.0,1.0,1.0,False,other,5584.jpg,222,53,406,270,FaceMasks_JSON\annotations\5584.jpg.json,FaceMasks_JSON\images\5584.jpg
+5575.jpg,,5575.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5575.jpg,777,3,1642,1006,FaceMasks_JSON\annotations\5575.jpg.json,FaceMasks_JSON\images\5575.jpg
+5586.jpg,,5586.jpg,1.0,0.0,3.0,1.0,1.0,False,0,5586.jpg,128,99,575,691,FaceMasks_JSON\annotations\5586.jpg.json,FaceMasks_JSON\images\5586.jpg
+23_0_2_20170116172840539.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172840539.jpg,199,26,746,645,faces_only\subset\23_0_2_20170116172840539.xml,faces_only\subset\asian\male\23_0_2_20170116172840539.jpg
+6348.jpg,,6348.jpg,1.0,0.0,3.0,0.0,1.0,False,0,6348.jpg,287,153,444,383,FaceMasks_JSON\annotations\6348.jpg.json,FaceMasks_JSON\images\6348.jpg
+5524.jpg,,5524.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5524.jpg,156,95,334,345,FaceMasks_JSON\annotations\5524.jpg.json,FaceMasks_JSON\images\5524.jpg
+6296.jpg,,6296.jpg,1.0,0.0,3.0,1.0,1.0,False,0,6296.jpg,326,111,501,353,FaceMasks_JSON\annotations\6296.jpg.json,FaceMasks_JSON\images\6296.jpg
+23_0_2_20170116172906979.jpg,,,1.0,0.0,3.0,1.0,1.0,False,custom labelled,23_0_2_20170116172906979.jpg,233,53,529,397,faces_only\subset\23_0_2_20170116172906979.xml,faces_only\subset\asian\male\23_0_2_20170116172906979.jpg
+21_0_2_20170116165220655.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,21_0_2_20170116165220655.jpg,355,114,759,557,faces_only\subset\21_0_2_20170116165220655.xml,faces_only\subset\asian\male\21_0_2_20170116165220655.jpg
+20_0_2_20170116161442758.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,20_0_2_20170116161442758.jpg,134,25,486,436,faces_only\subset\20_0_2_20170116161442758.xml,faces_only\subset\asian\male\20_0_2_20170116161442758.jpg
+21_0_2_20170116161452673.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,21_0_2_20170116161452673.jpg,215,98,449,373,faces_only\subset\21_0_2_20170116161452673.xml,faces_only\subset\asian\male\21_0_2_20170116161452673.jpg
+5458.jpeg,,5458.jpeg,1.0,0.0,3.0,0.0,1.0,False,0,5458.jpeg,112,67,452,550,FaceMasks_JSON\annotations\5458.jpeg.json,FaceMasks_JSON\images\5458.jpeg
+23_0_2_20170116173001224.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,23_0_2_20170116173001224.jpg,282,116,663,475,faces_only\subset\23_0_2_20170116173001224.xml,faces_only\subset\asian\male\23_0_2_20170116173001224.jpg
+6020.jpeg,,6020.jpeg,1.0,0.0,3.0,1.0,1.0,False,0,6020.jpeg,186,10,548,461,FaceMasks_JSON\annotations\6020.jpeg.json,FaceMasks_JSON\images\6020.jpeg
+6315.jpg,,,1.0,0.0,3.0,1.0,1.0,False,,6315.jpg,473,221,550,331,FaceMasks_JSON\annotations\6315.jpg.json,FaceMasks_JSON\images\6315.jpg
+2246.png,,2246.png,1.0,0.0,3.0,1.0,1.0,False,0,2246.png,303,49,455,227,FaceMasks_JSON\annotations\2246.png.json,FaceMasks_JSON\images\2246.png
+5707.jpg,,5707.jpg,1.0,0.0,3.0,0.0,1.0,False,0,5707.jpg,180,303,1482,2354,FaceMasks_JSON\annotations\5707.jpg.json,FaceMasks_JSON\images\5707.jpg
+6221.jpg,,6221.jpg,1.0,0.0,3.0,1.0,1.0,False,0,6221.jpg,635,183,741,313,FaceMasks_JSON\annotations\6221.jpg.json,FaceMasks_JSON\images\6221.jpg
+6170.jpg,,6170.jpg,1.0,0.0,3.0,1.0,1.0,False,0,6170.jpg,419,35,845,589,FaceMasks_JSON\annotations\6170.jpg.json,FaceMasks_JSON\images\6170.jpg
+6317.jpg,,,1.0,0.0,3.0,0.0,1.0,False,,6317.jpg,353,218,437,328,FaceMasks_JSON\annotations\6317.jpg.json,FaceMasks_JSON\images\6317.jpg
+23_0_2_20170116221009406.jpg,,,1.0,0.0,3.0,0.0,1.0,False,custom labelled,23_0_2_20170116221009406.jpg,157,21,741,691,faces_only\subset\23_0_2_20170116221009406.xml,faces_only\subset\asian\male\23_0_2_20170116221009406.jpg
+20_1_3_20170119153518449.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153518449.jpg,20,54,218,248,faces_only\subset\20_1_3_20170119153518449.xml,faces_only\subset\indian\female\20_1_3_20170119153518449.jpg
+21_1_3_20170104231602346.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231602346.jpg,50,33,171,182,faces_only\subset\21_1_3_20170104231602346.xml,faces_only\subset\indian\female\21_1_3_20170104231602346.jpg
+21_0_4_20161223214802865.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_0_4_20161223214802865.jpg,100,34,166,118,faces_only\subset\21_0_4_20161223214802865.xml,faces_only\subset\indian\female\21_0_4_20161223214802865.jpg
+5790.jpg,,5790.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5790.jpg,361,41,561,302,FaceMasks_JSON\annotations\5790.jpg.json,FaceMasks_JSON\images\5790.jpg
+2629.png,,2629.png,1.0,0.0,4.0,0.0,0.0,False,0,2629.png,331,11,430,144,FaceMasks_JSON\annotations\2629.png.json,FaceMasks_JSON\images\2629.png
+21_1_3_20170104222108390.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222108390.jpg,76,127,315,358,faces_only\subset\21_1_3_20170104222108390.xml,faces_only\subset\indian\female\21_1_3_20170104222108390.jpg
+21_1_3_20170104222522503.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222522503.jpg,55,119,294,355,faces_only\subset\21_1_3_20170104222522503.xml,faces_only\subset\indian\female\21_1_3_20170104222522503.jpg
+5675.jpg,,5675.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5675.jpg,361,46,650,407,FaceMasks_JSON\annotations\5675.jpg.json,FaceMasks_JSON\images\5675.jpg
+20_1_3_20170105000847091.jpg,,,1.0,0.0,4.0,0.0,0.0,False,custom labelled,20_1_3_20170105000847091.jpg,175,1,351,182,faces_only\subset\20_1_3_20170105000847091.xml,faces_only\subset\indian\female\20_1_3_20170105000847091.jpg
+6244.jpg,,6244.jpg,1.0,0.0,4.0,1.0,0.0,False,0,6244.jpg,162,42,385,340,FaceMasks_JSON\annotations\6244.jpg.json,FaceMasks_JSON\images\6244.jpg
+6250.jpg,,6250.jpg,1.0,0.0,4.0,2.0,0.0,False,0,6250.jpg,362,261,595,539,FaceMasks_JSON\annotations\6250.jpg.json,FaceMasks_JSON\images\6250.jpg
+5143.jpg,,5143.jpg,1.0,0.0,4.0,2.0,0.0,False,0,5143.jpg,12,309,169,490,FaceMasks_JSON\annotations\5143.jpg.json,FaceMasks_JSON\images\5143.jpg
+21_1_3_20170104223626119.jpg,,,1.0,0.0,4.0,0.0,0.0,False,custom labelled,21_1_3_20170104223626119.jpg,119,56,216,160,faces_only\subset\21_1_3_20170104223626119.xml,faces_only\subset\indian\female\21_1_3_20170104223626119.jpg
+21_1_3_20170104231613281.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231613281.jpg,18,30,254,257,faces_only\subset\21_1_3_20170104231613281.xml,faces_only\subset\indian\female\21_1_3_20170104231613281.jpg
+20_1_3_20170119144712261.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119144712261.jpg,90,43,295,284,faces_only\subset\20_1_3_20170119144712261.xml,faces_only\subset\indian\female\20_1_3_20170119144712261.jpg
+5284.jpg,,5284.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5284.jpg,234,121,435,381,FaceMasks_JSON\annotations\5284.jpg.json,FaceMasks_JSON\images\5284.jpg
+20_1_3_20170119153311735.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170119153311735.jpg,55,93,315,407,faces_only\subset\20_1_3_20170119153311735.xml,faces_only\subset\indian\female\20_1_3_20170119153311735.jpg
+21_1_3_20170104222105039.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222105039.jpg,66,96,278,335,faces_only\subset\21_1_3_20170104222105039.xml,faces_only\subset\indian\female\21_1_3_20170104222105039.jpg
+5533.jpg,,5533.jpg,1.0,0.0,4.0,1.0,0.0,False,0,5533.jpg,293,108,460,323,FaceMasks_JSON\annotations\5533.jpg.json,FaceMasks_JSON\images\5533.jpg
+20_1_3_20170117141108233.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170117141108233.jpg,268,24,684,686,faces_only\subset\20_1_3_20170117141108233.xml,faces_only\subset\indian\female\20_1_3_20170117141108233.jpg
+21_1_3_20170104222105822.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104222105822.jpg,108,103,316,349,faces_only\subset\21_1_3_20170104222105822.xml,faces_only\subset\indian\female\21_1_3_20170104222105822.jpg
+21_1_3_20170104231611130.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,21_1_3_20170104231611130.jpg,56,56,197,215,faces_only\subset\21_1_3_20170104231611130.xml,faces_only\subset\indian\female\21_1_3_20170104231611130.jpg
+20_1_3_20170117141155272.jpg,,,1.0,0.0,4.0,1.0,0.0,False,custom labelled,20_1_3_20170117141155272.jpg,250,62,593,454,faces_only\subset\20_1_3_20170117141155272.xml,faces_only\subset\indian\female\20_1_3_20170117141155272.jpg
+5678.jpg,,5678.jpg,1.0,0.0,4.0,2.0,0.0,False,0,5678.jpg,309,32,665,419,FaceMasks_JSON\annotations\5678.jpg.json,FaceMasks_JSON\images\5678.jpg
+21_0_3_20170104225749698.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170104225749698.jpg,66,96,230,240,faces_only\subset\21_0_3_20170104225749698.xml,faces_only\subset\indian\male\21_0_3_20170104225749698.jpg
+25_0_3_20170104230227202.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104230227202.jpg,142,59,360,310,faces_only\subset\25_0_3_20170104230227202.xml,faces_only\subset\indian\male\25_0_3_20170104230227202.jpg
+6331.jpg,,6331.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6331.jpg,417,56,559,233,FaceMasks_JSON\annotations\6331.jpg.json,FaceMasks_JSON\images\6331.jpg
+6207.jpg,,6207.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6207.jpg,1055,166,1235,400,FaceMasks_JSON\annotations\6207.jpg.json,FaceMasks_JSON\images\6207.jpg
+5865.jpg,,5865.jpg,1.0,0.0,4.0,1.0,1.0,False,0,5865.jpg,213,58,506,406,FaceMasks_JSON\annotations\5865.jpg.json,FaceMasks_JSON\images\5865.jpg
+6247.jpg,,6247.jpg,1.0,0.0,4.0,1.0,1.0,False,0,6247.jpg,494,472,552,548,FaceMasks_JSON\annotations\6247.jpg.json,FaceMasks_JSON\images\6247.jpg
+25_0_3_20170117134150022.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170117134150022.jpg,130,89,348,347,faces_only\subset\25_0_3_20170117134150022.xml,faces_only\subset\indian\male\25_0_3_20170117134150022.jpg
+5801.jpg,,5801.jpg,1.0,0.0,4.0,1.0,1.0,False,changed hispanic,5801.jpg,8,38,227,301,FaceMasks_JSON\annotations\5801.jpg.json,FaceMasks_JSON\images\5801.jpg
+25_0_3_20170104230440360.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104230440360.jpg,207,31,370,240,faces_only\subset\25_0_3_20170104230440360.xml,faces_only\subset\indian\male\25_0_3_20170104230440360.jpg
+21_0_4_20161223214759249.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_4_20161223214759249.jpg,38,1,181,162,faces_only\subset\21_0_4_20161223214759249.xml,faces_only\subset\indian\male\21_0_4_20161223214759249.jpg
+5307.jpg,,5307.jpg,1.0,0.0,4.0,1.0,1.0,False,0,5307.jpg,259,15,452,267,FaceMasks_JSON\annotations\5307.jpg.json,FaceMasks_JSON\images\5307.jpg
+1931.jpg,,1931.jpg,1.0,0.0,4.0,2.0,1.0,False,0,1931.jpg,370,64,761,564,FaceMasks_JSON\annotations\1931.jpg.json,FaceMasks_JSON\images\1931.jpg
+5680.jpg,,5680.jpg,1.0,0.0,4.0,1.0,1.0,False,0,5680.jpg,305,92,483,338,FaceMasks_JSON\annotations\5680.jpg.json,FaceMasks_JSON\images\5680.jpg
+21_0_3_20170119154249810.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154249810.jpg,155,56,331,247,faces_only\subset\21_0_3_20170119154249810.xml,faces_only\subset\indian\male\21_0_3_20170119154249810.jpg
+5552.jpg,,5552.jpg,1.0,0.0,4.0,2.0,1.0,False,0,5552.jpg,201,6,627,599,FaceMasks_JSON\annotations\5552.jpg.json,FaceMasks_JSON\images\5552.jpg
+1801.jpg,,1801.jpg,1.0,0.0,4.0,1.0,1.0,False,0,1801.jpg,451,186,895,697,FaceMasks_JSON\annotations\1801.jpg.json,FaceMasks_JSON\images\1801.jpg
+21_0_3_20161220221819298.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20161220221819298.jpg,86,58,189,171,faces_only\subset\21_0_3_20161220221819298.xml,faces_only\subset\indian\male\21_0_3_20161220221819298.jpg
+2075.jpg,,2075.jpg,1.0,0.0,4.0,2.0,1.0,False,0,2075.jpg,265,186,675,655,FaceMasks_JSON\annotations\2075.jpg.json,FaceMasks_JSON\images\2075.jpg
+25_0_3_20170104214613229.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104214613229.jpg,79,55,221,228,faces_only\subset\25_0_3_20170104214613229.xml,faces_only\subset\indian\male\25_0_3_20170104214613229.jpg
+21_0_3_20170117141619327.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170117141619327.jpg,110,159,265,357,faces_only\subset\21_0_3_20170117141619327.xml,faces_only\subset\indian\male\21_0_3_20170117141619327.jpg
+25_0_3_20170104220223342.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170104220223342.jpg,111,50,221,181,faces_only\subset\25_0_3_20170104220223342.xml,faces_only\subset\indian\male\25_0_3_20170104220223342.jpg
+25_0_3_20170105175316102.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,25_0_3_20170105175316102.jpg,43,34,163,162,faces_only\subset\25_0_3_20170105175316102.xml,faces_only\subset\indian\male\25_0_3_20170105175316102.jpg
+21_0_3_20170104214322765.jpg,,,1.0,0.0,4.0,0.0,1.0,False,custom labelled,21_0_3_20170104214322765.jpg,48,29,122,115,faces_only\subset\21_0_3_20170104214322765.xml,faces_only\subset\indian\male\21_0_3_20170104214322765.jpg
+21_0_3_20170119154042345.jpg,,,1.0,0.0,4.0,1.0,1.0,False,custom labelled,21_0_3_20170119154042345.jpg,217,32,310,121,faces_only\subset\21_0_3_20170119154042345.xml,faces_only\subset\indian\male\21_0_3_20170119154042345.jpg
+3968.png,,,1.0,1.0,0.0,0.0,0.0,False,,3968.png,830,103,989,305,FaceMasks_JSON\annotations\3968.png.json,FaceMasks_JSON\images\3968.png
+4512.png,,,1.0,1.0,0.0,0.0,0.0,False,,4512.png,50,1,310,370,FaceMasks_JSON\annotations\4512.png.json,FaceMasks_JSON\images\4512.png
+3069.png,,,1.0,1.0,0.0,0.0,0.0,False,,3069.png,59,145,346,561,FaceMasks_JSON\annotations\3069.png.json,FaceMasks_JSON\images\3069.png
+5207.jpg,,,1.0,1.0,0.0,0.0,0.0,False,,5207.jpg,623,37,838,219,FaceMasks_JSON\annotations\5207.jpg.json,FaceMasks_JSON\images\5207.jpg
+4734.png,,,1.0,1.0,0.0,0.0,0.0,False,,4734.png,154,32,422,388,FaceMasks_JSON\annotations\4734.png.json,FaceMasks_JSON\images\4734.png
+4820.png,,,1.0,1.0,0.0,0.0,0.0,False,,4820.png,179,35,275,182,FaceMasks_JSON\annotations\4820.png.json,FaceMasks_JSON\images\4820.png
+2251.png,,2251.png,1.0,1.0,0.0,0.0,0.0,False,0,2251.png,243,12,534,368,FaceMasks_JSON\annotations\2251.png.json,FaceMasks_JSON\images\2251.png
+4966.png,,4966.png,1.0,1.0,0.0,0.0,0.0,False,0,4966.png,253,8,549,427,FaceMasks_JSON\annotations\4966.png.json,FaceMasks_JSON\images\4966.png
+2282.png,,2282.png,1.0,1.0,0.0,0.0,0.0,False,0,2282.png,333,139,403,234,FaceMasks_JSON\annotations\2282.png.json,FaceMasks_JSON\images\2282.png
+3969.png,,,1.0,1.0,0.0,0.0,0.0,False,,3969.png,105,5,498,431,FaceMasks_JSON\annotations\3969.png.json,FaceMasks_JSON\images\3969.png
+4699.png,,,1.0,1.0,0.0,0.0,0.0,False,,4699.png,97,130,425,586,FaceMasks_JSON\annotations\4699.png.json,FaceMasks_JSON\images\4699.png
+4423.png,,,1.0,1.0,0.0,0.0,0.0,False,,4423.png,637,57,922,406,FaceMasks_JSON\annotations\4423.png.json,FaceMasks_JSON\images\4423.png
+4289.png,,4289.png,1.0,1.0,0.0,0.0,0.0,False,0,4289.png,107,41,471,506,FaceMasks_JSON\annotations\4289.png.json,FaceMasks_JSON\images\4289.png
+5152.jpg,,,1.0,1.0,0.0,0.0,0.0,False,,5152.jpg,401,60,702,454,FaceMasks_JSON\annotations\5152.jpg.json,FaceMasks_JSON\images\5152.jpg
+1926.jpg,,1926.jpg,1.0,1.0,0.0,0.0,0.0,False,0,1926.jpg,442,84,805,489,FaceMasks_JSON\annotations\1926.jpg.json,FaceMasks_JSON\images\1926.jpg
+3059.png,,3059.png,1.0,1.0,0.0,0.0,0.0,False,0,3059.png,121,4,510,445,FaceMasks_JSON\annotations\3059.png.json,FaceMasks_JSON\images\3059.png
+4812.png,,,1.0,1.0,0.0,0.0,0.0,False,,4812.png,362,61,449,168,FaceMasks_JSON\annotations\4812.png.json,FaceMasks_JSON\images\4812.png
+2523.png,,2523.png,1.0,1.0,0.0,0.0,0.0,False,0,2523.png,41,32,445,648,FaceMasks_JSON\annotations\2523.png.json,FaceMasks_JSON\images\2523.png
+4842.png,,,1.0,1.0,0.0,0.0,0.0,False,,4842.png,153,0,725,627,FaceMasks_JSON\annotations\4842.png.json,FaceMasks_JSON\images\4842.png
+3058.png,,,1.0,1.0,0.0,0.0,0.0,False,,3058.png,2,5,524,521,FaceMasks_JSON\annotations\3058.png.json,FaceMasks_JSON\images\3058.png
+2779.png,,,1.0,1.0,0.0,0.0,0.0,False,,2779.png,380,164,456,255,FaceMasks_JSON\annotations\2779.png.json,FaceMasks_JSON\images\2779.png
+4792.png,,,1.0,1.0,0.0,0.0,0.0,False,,4792.png,157,144,264,267,FaceMasks_JSON\annotations\4792.png.json,FaceMasks_JSON\images\4792.png
+3795.png,,,1.0,1.0,0.0,1.0,0.0,False,,3795.png,154,3,661,611,FaceMasks_JSON\annotations\3795.png.json,FaceMasks_JSON\images\3795.png
+4779.png,,4779.png,1.0,1.0,0.0,0.0,0.0,False,0,4779.png,200,90,254,169,FaceMasks_JSON\annotations\4779.png.json,FaceMasks_JSON\images\4779.png
+3694.png,,,1.0,1.0,0.0,0.0,1.0,False,,3694.png,116,286,429,677,FaceMasks_JSON\annotations\3694.png.json,FaceMasks_JSON\images\3694.png
+3931.png,,,1.0,1.0,0.0,0.0,1.0,False,,3931.png,266,193,320,258,FaceMasks_JSON\annotations\3931.png.json,FaceMasks_JSON\images\3931.png
+2108.jpg,,,1.0,1.0,0.0,0.0,1.0,False,,2108.jpg,467,298,681,586,FaceMasks_JSON\annotations\2108.jpg.json,FaceMasks_JSON\images\2108.jpg
+4972.png,,,1.0,1.0,0.0,0.0,1.0,False,,4972.png,41,48,288,368,FaceMasks_JSON\annotations\4972.png.json,FaceMasks_JSON\images\4972.png
+4936.png,,4936.png,1.0,1.0,0.0,0.0,1.0,False,changed hispanic,4936.png,379,14,474,153,FaceMasks_JSON\annotations\4936.png.json,FaceMasks_JSON\images\4936.png
+3499.png,,,1.0,1.0,0.0,0.0,1.0,False,,3499.png,108,3,402,295,FaceMasks_JSON\annotations\3499.png.json,FaceMasks_JSON\images\3499.png
+2504.png,,2504.png,1.0,1.0,0.0,1.0,1.0,False,0,2504.png,339,165,533,321,FaceMasks_JSON\annotations\2504.png.json,FaceMasks_JSON\images\2504.png
+3428.png,,,1.0,1.0,0.0,0.0,1.0,False,,3428.png,29,187,324,572,FaceMasks_JSON\annotations\3428.png.json,FaceMasks_JSON\images\3428.png
+3464.png,,,1.0,1.0,0.0,0.0,1.0,False,,3464.png,395,202,485,328,FaceMasks_JSON\annotations\3464.png.json,FaceMasks_JSON\images\3464.png
+2681.png,,2681.png,1.0,1.0,0.0,0.0,1.0,False,0,2681.png,265,50,357,184,FaceMasks_JSON\annotations\2681.png.json,FaceMasks_JSON\images\2681.png
+2160.png,,2160.png,1.0,1.0,0.0,0.0,1.0,False,0,2160.png,148,112,548,624,FaceMasks_JSON\annotations\2160.png.json,FaceMasks_JSON\images\2160.png
+3370.png,,3370.png,1.0,1.0,0.0,1.0,1.0,False,0,3370.png,244,113,340,251,FaceMasks_JSON\annotations\3370.png.json,FaceMasks_JSON\images\3370.png
+1864.jpg,,1864.jpg,1.0,1.0,0.0,0.0,1.0,False,0,1864.jpg,1112,1442,2550,3458,FaceMasks_JSON\annotations\1864.jpg.json,FaceMasks_JSON\images\1864.jpg
+3615.png,,,1.0,1.0,0.0,0.0,1.0,False,,3615.png,113,29,391,483,FaceMasks_JSON\annotations\3615.png.json,FaceMasks_JSON\images\3615.png
+2608.png,,2608.png,1.0,1.0,0.0,0.0,1.0,False,0,2608.png,528,177,684,372,FaceMasks_JSON\annotations\2608.png.json,FaceMasks_JSON\images\2608.png
+4124.png,,,1.0,1.0,0.0,0.0,1.0,False,,4124.png,109,71,429,454,FaceMasks_JSON\annotations\4124.png.json,FaceMasks_JSON\images\4124.png
+3500.png,,,1.0,1.0,0.0,0.0,1.0,False,,3500.png,224,3,401,218,FaceMasks_JSON\annotations\3500.png.json,FaceMasks_JSON\images\3500.png
+5067.jpg,,5067.jpg,1.0,1.0,0.0,0.0,1.0,False,0,5067.jpg,62,74,439,529,FaceMasks_JSON\annotations\5067.jpg.json,FaceMasks_JSON\images\5067.jpg
+3857.png,,,1.0,1.0,0.0,0.0,1.0,False,,3857.png,273,5,392,170,FaceMasks_JSON\annotations\3857.png.json,FaceMasks_JSON\images\3857.png
+2790.png,,2790.png,1.0,1.0,0.0,0.0,1.0,False,0,2790.png,404,101,672,423,FaceMasks_JSON\annotations\2790.png.json,FaceMasks_JSON\images\2790.png
+4740.png,,,1.0,1.0,0.0,0.0,1.0,False,,4740.png,275,32,381,158,FaceMasks_JSON\annotations\4740.png.json,FaceMasks_JSON\images\4740.png
+2654.png,,2654.png,1.0,1.0,0.0,0.0,1.0,False,0,2654.png,151,3,390,241,FaceMasks_JSON\annotations\2654.png.json,FaceMasks_JSON\images\2654.png
+2472.png,,,1.0,1.0,0.0,0.0,1.0,False,,2472.png,100,54,370,471,FaceMasks_JSON\annotations\2472.png.json,FaceMasks_JSON\images\2472.png
+2315.png,,2315.png,1.0,1.0,0.0,0.0,1.0,False,0,2315.png,154,75,583,610,FaceMasks_JSON\annotations\2315.png.json,FaceMasks_JSON\images\2315.png
+2890.png,,2890.png,1.0,1.0,2.0,1.0,0.0,False,0,2890.png,16,88,157,264,FaceMasks_JSON\annotations\2890.png.json,FaceMasks_JSON\images\2890.png
+3444.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3444.png,88,23,376,365,FaceMasks_JSON\annotations\3444.png.json,FaceMasks_JSON\images\3444.png
+4031.png,,4031.png,1.0,1.0,2.0,2.0,0.0,False,0,4031.png,47,3,356,365,FaceMasks_JSON\annotations\4031.png.json,FaceMasks_JSON\images\4031.png
+3783.png,,3783.png,1.0,1.0,2.0,1.0,0.0,False,0,3783.png,241,200,318,294,FaceMasks_JSON\annotations\3783.png.json,FaceMasks_JSON\images\3783.png
+4310.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,4310.png,46,8,420,381,FaceMasks_JSON\annotations\4310.png.json,FaceMasks_JSON\images\4310.png
+3218.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3218.png,172,1,495,414,FaceMasks_JSON\annotations\3218.png.json,FaceMasks_JSON\images\3218.png
+2800.png,,2800.png,1.0,1.0,2.0,2.0,0.0,False,0,2800.png,165,12,254,98,FaceMasks_JSON\annotations\2800.png.json,FaceMasks_JSON\images\2800.png
+6417.png,,,1.0,1.0,2.0,2.0,0.0,False,,6417.png,294,350,613,632,FaceMasks_JSON\annotations\6417.png.json,FaceMasks_JSON\images\6417.png
+2991.png,,2991.png,1.0,1.0,2.0,2.0,0.0,False,0,2991.png,233,98,374,281,FaceMasks_JSON\annotations\2991.png.json,FaceMasks_JSON\images\2991.png
+6419.png,,,1.0,1.0,2.0,2.0,0.0,False,,6419.png,154,57,421,418,FaceMasks_JSON\annotations\6419.png.json,FaceMasks_JSON\images\6419.png
+2320.png,,2320.png,1.0,1.0,2.0,1.0,0.0,False,0,2320.png,180,154,273,264,FaceMasks_JSON\annotations\2320.png.json,FaceMasks_JSON\images\2320.png
+3401.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3401.png,195,6,681,499,FaceMasks_JSON\annotations\3401.png.json,FaceMasks_JSON\images\3401.png
+5514.jpg,,,1.0,1.0,2.0,2.0,0.0,False,people in the background,5514.jpg,1018,436,1440,760,FaceMasks_JSON\annotations\5514.jpg.json,FaceMasks_JSON\images\5514.jpg
+2983.png,,2983.png,1.0,1.0,2.0,1.0,0.0,False,0,2983.png,226,3,698,484,FaceMasks_JSON\annotations\2983.png.json,FaceMasks_JSON\images\2983.png
+3900.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3900.png,151,64,303,264,FaceMasks_JSON\annotations\3900.png.json,FaceMasks_JSON\images\3900.png
+2962.png,,2962.png,1.0,1.0,2.0,1.0,0.0,False,0,2962.png,339,5,459,116,FaceMasks_JSON\annotations\2962.png.json,FaceMasks_JSON\images\2962.png
+3502.png,,3502.png,1.0,1.0,2.0,2.0,0.0,False,0,3502.png,319,127,396,233,FaceMasks_JSON\annotations\3502.png.json,FaceMasks_JSON\images\3502.png
+2638.png,,2638.png,1.0,1.0,2.0,1.0,0.0,False,0,2638.png,113,138,422,619,FaceMasks_JSON\annotations\2638.png.json,FaceMasks_JSON\images\2638.png
+3668.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,3668.png,150,3,510,481,FaceMasks_JSON\annotations\3668.png.json,FaceMasks_JSON\images\3668.png
+2912.png,,,1.0,1.0,2.0,2.0,0.0,False,debiased,2912.png,22,7,563,423,FaceMasks_JSON\annotations\2912.png.json,FaceMasks_JSON\images\2912.png
+4419.png,,4419.png,1.0,1.0,2.0,0.0,0.0,False,0,4419.png,82,8,467,425,FaceMasks_JSON\annotations\4419.png.json,FaceMasks_JSON\images\4419.png
+5119.png,,5119.png,1.0,1.0,2.0,1.0,0.0,False,0,5119.png,81,7,322,319,FaceMasks_JSON\annotations\5119.png.json,FaceMasks_JSON\images\5119.png
+2204.png,,2204.png,1.0,1.0,2.0,1.0,0.0,False,changed hispanic,2204.png,231,16,323,129,FaceMasks_JSON\annotations\2204.png.json,FaceMasks_JSON\images\2204.png
+3750.png,,3750.png,1.0,1.0,2.0,2.0,0.0,False,0,3750.png,94,4,535,543,FaceMasks_JSON\annotations\3750.png.json,FaceMasks_JSON\images\3750.png
+4067.png,,,1.0,1.0,2.0,1.0,1.0,False,,4067.png,155,31,301,170,FaceMasks_JSON\annotations\4067.png.json,FaceMasks_JSON\images\4067.png
+3821.png,,,1.0,1.0,2.0,2.0,1.0,False,,3821.png,343,109,479,238,FaceMasks_JSON\annotations\3821.png.json,FaceMasks_JSON\images\3821.png
+1861.jpg,,,1.0,1.0,2.0,2.0,1.0,False,debiased,1861.jpg,518,116,938,632,FaceMasks_JSON\annotations\1861.jpg.json,FaceMasks_JSON\images\1861.jpg
+2032.jpg,,,1.0,1.0,2.0,2.0,1.0,False,debiased,2032.jpg,432,99,652,357,FaceMasks_JSON\annotations\2032.jpg.json,FaceMasks_JSON\images\2032.jpg
+4452.png,,,1.0,1.0,2.0,2.0,1.0,False,,4452.png,208,23,307,164,FaceMasks_JSON\annotations\4452.png.json,FaceMasks_JSON\images\4452.png
+2864.png,,2864.png,1.0,1.0,2.0,2.0,1.0,False,0,2864.png,260,5,424,173,FaceMasks_JSON\annotations\2864.png.json,FaceMasks_JSON\images\2864.png
+4208.png,,4208.png,1.0,1.0,2.0,2.0,1.0,False,0,4208.png,318,9,367,64,FaceMasks_JSON\annotations\4208.png.json,FaceMasks_JSON\images\4208.png
+4241.png,,,1.0,1.0,2.0,2.0,1.0,False,,4241.png,128,136,220,258,FaceMasks_JSON\annotations\4241.png.json,FaceMasks_JSON\images\4241.png
+4170.png,,,1.0,1.0,2.0,2.0,1.0,False,,4170.png,349,5,487,142,FaceMasks_JSON\annotations\4170.png.json,FaceMasks_JSON\images\4170.png
+5397.jpg,,5397.jpg,1.0,1.0,2.0,2.0,1.0,False,0,5397.jpg,639,105,1358,650,FaceMasks_JSON\annotations\5397.jpg.json,FaceMasks_JSON\images\5397.jpg
+4444.png,,4444.png,1.0,1.0,2.0,1.0,1.0,False,0,4444.png,269,142,369,274,FaceMasks_JSON\annotations\4444.png.json,FaceMasks_JSON\images\4444.png
+5594.jpg,,5594.jpg,1.0,1.0,2.0,2.0,1.0,False,0,5594.jpg,729,49,1480,1178,FaceMasks_JSON\annotations\5594.jpg.json,FaceMasks_JSON\images\5594.jpg
+4448.png,,,1.0,1.0,2.0,2.0,1.0,False,,4448.png,311,24,414,170,FaceMasks_JSON\annotations\4448.png.json,FaceMasks_JSON\images\4448.png
+4206.png,,,1.0,1.0,2.0,2.0,1.0,False,,4206.png,316,3,471,136,FaceMasks_JSON\annotations\4206.png.json,FaceMasks_JSON\images\4206.png
+1823.jpg,,1823.jpg,1.0,1.0,2.0,2.0,1.0,False,0,1823.jpg,386,76,545,285,FaceMasks_JSON\annotations\1823.jpg.json,FaceMasks_JSON\images\1823.jpg
+4981.png,,,1.0,1.0,2.0,1.0,1.0,False,,4981.png,267,158,412,372,FaceMasks_JSON\annotations\4981.png.json,FaceMasks_JSON\images\4981.png
+3886.png,,,1.0,1.0,2.0,2.0,1.0,False,,3886.png,115,4,595,596,FaceMasks_JSON\annotations\3886.png.json,FaceMasks_JSON\images\3886.png
+6434.jpg,,,1.0,1.0,2.0,1.0,1.0,False,,6434.jpg,343,448,756,774,FaceMasks_JSON\annotations\6434.jpg.json,FaceMasks_JSON\images\6434.jpg
+4687.png,,,1.0,1.0,2.0,2.0,1.0,False,,4687.png,52,58,378,568,FaceMasks_JSON\annotations\4687.png.json,FaceMasks_JSON\images\4687.png
+3984.png,,3984.png,1.0,1.0,2.0,1.0,1.0,False,0,3984.png,354,74,470,201,FaceMasks_JSON\annotations\3984.png.json,FaceMasks_JSON\images\3984.png
+3909.png,,,1.0,1.0,2.0,1.0,1.0,False,,3909.png,290,87,462,265,FaceMasks_JSON\annotations\3909.png.json,FaceMasks_JSON\images\3909.png
+3782.png,,,1.0,1.0,2.0,2.0,1.0,False,,3782.png,431,15,573,192,FaceMasks_JSON\annotations\3782.png.json,FaceMasks_JSON\images\3782.png
+6414.png,,6414.png,1.0,1.0,2.0,2.0,1.0,False,0,6414.png,104,354,544,665,FaceMasks_JSON\annotations\6414.png.json,FaceMasks_JSON\images\6414.png
+3891.png,,,1.0,1.0,2.0,2.0,1.0,False,,3891.png,237,101,299,169,FaceMasks_JSON\annotations\3891.png.json,FaceMasks_JSON\images\3891.png
+2618.png,,2618.png,1.0,1.0,3.0,0.0,0.0,False,0,2618.png,348,3,518,223,FaceMasks_JSON\annotations\2618.png.json,FaceMasks_JSON\images\2618.png
+4036.png,,4036.png,1.0,1.0,3.0,0.0,0.0,False,0,4036.png,112,6,451,354,FaceMasks_JSON\annotations\4036.png.json,FaceMasks_JSON\images\4036.png
+5550.jpg,,,1.0,1.0,3.0,1.0,0.0,False,,5550.jpg,1227,937,1850,1406,FaceMasks_JSON\annotations\5550.jpg.json,FaceMasks_JSON\images\5550.jpg
+4019.png,,4019.png,1.0,1.0,3.0,0.0,0.0,False,0,4019.png,207,123,296,242,FaceMasks_JSON\annotations\4019.png.json,FaceMasks_JSON\images\4019.png
+3535.png,,3535.png,1.0,1.0,3.0,0.0,0.0,False,0,3535.png,12,0,415,427,FaceMasks_JSON\annotations\3535.png.json,FaceMasks_JSON\images\3535.png
+2324.png,,2324.png,1.0,1.0,3.0,0.0,0.0,False,0,2324.png,267,10,500,333,FaceMasks_JSON\annotations\2324.png.json,FaceMasks_JSON\images\2324.png
+3269.png,,,1.0,1.0,3.0,1.0,0.0,False,,3269.png,173,0,395,249,FaceMasks_JSON\annotations\3269.png.json,FaceMasks_JSON\images\3269.png
+4607.png,,4607.png,1.0,1.0,3.0,0.0,0.0,False,0,4607.png,408,186,682,585,FaceMasks_JSON\annotations\4607.png.json,FaceMasks_JSON\images\4607.png
+1959.jpg,,1959.jpg,1.0,1.0,3.0,0.0,0.0,False,0,1959.jpg,313,206,955,958,FaceMasks_JSON\annotations\1959.jpg.json,FaceMasks_JSON\images\1959.jpg
+3544.png,,,1.0,1.0,3.0,0.0,0.0,False,,3544.png,132,65,390,366,FaceMasks_JSON\annotations\3544.png.json,FaceMasks_JSON\images\3544.png
+2716.png,,2716.png,1.0,1.0,3.0,0.0,0.0,False,0,2716.png,129,47,276,262,FaceMasks_JSON\annotations\2716.png.json,FaceMasks_JSON\images\2716.png
+4123.png,,,1.0,1.0,3.0,0.0,0.0,False,,4123.png,322,2,731,443,FaceMasks_JSON\annotations\4123.png.json,FaceMasks_JSON\images\4123.png
+4559.png,,4559.png,1.0,1.0,3.0,1.0,0.0,False,0,4559.png,163,8,658,428,FaceMasks_JSON\annotations\4559.png.json,FaceMasks_JSON\images\4559.png
+3333.png,,,1.0,1.0,3.0,0.0,0.0,False,,3333.png,100,64,404,490,FaceMasks_JSON\annotations\3333.png.json,FaceMasks_JSON\images\3333.png
+4415.png,,4415.png,1.0,1.0,3.0,0.0,0.0,False,0,4415.png,131,8,382,297,FaceMasks_JSON\annotations\4415.png.json,FaceMasks_JSON\images\4415.png
+4254.png,,,1.0,1.0,3.0,0.0,0.0,False,,4254.png,267,30,521,408,FaceMasks_JSON\annotations\4254.png.json,FaceMasks_JSON\images\4254.png
+4563.png,,,1.0,1.0,3.0,0.0,0.0,False,,4563.png,144,7,429,374,FaceMasks_JSON\annotations\4563.png.json,FaceMasks_JSON\images\4563.png
+2894.png,,2894.png,1.0,1.0,3.0,1.0,0.0,False,uncertain,2894.png,13,7,922,661,FaceMasks_JSON\annotations\2894.png.json,FaceMasks_JSON\images\2894.png
+4446.png,,,1.0,1.0,3.0,1.0,0.0,False,,4446.png,395,205,483,299,FaceMasks_JSON\annotations\4446.png.json,FaceMasks_JSON\images\4446.png
+3748.png,,3748.png,1.0,1.0,3.0,0.0,0.0,False,0,3748.png,239,28,624,551,FaceMasks_JSON\annotations\3748.png.json,FaceMasks_JSON\images\3748.png
+2110.jpg,,2110.jpg,1.0,1.0,3.0,0.0,0.0,False,0,2110.jpg,235,14,786,782,FaceMasks_JSON\annotations\2110.jpg.json,FaceMasks_JSON\images\2110.jpg
+2992.png,,,1.0,1.0,3.0,0.0,0.0,False,,2992.png,325,122,526,388,FaceMasks_JSON\annotations\2992.png.json,FaceMasks_JSON\images\2992.png
+5057.jpg,,,1.0,1.0,3.0,1.0,0.0,False,,5057.jpg,904,94,1532,823,FaceMasks_JSON\annotations\5057.jpg.json,FaceMasks_JSON\images\5057.jpg
+1996.jpg,,1996.jpg,1.0,1.0,3.0,0.0,0.0,False,0,1996.jpg,777,764,1772,1776,FaceMasks_JSON\annotations\1996.jpg.json,FaceMasks_JSON\images\1996.jpg
+4267.png,,,1.0,1.0,3.0,1.0,1.0,False,,4267.png,414,46,487,137,FaceMasks_JSON\annotations\4267.png.json,FaceMasks_JSON\images\4267.png
+4623.png,,,1.0,1.0,3.0,0.0,1.0,False,,4623.png,129,0,345,243,FaceMasks_JSON\annotations\4623.png.json,FaceMasks_JSON\images\4623.png
+3302.png,,,1.0,1.0,3.0,0.0,1.0,False,,3302.png,246,49,433,308,FaceMasks_JSON\annotations\3302.png.json,FaceMasks_JSON\images\3302.png
+4317.png,,4317.png,1.0,1.0,3.0,0.0,1.0,False,0,4317.png,65,10,350,317,FaceMasks_JSON\annotations\4317.png.json,FaceMasks_JSON\images\4317.png
+4713.png,,4713.png,1.0,1.0,3.0,0.0,1.0,False,0,4713.png,497,239,574,326,FaceMasks_JSON\annotations\4713.png.json,FaceMasks_JSON\images\4713.png
+1882.jpg,,1882.jpg,1.0,1.0,3.0,0.0,1.0,False,0,1882.jpg,103,89,359,373,FaceMasks_JSON\annotations\1882.jpg.json,FaceMasks_JSON\images\1882.jpg
+2189.png,,2189.png,1.0,1.0,3.0,0.0,1.0,False,0,2189.png,218,81,351,244,FaceMasks_JSON\annotations\2189.png.json,FaceMasks_JSON\images\2189.png
+3927.png,,,1.0,1.0,3.0,1.0,1.0,False,,3927.png,108,202,478,766,FaceMasks_JSON\annotations\3927.png.json,FaceMasks_JSON\images\3927.png
+4283.png,,,1.0,1.0,3.0,0.0,1.0,False,,4283.png,70,7,423,427,FaceMasks_JSON\annotations\4283.png.json,FaceMasks_JSON\images\4283.png
+3175.png,,,1.0,1.0,3.0,1.0,1.0,False,,3175.png,119,0,510,437,FaceMasks_JSON\annotations\3175.png.json,FaceMasks_JSON\images\3175.png
+2557.png,,2557.png,1.0,1.0,3.0,0.0,1.0,False,0,2557.png,87,34,538,447,FaceMasks_JSON\annotations\2557.png.json,FaceMasks_JSON\images\2557.png
+2227.png,,2227.png,1.0,1.0,3.0,1.0,1.0,False,0,2227.png,364,111,498,279,FaceMasks_JSON\annotations\2227.png.json,FaceMasks_JSON\images\2227.png
+2642.png,,2642.png,1.0,1.0,3.0,0.0,1.0,False,0,2642.png,191,13,429,328,FaceMasks_JSON\annotations\2642.png.json,FaceMasks_JSON\images\2642.png
+5260.jpg,,,1.0,1.0,3.0,1.0,1.0,False,,5260.jpg,282,167,582,411,FaceMasks_JSON\annotations\5260.jpg.json,FaceMasks_JSON\images\5260.jpg
+3327.png,,3327.png,1.0,1.0,3.0,0.0,1.0,False,0,3327.png,620,29,810,268,FaceMasks_JSON\annotations\3327.png.json,FaceMasks_JSON\images\3327.png
+2177.png,,2177.png,1.0,1.0,3.0,0.0,1.0,False,0,2177.png,387,130,525,321,FaceMasks_JSON\annotations\2177.png.json,FaceMasks_JSON\images\2177.png
+3496.png,,,1.0,1.0,3.0,0.0,1.0,False,,3496.png,209,79,428,352,FaceMasks_JSON\annotations\3496.png.json,FaceMasks_JSON\images\3496.png
+3263.png,,,1.0,1.0,3.0,0.0,1.0,False,,3263.png,91,45,375,372,FaceMasks_JSON\annotations\3263.png.json,FaceMasks_JSON\images\3263.png
+2175.png,,2175.png,1.0,1.0,3.0,0.0,1.0,False,0,2175.png,255,17,601,485,FaceMasks_JSON\annotations\2175.png.json,FaceMasks_JSON\images\2175.png
+3741.png,,,1.0,1.0,3.0,1.0,1.0,False,,3741.png,57,58,181,182,FaceMasks_JSON\annotations\3741.png.json,FaceMasks_JSON\images\3741.png
+4527.png,,,1.0,1.0,3.0,0.0,1.0,False,,4527.png,49,39,398,502,FaceMasks_JSON\annotations\4527.png.json,FaceMasks_JSON\images\4527.png
+3342.png,,3342.png,1.0,1.0,3.0,0.0,1.0,False,0,3342.png,78,5,528,606,FaceMasks_JSON\annotations\3342.png.json,FaceMasks_JSON\images\3342.png
+2900.png,,2900.png,1.0,1.0,3.0,0.0,1.0,False,0,2900.png,359,5,579,247,FaceMasks_JSON\annotations\2900.png.json,FaceMasks_JSON\images\2900.png
+5041.jpeg,,5041.jpeg,1.0,1.0,3.0,0.0,1.0,False,0,5041.jpeg,482,0,718,323,FaceMasks_JSON\annotations\5041.jpeg.json,FaceMasks_JSON\images\5041.jpeg
+3677.png,,,1.0,1.0,4.0,1.0,0.0,False,,3677.png,185,24,566,574,FaceMasks_JSON\annotations\3677.png.json,FaceMasks_JSON\images\3677.png
+2719.png,,2719.png,1.0,1.0,4.0,1.0,0.0,False,0,2719.png,404,47,835,637,FaceMasks_JSON\annotations\2719.png.json,FaceMasks_JSON\images\2719.png
+2768.png,,2768.png,1.0,1.0,4.0,1.0,0.0,False,uncertain,2768.png,33,73,502,669,FaceMasks_JSON\annotations\2768.png.json,FaceMasks_JSON\images\2768.png
+2906.png,,2906.png,1.0,1.0,4.0,2.0,0.0,False,0,2906.png,356,50,606,275,FaceMasks_JSON\annotations\2906.png.json,FaceMasks_JSON\images\2906.png
+2309.png,,2309.png,1.0,1.0,4.0,1.0,0.0,False,uncertain,2309.png,239,9,512,318,FaceMasks_JSON\annotations\2309.png.json,FaceMasks_JSON\images\2309.png
+5344.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5344.jpg,498,38,812,500,FaceMasks_JSON\annotations\5344.jpg.json,FaceMasks_JSON\images\5344.jpg
+4343.png,,,1.0,1.0,4.0,1.0,0.0,False,,4343.png,68,30,520,670,FaceMasks_JSON\annotations\4343.png.json,FaceMasks_JSON\images\4343.png
+2131.jpg,,,1.0,1.0,4.0,0.0,0.0,False,,2131.jpg,118,66,232,187,FaceMasks_JSON\annotations\2131.jpg.json,FaceMasks_JSON\images\2131.jpg
+4615.png,,4615.png,1.0,1.0,4.0,1.0,0.0,False,0,4615.png,154,178,432,544,FaceMasks_JSON\annotations\4615.png.json,FaceMasks_JSON\images\4615.png
+2236.png,,2236.png,1.0,1.0,4.0,0.0,0.0,False,uncertain,2236.png,165,3,620,536,FaceMasks_JSON\annotations\2236.png.json,FaceMasks_JSON\images\2236.png
+2337.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,2337.png,51,7,743,661,FaceMasks_JSON\annotations\2337.png.json,FaceMasks_JSON\images\2337.png
+5441.jpg,,5441.jpg,1.0,1.0,4.0,1.0,0.0,False,0,5441.jpg,300,177,693,617,FaceMasks_JSON\annotations\5441.jpg.json,FaceMasks_JSON\images\5441.jpg
+3485.png,,,1.0,1.0,4.0,1.0,0.0,False,,3485.png,126,51,426,486,FaceMasks_JSON\annotations\3485.png.json,FaceMasks_JSON\images\3485.png
+2265.png,,,1.0,1.0,4.0,1.0,0.0,False,,2265.png,144,6,604,599,FaceMasks_JSON\annotations\2265.png.json,FaceMasks_JSON\images\2265.png
+3705.png,,,1.0,1.0,4.0,1.0,0.0,False,,3705.png,11,2,457,578,FaceMasks_JSON\annotations\3705.png.json,FaceMasks_JSON\images\3705.png
+3521.png,,3521.png,1.0,1.0,4.0,2.0,0.0,False,uncertain,3521.png,5,130,194,392,FaceMasks_JSON\annotations\3521.png.json,FaceMasks_JSON\images\3521.png
+4605.png,,4605.png,1.0,1.0,4.0,1.0,0.0,False,uncertain,4605.png,414,28,548,221,FaceMasks_JSON\annotations\4605.png.json,FaceMasks_JSON\images\4605.png
+5089.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5089.jpg,385,0,492,155,FaceMasks_JSON\annotations\5089.jpg.json,FaceMasks_JSON\images\5089.jpg
+4598.png,,4598.png,1.0,1.0,4.0,2.0,0.0,False,changed hispanic + color,4598.png,82,213,385,654,FaceMasks_JSON\annotations\4598.png.json,FaceMasks_JSON\images\4598.png
+3155.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,3155.png,174,77,487,547,FaceMasks_JSON\annotations\3155.png.json,FaceMasks_JSON\images\3155.png
+2168.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,2168.png,321,114,535,385,FaceMasks_JSON\annotations\2168.png.json,FaceMasks_JSON\images\2168.png
+3298.png,,,1.0,1.0,4.0,1.0,0.0,False,debiased,3298.png,45,6,477,495,FaceMasks_JSON\annotations\3298.png.json,FaceMasks_JSON\images\3298.png
+5264.jpg,,,1.0,1.0,4.0,1.0,0.0,False,,5264.jpg,1699,619,1804,701,FaceMasks_JSON\annotations\5264.jpg.json,FaceMasks_JSON\images\5264.jpg
+3260.png,,,1.0,1.0,4.0,1.0,0.0,False,,3260.png,339,14,436,147,FaceMasks_JSON\annotations\3260.png.json,FaceMasks_JSON\images\3260.png
+2375.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,2375.png,281,71,592,529,FaceMasks_JSON\annotations\2375.png.json,FaceMasks_JSON\images\2375.png
+5091.jpg,,,1.0,1.0,4.0,1.0,1.0,False,,5091.jpg,578,21,768,261,FaceMasks_JSON\annotations\5091.jpg.json,FaceMasks_JSON\images\5091.jpg
+3734.png,,,1.0,1.0,4.0,2.0,1.0,False,,3734.png,70,47,143,131,FaceMasks_JSON\annotations\3734.png.json,FaceMasks_JSON\images\3734.png
+4760.png,,,1.0,1.0,4.0,1.0,1.0,False,,4760.png,314,154,405,264,FaceMasks_JSON\annotations\4760.png.json,FaceMasks_JSON\images\4760.png
+2130.jpg,,2130.jpg,1.0,1.0,4.0,1.0,1.0,False,0,2130.jpg,358,45,588,338,FaceMasks_JSON\annotations\2130.jpg.json,FaceMasks_JSON\images\2130.jpg
+2989.png,,2989.png,1.0,1.0,4.0,1.0,1.0,False,0,2989.png,216,2,529,499,FaceMasks_JSON\annotations\2989.png.json,FaceMasks_JSON\images\2989.png
+5635.jpg,,,1.0,1.0,4.0,1.0,1.0,False,,5635.jpg,268,60,417,265,FaceMasks_JSON\annotations\5635.jpg.json,FaceMasks_JSON\images\5635.jpg
+3189.png,,3189.png,1.0,1.0,4.0,2.0,1.0,False,0,3189.png,316,11,398,123,FaceMasks_JSON\annotations\3189.png.json,FaceMasks_JSON\images\3189.png
+2459.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,2459.png,42,248,423,766,FaceMasks_JSON\annotations\2459.png.json,FaceMasks_JSON\images\2459.png
+2688.png,,2688.png,1.0,1.0,4.0,2.0,1.0,False,uncertain,2688.png,230,7,632,312,FaceMasks_JSON\annotations\2688.png.json,FaceMasks_JSON\images\2688.png
+1879.jpg,,,1.0,1.0,4.0,1.0,1.0,False,debiased,1879.jpg,591,1082,2363,3316,FaceMasks_JSON\annotations\1879.jpg.json,FaceMasks_JSON\images\1879.jpg
+2736.png,,2736.png,1.0,1.0,4.0,2.0,1.0,False,uncertain,2736.png,462,143,556,246,FaceMasks_JSON\annotations\2736.png.json,FaceMasks_JSON\images\2736.png
+3776.png,,3776.png,1.0,1.0,4.0,1.0,1.0,False,changed hispanic,3776.png,157,32,535,494,FaceMasks_JSON\annotations\3776.png.json,FaceMasks_JSON\images\3776.png
+3484.png,,,1.0,1.0,4.0,2.0,1.0,False,debiased,3484.png,204,3,481,375,FaceMasks_JSON\annotations\3484.png.json,FaceMasks_JSON\images\3484.png
+5004.jpg,,,1.0,1.0,4.0,0.0,1.0,False,,5004.jpg,1704,139,1957,469,FaceMasks_JSON\annotations\5004.jpg.json,FaceMasks_JSON\images\5004.jpg
+3701.png,,3701.png,1.0,1.0,4.0,1.0,1.0,False,uncertain,3701.png,255,18,369,157,FaceMasks_JSON\annotations\3701.png.json,FaceMasks_JSON\images\3701.png
+5165.jpg,,,1.0,1.0,4.0,1.0,1.0,False,,5165.jpg,444,38,567,222,FaceMasks_JSON\annotations\5165.jpg.json,FaceMasks_JSON\images\5165.jpg
+2975.png,,,1.0,1.0,4.0,1.0,1.0,False,debiased,2975.png,103,15,599,618,FaceMasks_JSON\annotations\2975.png.json,FaceMasks_JSON\images\2975.png
+2801.png,,,1.0,1.0,4.0,1.0,1.0,False,,2801.png,309,10,528,218,FaceMasks_JSON\annotations\2801.png.json,FaceMasks_JSON\images\2801.png
+4902.png,,,1.0,1.0,4.0,0.0,1.0,False,,4902.png,229,5,321,140,FaceMasks_JSON\annotations\4902.png.json,FaceMasks_JSON\images\4902.png
+3966.png,,,1.0,1.0,4.0,1.0,1.0,False,,3966.png,239,149,321,252,FaceMasks_JSON\annotations\3966.png.json,FaceMasks_JSON\images\3966.png
+3047.png,,,1.0,1.0,4.0,1.0,1.0,False,,3047.png,60,42,368,494,FaceMasks_JSON\annotations\3047.png.json,FaceMasks_JSON\images\3047.png
+6395.jpeg,,6395.jpeg,1.0,1.0,4.0,1.0,1.0,False,0,6395.jpeg,269,43,646,498,FaceMasks_JSON\annotations\6395.jpeg.json,FaceMasks_JSON\images\6395.jpeg
+4651.png,,,1.0,1.0,4.0,1.0,1.0,False,,4651.png,406,219,473,312,FaceMasks_JSON\annotations\4651.png.json,FaceMasks_JSON\images\4651.png

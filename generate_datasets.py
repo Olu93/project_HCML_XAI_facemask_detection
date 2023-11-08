@@ -103,34 +103,48 @@ pprint(all_bboxes[-5:])
 df_bbox = pd.DataFrame(all_bboxes).set_index('key', drop=False)
 df_bbox
 # %%
-full_dataset = dataset.join(df_bbox).join(file_locations)
-full_dataset
 # %%
-train_dataset, test_dataset = train_test_split(full_dataset, test_size=.2)
+full_dataset = dataset.join(df_bbox).join(file_locations)
+train_dataset, test_dataset = train_test_split(full_dataset, test_size=.5)
+full_dataset
+full_dataset.to_csv(('csv_datasets/full.csv'))
+# %%
 list_of_subsets = []
 all_groups = train_dataset.groupby(["Mask_on", "Race", "Sex"])
 min_val = all_groups.count().Person_num.min()
 print(f"Number of class minimally available: {min_val}")
 for category, grp in all_groups:
     list_of_subsets.append(grp.iloc[:min_val])
-debiased_dataset = pd.concat(list_of_subsets)
-biased_dataset = train_dataset[train_dataset.index.isin(dataset.index.difference(debiased_dataset.index))]
+debiased_train_dataset = pd.concat(list_of_subsets)
+biased_train_dataset = train_dataset[train_dataset.index.isin(dataset.index.difference(debiased_train_dataset.index))]
 # %%
-test_dataset
+list_of_subsets = []
+all_groups = test_dataset.groupby(["Mask_on", "Race", "Sex"])
+min_val = all_groups.count().Person_num.min()
+print(f"Number of class minimally available: {min_val}")
+for category, grp in all_groups:
+    list_of_subsets.append(grp.iloc[:min_val])
+debiased_test_dataset = pd.concat(list_of_subsets)
+biased_test_dataset = test_dataset[test_dataset.index.isin(dataset.index.difference(debiased_test_dataset.index))]
 # %%
-biased_dataset
+biased_train_dataset
 # %%
-debiased_dataset
-
+biased_test_dataset
+# %%
+debiased_train_dataset
+# %%
+debiased_test_dataset
 # %%
 data_root_dir = pathlib.Path('datasets')
 data_raw_info_dir = data_root_dir / 'raw_info'
-biased_dir = data_root_dir / 'data' / 'biased'
-balanced_dir = data_root_dir / 'data' / 'debiased'
-test_dir = data_root_dir / 'data' / 'test'
-biased_dataset.to_csv('csv_datasets/biased.csv')
-debiased_dataset.to_csv('csv_datasets/debiased.csv')
-test_dataset.to_csv('csv_datasets/test.csv')
+train_biased_dir = data_root_dir / 'data' / 'train_biased'
+train_debiased_dir = data_root_dir / 'data' / 'train_debiased'
+test_biased_dir = data_root_dir / 'data' / 'test_biased'
+test_debiased_dir = data_root_dir / 'data' / 'test_debiased'
+biased_train_dataset.to_csv('csv_datasets/train_biased.csv')
+debiased_train_dataset.to_csv('csv_datasets/train_debiased.csv')
+biased_test_dataset.to_csv('csv_datasets/test_biased.csv')
+debiased_test_dataset.to_csv('csv_datasets/test_debiased.csv')
 
 
 # %%
@@ -185,7 +199,7 @@ def generate_dataset(dataset: pd.DataFrame, target_dir: pathlib.Path, raw_info_d
             train_text_file.write(f"{(rel_base_path / filename).as_posix()}\n")
 
             annotation_file = io.open(anno_destination, 'w')
-            anno_destination.write_text(f"{label} {xcenter} {ycenter} {width} {height}")
+            anno_destination.write_text(f"{int(label)} {xcenter} {ycenter} {width} {height}")
             annotation_file.close()
 
     dataset.to_csv(target_dir.parent / (rel_base_path.name + '_dataset.csv'))
@@ -196,7 +210,7 @@ def generate_dataset(dataset: pd.DataFrame, target_dir: pathlib.Path, raw_info_d
         content = {
             "classes": dataset["Mask_on"].nunique(),
             "train": (rel_base_path.parent / f'train_{target_dir.name}.txt').as_posix(),
-            "valid": (rel_base_path.parent / 'train_test.txt').as_posix(),
+            "valid": (rel_base_path.parent / 'train_test_biased.txt').as_posix(),
             "names": (rel_base_path.parent / "obj.names").as_posix(),
             "backup": f"backup_{target_dir.name}/",
         }
@@ -206,7 +220,8 @@ def generate_dataset(dataset: pd.DataFrame, target_dir: pathlib.Path, raw_info_d
     # Update and save dataset
 
 
-generate_dataset(test_dataset.copy(), test_dir, data_raw_info_dir)
-generate_dataset(debiased_dataset.copy(), balanced_dir, data_raw_info_dir)
-generate_dataset(biased_dataset.copy(), biased_dir, data_raw_info_dir)
+generate_dataset(biased_train_dataset.copy(), train_biased_dir, data_raw_info_dir)
+generate_dataset(biased_test_dataset.copy(), test_biased_dir, data_raw_info_dir)
+generate_dataset(debiased_train_dataset.copy(), train_debiased_dir, data_raw_info_dir)
+generate_dataset(debiased_test_dataset.copy(), test_debiased_dir, data_raw_info_dir)
 # %%
